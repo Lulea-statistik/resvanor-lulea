@@ -180,6 +180,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,66,%,direct,Direkt jämförbar,Prioritera gång/cykeltrafik även om det innebär nackdel för biltrafiken.,RVU 2015
 2020,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,65,%,direct,Direkt jämförbar,Samma grundfråga; 2020 bör tolkas i pandemikontext.,RVU 2020
 2025,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,61,%,direct,Direkt jämförbar,Samma sakfråga och svarsalternativ som tidigare år.,RVU 2025
+2015,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Kvinnor,68,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015 sammanställning/avsnitt 6.1
+2015,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,62,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015 sammanställning/avsnitt 6.1
+2020,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Kvinnor,67,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 15
+2020,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,62,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 15
+2025,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Kvinnor,63,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 6
+2025,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,58,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 6
 2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Biltrafik,42,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
 2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Busstrafik,74,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
 2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Cykeltrafik,74,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
