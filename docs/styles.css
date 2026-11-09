@@ -10,3 +10,5 @@ main{padding:24px 0 40px}.controls{display:grid;grid-template-columns:2fr 1.4fr 
 .registry-controls{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0 14px}.registry-controls label{font-weight:650;font-size:.9rem}.registry-controls select{width:100%;margin-top:6px;min-height:44px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--text);padding:9px 11px;font:inherit}
 .class-pill{display:inline-block;min-width:28px;text-align:center;border-radius:999px;padding:3px 8px;font-size:.8rem;font-weight:800;margin-right:5px}.class-a{background:#e9f6ef;color:#155c37}.class-b{background:#e8f1fb;color:#1f5f91}.class-c{background:#fff1d6;color:#794700}.class-d{background:#fdeaea;color:#8a2f2f}
 @media(max-width:800px){.registry-controls{grid-template-columns:1fr}}
+
+#coverageSummary{margin-bottom:12px}.coverage-note{color:var(--muted);font-size:.9rem}
