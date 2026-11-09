@@ -80,36 +80,44 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2010,median_trip_length,Medianreslängd per resa,Totalt,4,km,reservation,Jämförbar med metodreservation,Rapporten anger median omkring 4 km; äldre geografi och respondentuppskattad reslängd.,RVU 2010 Figur 11.1
 2015,median_trip_length,Medianreslängd per resa,Totalt,6,km,reservation,Jämförbar med metodreservation,Publicerad totalmedian; respondentuppskattad reslängd.,RVU 2015 Figur 9:2
 2020,median_trip_length,Medianreslängd per resa,Totalt,4,km,reservation,Jämförbar med metodreservation,Publicerad totalmedian; respondentuppskattad reslängd. Covid-19 kan ha påverkat resandet.,RVU 2020 Graf 48
+2005,median_trip_length_sex,Medianreslängd efter kön,Kvinnor,3.5,km,reservation,Jämförbar med metodreservation,Publicerad median; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 s.30
+2005,median_trip_length_sex,Medianreslängd efter kön,Män,5.0,km,reservation,Jämförbar med metodreservation,Publicerad median; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 s.30
+2010,median_trip_length_sex,Medianreslängd efter kön,Kvinnor,3.0,km,reservation,Jämförbar med metodreservation,Publicerad median; äldre/snävare geografi. Rapporten exkluderar resor kortare än 200 meter i längdanalysen.,RVU 2010 s.64
+2010,median_trip_length_sex,Medianreslängd efter kön,Män,4.8,km,reservation,Jämförbar med metodreservation,Publicerad median; äldre/snävare geografi. Rapporten exkluderar resor kortare än 200 meter i längdanalysen.,RVU 2010 s.64
+2015,median_trip_length_sex,Medianreslängd efter kön,Kvinnor,5,km,reservation,Jämförbar med metodreservation,Publicerad median från respondentuppskattade reslängder.,RVU 2015 Figur 9:4
+2015,median_trip_length_sex,Medianreslängd efter kön,Män,6,km,reservation,Jämförbar med metodreservation,Publicerad median från respondentuppskattade reslängder.,RVU 2015 Figur 9:4
+2020,median_trip_length_sex,Medianreslängd efter kön,Kvinnor,4,km,reservation,Jämförbar med metodreservation,Publicerad median från respondentuppskattade reslängder; covid-19 kan ha påverkat resmönstret.,RVU 2020 sammanfattning/längdavsnitt
+2020,median_trip_length_sex,Medianreslängd efter kön,Män,5,km,reservation,Jämförbar med metodreservation,Publicerad median från respondentuppskattade reslängder; covid-19 kan ha påverkat resmönstret.,RVU 2020 sammanfattning/längdavsnitt
 2000,modal_share,Färdmedelsfördelning,Bil,63,%,reservation,Jämförbar med metodreservation,Historisk huvudfärdmedelsserie återpublicerad i RVU 2015/2020. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
 2000,modal_share,Färdmedelsfördelning,Cykel,18,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
 2000,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss i äldre undersökningar; grupperas som kollektivtrafik i harmoniserad serie. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
-2000,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
 2000,modal_share,Färdmedelsfördelning,Till fots,9,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
+2000,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
 2005,modal_share,Färdmedelsfördelning,Bil,65,%,reservation,Jämförbar med metodreservation,Bilförare och bilpassagerare summerade. Sekundärhistorik; primärkälla har en 1 procentenhets avvikelse för bilförare.,RVU 2005; RVU 2015; RVU 2020
 2005,modal_share,Färdmedelsfördelning,Cykel,13,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
 2005,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss i äldre undersökningar. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
-2005,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
 2005,modal_share,Färdmedelsfördelning,Till fots,12,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
+2005,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
 2010,modal_share,Färdmedelsfördelning,Bil,61,%,reservation,Jämförbar med metodreservation,Bilförare och bilpassagerare summerade. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
 2010,modal_share,Färdmedelsfördelning,Cykel,10,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
 2010,modal_share,Färdmedelsfördelning,Kollektivtrafik,11,%,reservation,Jämförbar med metodreservation,Buss i äldre undersökningar. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
-2010,modal_share,Färdmedelsfördelning,Övrigt,3,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
 2010,modal_share,Färdmedelsfördelning,Till fots,15,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
+2010,modal_share,Färdmedelsfördelning,Övrigt,3,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
 2015,modal_share,Färdmedelsfördelning,Bil,61,%,reservation,Jämförbar med metodreservation,Bilförare 51 % + bilpassagerare 10 %. Primärkälla verifierad.,RVU 2015; RVU 2020
 2015,modal_share,Färdmedelsfördelning,Cykel,14,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
 2015,modal_share,Färdmedelsfördelning,Kollektivtrafik,13,%,reservation,Jämförbar med metodreservation,Buss i rapporten. Primärkälla verifierad.,RVU 2015; RVU 2020
-2015,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
 2015,modal_share,Färdmedelsfördelning,Till fots,11,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
+2015,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
 2020,modal_share,Färdmedelsfördelning,Bil,66,%,reservation,Jämförbar med metodreservation,Bilförare 55 % + bilpassagerare 11 %. Covid-19 kan ha påverkat färdmedelsvalet.,RVU 2020
 2020,modal_share,Färdmedelsfördelning,Cykel,12,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Covid-19 kan ha påverkat nivån.,RVU 2020
 2020,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss. Covid-19 kan ha påverkat nivån.,RVU 2020
-2020,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel.,RVU 2020
 2020,modal_share,Färdmedelsfördelning,Till fots,12,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Covid-19 kan ha påverkat nivån.,RVU 2020
+2020,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel.,RVU 2020
 2025,modal_share,Färdmedelsfördelning,Bil,65,%,reservation,Jämförbar med metodreservation,2025 bygger på flervalsfråga som räknats om till huvudfärdmedel enligt prioritetsordning.,RVU 2025
 2025,modal_share,Färdmedelsfördelning,Cykel,12,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
 2025,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss/tåg grupperas som kollektivtrafik i publicerad jämförelsetabell.,RVU 2025
-2025,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
 2025,modal_share,Färdmedelsfördelning,Till fots,13,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
+2025,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
 2005,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,52,%,direct,Direkt jämförbar,Samma grundfråga: vilket trafikslag bör prioriteras när buss och bil står mot varandra.,RVU 2005; RVU 2010
 2010,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,64,%,direct,Direkt jämförbar,Samma grundfråga och svarsalternativ som 2005.,RVU 2010
 2015,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,61,%,direct,Direkt jämförbar,Prioritera busstrafik även om det innebär nackdel för biltrafiken.,RVU 2015
