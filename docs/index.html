@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Resvanor i Luleå 2000–2025</title>
+  <meta name="description" content="Harmoniserade indikatorer från Luleås resvaneundersökningar 2000–2025.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Luleå kommun · resvaneundersökningar</p>
+      <h1>Resvanor i Luleå 2000–2025</h1>
+      <p class="lead">Interaktiva, harmoniserade tidsserier med tydlig markering av metodreservationer.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Filter">
+      <label>Indikator
+        <select id="indicator"></select>
+      </label>
+      <label>Kategori
+        <select id="category"></select>
+      </label>
+      <label>Jämförbarhet
+        <select id="status">
+          <option value="all">Alla</option>
+          <option value="direct">Direkt jämförbar</option>
+          <option value="reservation">Jämförbar med metodreservation</option>
+        </select>
+      </label>
+      <button id="reset" type="button">Återställ filter</button>
+    </section>
+
+    <section class="notice" id="notice" role="status"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2 id="chartTitle">Tidsserie</h2>
+          <p id="chartSubtitle"></p>
+        </div>
+        <div class="legend-note">
+          <span class="dot direct"></span> Direkt jämförbar
+          <span class="dot reservation"></span> Metodreservation
+        </div>
+      </div>
+      <div id="chart" class="chart" aria-label="Interaktivt diagram"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Värden och metodstatus</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>År</th><th>Kategori</th><th>Värde</th><th>Status</th><th>Metodnot</th><th>Källa</th></tr></thead>
+          <tbody id="dataTable"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="method">
+      <h2>Så ska tidsserierna läsas</h2>
+      <p><strong>Direkt jämförbar</strong> används när definition och huvudupplägg bedöms tillräckligt lika. <strong>Jämförbar med metodreservation</strong> används när indikatorn fortfarande är analytiskt användbar men nämnare, frågeformulering, bearbetning eller undersökningssituation har förändrats.</p>
+      <p><strong>2020</strong> ska alltid tolkas med särskild försiktighet eftersom undersökningen genomfördes under covid-19-pandemin.</p>
+      <p>Databasen byggs stegvis. Saknade år visas inte som noll och uppskattas inte.</p>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Källor: Luleå kommuns resvaneundersökningar 2000–2025. Harmonisering och metodklassning redovisas i datafilen.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
