@@ -65,3 +65,8 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,25,%,direct,Direkt jämförbar,"Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.","RVU 2020"
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,54,%,direct,Direkt jämförbar,"Samma fråga och svarsskala som 2015 och 2020.","RVU 2025"
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,21,%,direct,Direkt jämförbar,"Samma fråga och svarsskala som 2015 och 2020.","RVU 2025"
+2005,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,50,%,reservation,Jämförbar med metodreservation,"33 % har alltid tillgång och 50 % aldrig; resterande 17 % tolkas som ibland. Harmoniserat till alltid eller ibland.","RVU 2005"
+2010,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,53,%,reservation,Jämförbar med metodreservation,"37 % har alltid tillgång och 47 % aldrig; resterande 16 % motsvarar ibland.","RVU 2010"
+2015,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,71,%,direct,Direkt jämförbar,"61 % ja + 10 % ja ibland.","RVU 2015; RVU 2020"
+2020,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,68,%,direct,Direkt jämförbar,"56 % ja + 12 % ja ibland.","RVU 2020"
+2025,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,57,%,direct,Direkt jämförbar,"41 % ja + 16 % ja ibland.","RVU 2025"
