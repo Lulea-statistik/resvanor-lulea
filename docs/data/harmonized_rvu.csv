@@ -169,6 +169,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,61,%,direct,Direkt jämförbar,Prioritera busstrafik även om det innebär nackdel för biltrafiken.,RVU 2015
 2020,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,56,%,direct,Direkt jämförbar,Samma formulering som 2015; 2020 bör tolkas i pandemikontext.,RVU 2020
 2025,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,54,%,direct,Direkt jämförbar,Samma sakfråga och svarsalternativ; mindre språklig justering ('kan innebära nackdelar').,RVU 2025
+2015,priority_bus_car_sex,Prioritera busstrafik framför biltrafik efter kön,Kvinnor,64,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015 avsnitt 6.1
+2015,priority_bus_car_sex,Prioritera busstrafik framför biltrafik efter kön,Män,58,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015 avsnitt 6.1
+2020,priority_bus_car_sex,Prioritera busstrafik framför biltrafik efter kön,Kvinnor,59,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; 2020 genomfördes under covid-19-pandemin.,RVU 2020 avsnitt 6.1
+2020,priority_bus_car_sex,Prioritera busstrafik framför biltrafik efter kön,Män,52,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; 2020 genomfördes under covid-19-pandemin.,RVU 2020 avsnitt 6.1
+2025,priority_bus_car_sex,Prioritera busstrafik framför biltrafik efter kön,Kvinnor,55,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 5
+2025,priority_bus_car_sex,Prioritera busstrafik framför biltrafik efter kön,Män,54,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 5
 2005,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,62,%,direct,Direkt jämförbar,Samma grundfråga: vilket trafikslag bör prioriteras när gång/cykel och bil står mot varandra.,RVU 2005; RVU 2010
 2010,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,68,%,direct,Direkt jämförbar,Samma grundfråga och svarsalternativ som 2005.,RVU 2010
 2015,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,66,%,direct,Direkt jämförbar,Prioritera gång/cykeltrafik även om det innebär nackdel för biltrafiken.,RVU 2015
