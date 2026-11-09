@@ -1,4 +1,5 @@
 let rows=[];
+let registry=[];
 const els={
   indicator:document.getElementById('indicator'),
   category:document.getElementById('category'),
@@ -7,7 +8,10 @@ const els={
   table:document.getElementById('dataTable'),
   title:document.getElementById('chartTitle'),
   subtitle:document.getElementById('chartSubtitle'),
-  notice:document.getElementById('notice')
+  notice:document.getElementById('notice'),
+  registryTheme:document.getElementById('registryTheme'),
+  registryClass:document.getElementById('registryClass'),
+  registryTable:document.getElementById('registryTable')
 };
 function parseCSV(text){
   const lines=text.trim().split(/\r?\n/); const headers=splitLine(lines.shift());
@@ -53,3 +57,28 @@ els.indicator.addEventListener('change',()=>{fillCategories();render()});
 els.category.addEventListener('change',render);els.status.addEventListener('change',render);
 els.reset.addEventListener('click',()=>{els.indicator.selectedIndex=0;els.status.value='all';fillCategories();render()});
 fetch('data/harmonized_rvu.csv').then(r=>{if(!r.ok)throw new Error('Kunde inte läsa datafilen');return r.text()}).then(t=>{rows=parseCSV(t);fillIndicators();fillCategories();render()}).catch(e=>{els.notice.textContent=e.message});
+
+function fillRegistryFilters(){
+  if(!registry.length)return;
+  const themes=uniq(registry.map(r=>r.theme));
+  els.registryTheme.innerHTML='<option value="all">Alla teman</option>'+themes.map(t=>`<option value="${t}">${t}</option>`).join('');
+}
+function renderRegistry(){
+  if(!registry.length)return;
+  const data=registry.filter(r=>els.registryTheme.value==='all'||r.theme===els.registryTheme.value)
+    .filter(r=>els.registryClass.value==='all'||r.class===els.registryClass.value);
+  els.registryTable.innerHTML=data.map(r=>`<tr>
+    <td>${r.theme}</td>
+    <td><strong>${r.harmonized_question}</strong></td>
+    <td>${r.years_present.replaceAll(';', ', ')}</td>
+    <td><span class="class-pill class-${r.class.toLowerCase()}">${r.class}</span> ${r.class_label}</td>
+    <td>${r.rationale}</td>
+    <td>${r.publish_status}</td>
+  </tr>`).join('');
+}
+els.registryTheme.addEventListener('change',renderRegistry);
+els.registryClass.addEventListener('change',renderRegistry);
+fetch('data/question_harmonization.csv')
+  .then(r=>{if(!r.ok)throw new Error('Kunde inte läsa frågeregistret');return r.text()})
+  .then(t=>{registry=parseCSV(t).map(r=>({...r,year:undefined,value:undefined}));fillRegistryFilters();renderRegistry()})
+  .catch(()=>{});

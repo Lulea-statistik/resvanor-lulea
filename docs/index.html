@@ -61,8 +61,38 @@
       </div>
     </section>
 
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Jämförbarhetsregister för återkommande frågor</h2>
+          <p>Frågor som är identiska, semantiskt likvärdiga eller möjliga att harmonisera över tid.</p>
+        </div>
+      </div>
+      <div class="registry-controls">
+        <label>Tema
+          <select id="registryTheme"><option value="all">Alla teman</option></select>
+        </label>
+        <label>Klass
+          <select id="registryClass">
+            <option value="all">Alla klasser</option>
+            <option value="A">A – Samma fråga och svarsskala</option>
+            <option value="B">B – Semantiskt samma</option>
+            <option value="C">C – Kräver omkodning/metodharmonisering</option>
+            <option value="D">D – Inte jämförbar</option>
+          </select>
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Tema</th><th>Harmoniserad fråga</th><th>År</th><th>Klass</th><th>Bedömning</th><th>Status</th></tr></thead>
+          <tbody id="registryTable"></tbody>
+        </table>
+      </div>
+    </section>
+
     <section class="method">
       <h2>Så ska tidsserierna läsas</h2>
+      <p><strong>A</strong> = samma fråga/svarsskala. <strong>B</strong> = språkligt ändrad men semantiskt samma. <strong>C</strong> = samma fenomen men kräver omkodning eller metodharmonisering. <strong>D</strong> = inte jämförbar.</p>
       <p><strong>Direkt jämförbar</strong> används när definition och huvudupplägg bedöms tillräckligt lika. <strong>Jämförbar med metodreservation</strong> används när indikatorn fortfarande är analytiskt användbar men nämnare, frågeformulering, bearbetning eller undersökningssituation har förändrats.</p>
       <p><strong>2020</strong> ska alltid tolkas med särskild försiktighet eftersom undersökningen genomfördes under covid-19-pandemin.</p>
       <p>Databasen byggs stegvis. Saknade år visas inte som noll och uppskattas inte.</p>
