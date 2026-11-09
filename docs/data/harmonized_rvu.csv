@@ -14,10 +14,16 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2015
 2020,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2020
 2025,car_access,Tillgång till bil,Alltid eller ibland,89,%,direct,Direkt jämförbar,81 % alltid + 8 % ibland.,RVU 2025
+2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,1 dag per vecka,2,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015 Figur 5:1
+2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,2–4 dagar per vecka,11,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015 Figur 5:1
 2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,63,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015; RVU 2020
 2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,20,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015; RVU 2020
+2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,1 dag per vecka,2,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 15
+2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,2–4 dagar per vecka,16,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 15
 2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,51,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.,RVU 2020
 2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,25,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.,RVU 2020
+2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,1 dag per vecka,6,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025 Graf 4
+2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,2–4 dagar per vecka,16,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025 Graf 4
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,54,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,21,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
 2005,driver_license,Körkort för personbil,Totalt,87,%,reservation,Jämförbar med metodreservation,Avser personer 18 år eller äldre.,RVU 2005
@@ -95,6 +101,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,trips_per_person,Resor per person och dag,Totalt,2.4,resor/person/dag,reservation,Jämförbar med metodreservation,Resebegrepp och bearbetning har förändrats jämfört med 2005/2010.,RVU 2015
 2020,trips_per_person,Resor per person och dag,Totalt,2.1,resor/person/dag,reservation,Jämförbar med metodreservation,Mätningen genomfördes under covid-19-pandemin.,RVU 2020; RVU 2025
 2025,trips_per_person,Resor per person och dag,Totalt,2.4,resor/person/dag,reservation,Jämförbar med metodreservation,Bearbetning av reskedjor inkluderar bl.a. isärdragning; jämför med försiktighet.,RVU 2025
+2015,trips_per_person_period,Resor per person och dag efter dagtyp,Helg,1.9,resor/person/dag,reservation,Jämförbar med metodreservation,Publicerat helgvärde; mindre metod-/åldersskillnader mot senare år.,RVU 2015 Figur 8:1
+2015,trips_per_person_period,Resor per person och dag efter dagtyp,Vardag,2.6,resor/person/dag,reservation,Jämförbar med metodreservation,Publicerat vardagsvärde; mindre metod-/åldersskillnader mot senare år.,RVU 2015 Figur 8:1
+2020,trips_per_person_period,Resor per person och dag efter dagtyp,Helg,1.7,resor/person/dag,reservation,Jämförbar med metodreservation,Publicerat helgvärde; covid-19-pandemin påverkade resandet.,RVU 2020
+2020,trips_per_person_period,Resor per person och dag efter dagtyp,Vardag,2.2,resor/person/dag,reservation,Jämförbar med metodreservation,Publicerat vardagsvärde; covid-19-pandemin påverkade resandet.,RVU 2020
+2025,trips_per_person_period,Resor per person och dag efter dagtyp,Helg,1.8,resor/person/dag,reservation,Jämförbar med metodreservation,Publicerat helgvärde; vuxenpopulation 16–85 år.,RVU 2025 Tabell 11
+2025,trips_per_person_period,Resor per person och dag efter dagtyp,Vardag,2.6,resor/person/dag,reservation,Jämförbar med metodreservation,Publicerat vardagsvärde; vuxenpopulation 16–85 år.,RVU 2025 Tabell 11
 2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,41,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015
 2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,22,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015
 2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,37,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015
