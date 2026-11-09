@@ -1,0 +1,55 @@
+let rows=[];
+const els={
+  indicator:document.getElementById('indicator'),
+  category:document.getElementById('category'),
+  status:document.getElementById('status'),
+  reset:document.getElementById('reset'),
+  table:document.getElementById('dataTable'),
+  title:document.getElementById('chartTitle'),
+  subtitle:document.getElementById('chartSubtitle'),
+  notice:document.getElementById('notice')
+};
+function parseCSV(text){
+  const lines=text.trim().split(/\r?\n/); const headers=splitLine(lines.shift());
+  return lines.map(line=>{const v=splitLine(line),o={};headers.forEach((h,i)=>o[h]=v[i]??'');o.year=+o.year;o.value=+o.value;return o});
+}
+function splitLine(line){
+  const out=[];let cur='',q=false;
+  for(let i=0;i<line.length;i++){const c=line[i];if(c==='"'){if(q&&line[i+1]==='"'){cur+='"';i++}else q=!q}else if(c===','&&!q){out.push(cur);cur=''}else cur+=c}out.push(cur);return out;
+}
+function uniq(a){return [...new Set(a)]}
+function fillIndicators(){
+  const labels=new Map(rows.map(r=>[r.indicator,r.indicator_label]));
+  els.indicator.innerHTML=[...labels].map(([v,l])=>`<option value="${v}">${l}</option>`).join('');
+}
+function fillCategories(){
+  const i=els.indicator.value;const cats=uniq(rows.filter(r=>r.indicator===i).map(r=>r.category));
+  els.category.innerHTML=(cats.length>1?'<option value="all">Alla kategorier</option>':'')+cats.map(c=>`<option value="${c}">${c}</option>`).join('');
+}
+function filtered(){
+  return rows.filter(r=>r.indicator===els.indicator.value)
+    .filter(r=>els.category.value==='all'||r.category===els.category.value)
+    .filter(r=>els.status.value==='all'||r.comparability===els.status.value);
+}
+function render(){
+  const data=filtered(); if(!data.length){Plotly.purge('chart');els.table.innerHTML='';els.notice.textContent='Inga datapunkter matchar filtren.';return}
+  els.title.textContent=data[0].indicator_label;
+  els.subtitle.textContent=`${data[0].unit} · ${Math.min(...data.map(r=>r.year))}–${Math.max(...data.map(r=>r.year))}`;
+  const cats=uniq(data.map(r=>r.category));
+  const traces=cats.map(cat=>{const d=data.filter(r=>r.category===cat).sort((a,b)=>a.year-b.year);return{
+    x:d.map(r=>r.year),y:d.map(r=>r.value),name:cat,mode:'lines+markers',type:'scatter',
+    marker:{size:10,symbol:d.map(r=>r.comparability==='reservation'?'diamond':'circle'),line:{width:1}},
+    customdata:d.map(r=>[r.status_label,r.method_note,r.source]),
+    hovertemplate:'<b>%{x}</b><br>%{y} '+data[0].unit+'<br>%{customdata[0]}<br>%{customdata[1]}<extra>%{fullData.name}</extra>'
+  }});
+  const shapes=rows.some(r=>r.indicator===els.indicator.value&&r.year===2020)?[{type:'line',x0:2020,x1:2020,y0:0,y1:1,yref:'paper',line:{dash:'dot',width:1}}]:[];
+  const annotations=shapes.length?[{x:2020,y:1,yref:'paper',text:'2020 · covid-19',showarrow:false,yanchor:'bottom',font:{size:11}}]:[];
+  Plotly.react('chart',traces,{margin:{l:60,r:25,t:35,b:55},hovermode:'closest',legend:{orientation:'h'},xaxis:{dtick:5,title:'År'},yaxis:{rangemode:'tozero',title:data[0].unit},shapes,annotations},{responsive:true,displaylogo:false});
+  els.table.innerHTML=data.sort((a,b)=>a.year-b.year||a.category.localeCompare(b.category)).map(r=>`<tr><td>${r.year}</td><td>${r.category}</td><td><strong>${r.value}</strong> ${r.unit}</td><td><span class="status-pill ${r.comparability}">${r.status_label}</span></td><td>${r.method_note}</td><td>${r.source}</td></tr>`).join('');
+  const hasReservation=data.some(r=>r.comparability==='reservation');
+  els.notice.textContent=hasReservation?'Serien innehåller datapunkter med metodreservation. Läs metodnoten i tabellen innan förändringar tolkas som faktiska beteendeförändringar.':'';
+}
+els.indicator.addEventListener('change',()=>{fillCategories();render()});
+els.category.addEventListener('change',render);els.status.addEventListener('change',render);
+els.reset.addEventListener('click',()=>{els.indicator.selectedIndex=0;els.status.value='all';fillCategories();render()});
+fetch('data/harmonized_rvu.csv').then(r=>{if(!r.ok)throw new Error('Kunde inte läsa datafilen');return r.text()}).then(t=>{rows=parseCSV(t);fillIndicators();fillCategories();render()}).catch(e=>{els.notice.textContent=e.message});
