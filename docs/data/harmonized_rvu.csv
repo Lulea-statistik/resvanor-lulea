@@ -1,85 +1,106 @@
 year,indicator,indicator_label,category,value,unit,comparability,status_label,method_note,source
-2000,modal_share,Färdmedelsfördelning,Bil,63,%,direct,Direkt jämförbar,"Historisk huvudfärdmedelsserie återpublicerad i RVU 2015/2020.","RVU 2015; RVU 2020"
-2000,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,direct,Direkt jämförbar,"Buss i äldre undersökningar; grupperas som kollektivtrafik i harmoniserad serie.","RVU 2015; RVU 2020"
-2000,modal_share,Färdmedelsfördelning,Cykel,18,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2015; RVU 2020"
-2000,modal_share,Färdmedelsfördelning,Till fots,9,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2015; RVU 2020"
-2000,modal_share,Färdmedelsfördelning,Övrigt,1,%,direct,Direkt jämförbar,"Övriga färdmedel.","RVU 2015; RVU 2020"
-2005,modal_share,Färdmedelsfördelning,Bil,65,%,direct,Direkt jämförbar,"Bilförare och bilpassagerare summerade.","RVU 2005; RVU 2015; RVU 2020"
-2005,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,direct,Direkt jämförbar,"Buss i äldre undersökningar.","RVU 2005; RVU 2015; RVU 2020"
-2005,modal_share,Färdmedelsfördelning,Cykel,13,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2005; RVU 2015; RVU 2020"
-2005,modal_share,Färdmedelsfördelning,Till fots,12,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2005; RVU 2015; RVU 2020"
-2005,modal_share,Färdmedelsfördelning,Övrigt,1,%,direct,Direkt jämförbar,"Övriga färdmedel.","RVU 2005; RVU 2015; RVU 2020"
-2010,modal_share,Färdmedelsfördelning,Bil,61,%,direct,Direkt jämförbar,"Bilförare och bilpassagerare summerade.","RVU 2010; RVU 2015; RVU 2020"
-2010,modal_share,Färdmedelsfördelning,Kollektivtrafik,11,%,direct,Direkt jämförbar,"Buss i äldre undersökningar.","RVU 2010; RVU 2015; RVU 2020"
-2010,modal_share,Färdmedelsfördelning,Cykel,10,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2010; RVU 2015; RVU 2020"
-2010,modal_share,Färdmedelsfördelning,Till fots,15,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2010; RVU 2015; RVU 2020"
-2010,modal_share,Färdmedelsfördelning,Övrigt,3,%,direct,Direkt jämförbar,"Övriga färdmedel.","RVU 2010; RVU 2015; RVU 2020"
-2015,modal_share,Färdmedelsfördelning,Bil,61,%,direct,Direkt jämförbar,"Bilförare 51 % + bilpassagerare 10 %.","RVU 2015; RVU 2020"
-2015,modal_share,Färdmedelsfördelning,Kollektivtrafik,13,%,direct,Direkt jämförbar,"Buss i rapporten.","RVU 2015; RVU 2020"
-2015,modal_share,Färdmedelsfördelning,Cykel,14,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2015; RVU 2020"
-2015,modal_share,Färdmedelsfördelning,Till fots,11,%,direct,Direkt jämförbar,"Huvudfärdmedel.","RVU 2015; RVU 2020"
-2015,modal_share,Färdmedelsfördelning,Övrigt,1,%,direct,Direkt jämförbar,"Övriga färdmedel.","RVU 2015; RVU 2020"
-2020,modal_share,Färdmedelsfördelning,Bil,66,%,direct,Direkt jämförbar,"Bilförare 55 % + bilpassagerare 11 %. Covid-19 kan ha påverkat färdmedelsvalet.","RVU 2020"
-2020,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,direct,Direkt jämförbar,"Buss. Covid-19 kan ha påverkat nivån.","RVU 2020"
-2020,modal_share,Färdmedelsfördelning,Cykel,12,%,direct,Direkt jämförbar,"Huvudfärdmedel. Covid-19 kan ha påverkat nivån.","RVU 2020"
-2020,modal_share,Färdmedelsfördelning,Till fots,12,%,direct,Direkt jämförbar,"Huvudfärdmedel. Covid-19 kan ha påverkat nivån.","RVU 2020"
-2020,modal_share,Färdmedelsfördelning,Övrigt,1,%,direct,Direkt jämförbar,"Övriga färdmedel.","RVU 2020"
-2025,modal_share,Färdmedelsfördelning,Bil,65,%,reservation,Jämförbar med metodreservation,"2025 bygger på flervalsfråga som räknats om till huvudfärdmedel enligt prioritetsordning.","RVU 2025"
-2025,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,"Buss/tåg grupperas som kollektivtrafik i publicerad jämförelsetabell.","RVU 2025"
-2025,modal_share,Färdmedelsfördelning,Cykel,12,%,reservation,Jämförbar med metodreservation,"Publicerad harmoniserad huvudfärdmedelsandel.","RVU 2025"
-2025,modal_share,Färdmedelsfördelning,Till fots,13,%,reservation,Jämförbar med metodreservation,"Publicerad harmoniserad huvudfärdmedelsandel.","RVU 2025"
-2025,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,"Publicerad harmoniserad huvudfärdmedelsandel.","RVU 2025"
-2005,trips_per_person,Resor per person och dag,Totalt,2.7,resor/person/dag,direct,Direkt jämförbar,"Samma grundupplägg som 2010; 16–84 år.","RVU 2005"
-2010,trips_per_person,Resor per person och dag,Totalt,2.8,resor/person/dag,direct,Direkt jämförbar,"Rapporten jämför uttryckligen med 2005; 16–84 år.","RVU 2010"
-2015,trips_per_person,Resor per person och dag,Totalt,2.4,resor/person/dag,reservation,Jämförbar med metodreservation,"Resebegrepp och bearbetning har förändrats jämfört med 2005/2010.","RVU 2015"
-2020,trips_per_person,Resor per person och dag,Totalt,2.1,resor/person/dag,reservation,Jämförbar med metodreservation,"Mätningen genomfördes under covid-19-pandemin.","RVU 2020; RVU 2025"
-2025,trips_per_person,Resor per person och dag,Totalt,2.4,resor/person/dag,reservation,Jämförbar med metodreservation,"Bearbetning av reskedjor inkluderar bl.a. isärdragning; jämför med försiktighet.","RVU 2025"
-2005,traveled_share,Andel som rest/förflyttat sig,Totalt,80,%,direct,Direkt jämförbar,"Rapporteras som fyra av fem som gjort minst en resa under mätdagen.","RVU 2005"
-2010,traveled_share,Andel som rest/förflyttat sig,Totalt,84,%,direct,Direkt jämförbar,"Andel 16–84 år som gjort en resa under undersökt dag.","RVU 2010"
-2020,traveled_share,Andel som rest/förflyttat sig,Totalt,71,%,reservation,Jämförbar med metodreservation,"Frågan avser förflyttning under mätdagen; covid-19 påverkade resandet.","RVU 2020"
-2025,traveled_share,Andel som rest/förflyttat sig,Totalt,79,%,reservation,Jämförbar med metodreservation,"Frågan avser förflyttning under gårdagen. 2015 totalvärde ännu ej verifierat.","RVU 2025"
-2005,driver_license,Körkort för personbil,Totalt,87,%,reservation,Jämförbar med metodreservation,"Avser personer 18 år eller äldre.","RVU 2005"
-2010,driver_license,Körkort för personbil,Totalt,88,%,reservation,Jämförbar med metodreservation,"Avser personer 18–84 år.","RVU 2010"
-2015,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,"Publicerat totalvärde inkluderar yngre; 18+ är 90 %.","RVU 2015"
-2020,driver_license,Körkort för personbil,Totalt,89,%,reservation,Jämförbar med metodreservation,"Publicerat totalvärde; rapportens jämförelse med 2015 använder 86 %.","RVU 2020"
-2025,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,"Publicerat totalvärde för svarande 16–84 år.","RVU 2025"
-2015,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,"80 % alltid + 10 % ibland.","RVU 2015"
-2020,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,"80 % alltid + 10 % ibland.","RVU 2020"
-2025,car_access,Tillgång till bil,Alltid eller ibland,89,%,direct,Direkt jämförbar,"81 % alltid + 8 % ibland.","RVU 2025"
-2005,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,52,%,direct,Direkt jämförbar,"Samma grundfråga: vilket trafikslag bör prioriteras när buss och bil står mot varandra.","RVU 2005; RVU 2010"
-2010,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,64,%,direct,Direkt jämförbar,"Samma grundfråga och svarsalternativ som 2005.","RVU 2010"
-2015,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,61,%,direct,Direkt jämförbar,"Prioritera busstrafik även om det innebär nackdel för biltrafiken.","RVU 2015"
-2020,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,56,%,direct,Direkt jämförbar,"Samma formulering som 2015; 2020 bör tolkas i pandemikontext.","RVU 2020"
-2025,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,54,%,direct,Direkt jämförbar,"Samma sakfråga och svarsalternativ; mindre språklig justering ('kan innebära nackdelar').","RVU 2025"
-2005,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,62,%,direct,Direkt jämförbar,"Samma grundfråga: vilket trafikslag bör prioriteras när gång/cykel och bil står mot varandra.","RVU 2005; RVU 2010"
-2010,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,68,%,direct,Direkt jämförbar,"Samma grundfråga och svarsalternativ som 2005.","RVU 2010"
-2015,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,66,%,direct,Direkt jämförbar,"Prioritera gång/cykeltrafik även om det innebär nackdel för biltrafiken.","RVU 2015"
-2020,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,65,%,direct,Direkt jämförbar,"Samma grundfråga; 2020 bör tolkas i pandemikontext.","RVU 2020"
-2025,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,61,%,direct,Direkt jämförbar,"Samma sakfråga och svarsalternativ som tidigare år.","RVU 2025"
-2015,bike_access_any,Tillgång till cykel,Alltid eller ibland,92,%,direct,Direkt jämförbar,"90 % ja + 2 % ja ibland.","RVU 2020 jämförelsetabell för 2015"
-2020,bike_access_any,Tillgång till cykel,Alltid eller ibland,91,%,direct,Direkt jämförbar,"88 % ja + 3 % ja ibland.","RVU 2020"
-2025,bike_access_any,Tillgång till cykel,Alltid eller ibland,87,%,direct,Direkt jämförbar,"83 % ja + 4 % ja ibland.","RVU 2025"
-2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,63,%,direct,Direkt jämförbar,"Samma fråga och svarsskala som 2020 och 2025.","RVU 2015; RVU 2020"
-2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,20,%,direct,Direkt jämförbar,"Samma fråga och svarsskala som 2020 och 2025.","RVU 2015; RVU 2020"
-2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,51,%,direct,Direkt jämförbar,"Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.","RVU 2020"
-2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,25,%,direct,Direkt jämförbar,"Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.","RVU 2020"
-2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,54,%,direct,Direkt jämförbar,"Samma fråga och svarsskala som 2015 och 2020.","RVU 2025"
-2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,21,%,direct,Direkt jämförbar,"Samma fråga och svarsskala som 2015 och 2020.","RVU 2025"
-2005,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,50,%,reservation,Jämförbar med metodreservation,"33 % har alltid tillgång och 50 % aldrig; resterande 17 % tolkas som ibland. Harmoniserat till alltid eller ibland.","RVU 2005"
-2010,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,53,%,reservation,Jämförbar med metodreservation,"37 % har alltid tillgång och 47 % aldrig; resterande 16 % motsvarar ibland.","RVU 2010"
-2015,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,71,%,direct,Direkt jämförbar,"61 % ja + 10 % ja ibland.","RVU 2015; RVU 2020"
-2020,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,68,%,direct,Direkt jämförbar,"56 % ja + 12 % ja ibland.","RVU 2020"
-2025,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,57,%,direct,Direkt jämförbar,"41 % ja + 16 % ja ibland.","RVU 2025"
-2010,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,63,%,direct,Direkt jämförbar,"Detaljtabellen anger 63 % ja, 22 % nej och 15 % bor i centrum.","RVU 2010"
-2015,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2020.","RVU 2020 jämförelsetabell för 2015"
-2020,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2015.","RVU 2020"
-2025,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,89,%,reservation,Jämförbar med metodreservation,"Frågan är semantiskt samma men rapporttexten använder formuleringen busslinjer som går in till centrum.","RVU 2025"
-2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,41,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2020 och 2025.","RVU 2015"
-2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,37,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2020 och 2025.","RVU 2015"
-2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,22,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2020 och 2025.","RVU 2015"
-2020,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,42,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ; pandemin kan ha påverkat arbetsmönster men inte frågedefinitionen.","RVU 2020"
-2020,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,44,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ.","RVU 2020"
-2020,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,14,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ.","RVU 2020"
-2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,40,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2015 och 2020.","RVU 2025"
-2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,36,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2015 och 2020.","RVU 2025"
-2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,24,%,direct,Direkt jämförbar,"Samma fråga och svarsalternativ som 2015 och 2020.","RVU 2025"
+2015,bike_access_any,Tillgång till cykel,Alltid eller ibland,92,%,direct,Direkt jämförbar,90 % ja + 2 % ja ibland.,RVU 2020 jämförelsetabell för 2015
+2020,bike_access_any,Tillgång till cykel,Alltid eller ibland,91,%,direct,Direkt jämförbar,88 % ja + 3 % ja ibland.,RVU 2020
+2025,bike_access_any,Tillgång till cykel,Alltid eller ibland,87,%,direct,Direkt jämförbar,83 % ja + 4 % ja ibland.,RVU 2025
+2010,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,63,%,direct,Direkt jämförbar,"Detaljtabellen anger 63 % ja, 22 % nej och 15 % bor i centrum.",RVU 2010
+2015,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020.,RVU 2020 jämförelsetabell för 2015
+2020,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015.,RVU 2020
+2025,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,89,%,reservation,Jämförbar med metodreservation,Frågan är semantiskt samma men rapporttexten använder formuleringen busslinjer som går in till centrum.,RVU 2025
+2005,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,50,%,reservation,Jämförbar med metodreservation,33 % har alltid tillgång och 50 % aldrig; resterande 17 % tolkas som ibland. Harmoniserat till alltid eller ibland.,RVU 2005
+2010,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,53,%,reservation,Jämförbar med metodreservation,37 % har alltid tillgång och 47 % aldrig; resterande 16 % motsvarar ibland.,RVU 2010
+2015,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,71,%,direct,Direkt jämförbar,61 % ja + 10 % ja ibland.,RVU 2015; RVU 2020
+2020,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,68,%,direct,Direkt jämförbar,56 % ja + 12 % ja ibland.,RVU 2020
+2025,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,57,%,direct,Direkt jämförbar,41 % ja + 16 % ja ibland.,RVU 2025
+2015,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2015
+2020,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2020
+2025,car_access,Tillgång till bil,Alltid eller ibland,89,%,direct,Direkt jämförbar,81 % alltid + 8 % ibland.,RVU 2025
+2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,63,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015; RVU 2020
+2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,20,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015; RVU 2020
+2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,51,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.,RVU 2020
+2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,25,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 påverkade arbets- och skolresandet.,RVU 2020
+2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,54,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
+2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,21,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
+2005,driver_license,Körkort för personbil,Totalt,87,%,reservation,Jämförbar med metodreservation,Avser personer 18 år eller äldre.,RVU 2005
+2010,driver_license,Körkort för personbil,Totalt,88,%,reservation,Jämförbar med metodreservation,Avser personer 18–84 år.,RVU 2010
+2015,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde inkluderar yngre; 18+ är 90 %.,RVU 2015
+2020,driver_license,Körkort för personbil,Totalt,89,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde; rapportens jämförelse med 2015 använder 86 %.,RVU 2020
+2025,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde för svarande 16–84 år.,RVU 2025
+2010,median_trip_length,Medianreslängd per resa,Totalt,4,km,reservation,Jämförbar med metodreservation,Rapporten anger median omkring 4 km; äldre geografi och respondentuppskattad reslängd.,RVU 2010 Figur 11.1
+2015,median_trip_length,Medianreslängd per resa,Totalt,6,km,reservation,Jämförbar med metodreservation,Publicerad totalmedian; respondentuppskattad reslängd.,RVU 2015 Figur 9:2
+2020,median_trip_length,Medianreslängd per resa,Totalt,4,km,reservation,Jämförbar med metodreservation,Publicerad totalmedian; respondentuppskattad reslängd. Covid-19 kan ha påverkat resandet.,RVU 2020 Graf 48
+2000,modal_share,Färdmedelsfördelning,Bil,63,%,reservation,Jämförbar med metodreservation,Historisk huvudfärdmedelsserie återpublicerad i RVU 2015/2020. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
+2000,modal_share,Färdmedelsfördelning,Cykel,18,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
+2000,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss i äldre undersökningar; grupperas som kollektivtrafik i harmoniserad serie. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
+2000,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
+2000,modal_share,Färdmedelsfördelning,Till fots,9,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2015; RVU 2020
+2005,modal_share,Färdmedelsfördelning,Bil,65,%,reservation,Jämförbar med metodreservation,Bilförare och bilpassagerare summerade. Sekundärhistorik; primärkälla har en 1 procentenhets avvikelse för bilförare.,RVU 2005; RVU 2015; RVU 2020
+2005,modal_share,Färdmedelsfördelning,Cykel,13,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
+2005,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss i äldre undersökningar. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
+2005,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
+2005,modal_share,Färdmedelsfördelning,Till fots,12,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Sekundärhistorik; äldre geografi/urval skiljer.,RVU 2005; RVU 2015; RVU 2020
+2010,modal_share,Färdmedelsfördelning,Bil,61,%,reservation,Jämförbar med metodreservation,Bilförare och bilpassagerare summerade. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
+2010,modal_share,Färdmedelsfördelning,Cykel,10,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
+2010,modal_share,Färdmedelsfördelning,Kollektivtrafik,11,%,reservation,Jämförbar med metodreservation,Buss i äldre undersökningar. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
+2010,modal_share,Färdmedelsfördelning,Övrigt,3,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
+2010,modal_share,Färdmedelsfördelning,Till fots,15,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad men äldre geografi skiljer.,RVU 2010; RVU 2015; RVU 2020
+2015,modal_share,Färdmedelsfördelning,Bil,61,%,reservation,Jämförbar med metodreservation,Bilförare 51 % + bilpassagerare 10 %. Primärkälla verifierad.,RVU 2015; RVU 2020
+2015,modal_share,Färdmedelsfördelning,Cykel,14,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
+2015,modal_share,Färdmedelsfördelning,Kollektivtrafik,13,%,reservation,Jämförbar med metodreservation,Buss i rapporten. Primärkälla verifierad.,RVU 2015; RVU 2020
+2015,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
+2015,modal_share,Färdmedelsfördelning,Till fots,11,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Primärkälla verifierad.,RVU 2015; RVU 2020
+2020,modal_share,Färdmedelsfördelning,Bil,66,%,reservation,Jämförbar med metodreservation,Bilförare 55 % + bilpassagerare 11 %. Covid-19 kan ha påverkat färdmedelsvalet.,RVU 2020
+2020,modal_share,Färdmedelsfördelning,Cykel,12,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Covid-19 kan ha påverkat nivån.,RVU 2020
+2020,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss. Covid-19 kan ha påverkat nivån.,RVU 2020
+2020,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Övriga färdmedel.,RVU 2020
+2020,modal_share,Färdmedelsfördelning,Till fots,12,%,reservation,Jämförbar med metodreservation,Huvudfärdmedel. Covid-19 kan ha påverkat nivån.,RVU 2020
+2025,modal_share,Färdmedelsfördelning,Bil,65,%,reservation,Jämförbar med metodreservation,2025 bygger på flervalsfråga som räknats om till huvudfärdmedel enligt prioritetsordning.,RVU 2025
+2025,modal_share,Färdmedelsfördelning,Cykel,12,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
+2025,modal_share,Färdmedelsfördelning,Kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,Buss/tåg grupperas som kollektivtrafik i publicerad jämförelsetabell.,RVU 2025
+2025,modal_share,Färdmedelsfördelning,Övrigt,1,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
+2025,modal_share,Färdmedelsfördelning,Till fots,13,%,reservation,Jämförbar med metodreservation,Publicerad harmoniserad huvudfärdmedelsandel.,RVU 2025
+2005,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,52,%,direct,Direkt jämförbar,Samma grundfråga: vilket trafikslag bör prioriteras när buss och bil står mot varandra.,RVU 2005; RVU 2010
+2010,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,64,%,direct,Direkt jämförbar,Samma grundfråga och svarsalternativ som 2005.,RVU 2010
+2015,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,61,%,direct,Direkt jämförbar,Prioritera busstrafik även om det innebär nackdel för biltrafiken.,RVU 2015
+2020,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,56,%,direct,Direkt jämförbar,Samma formulering som 2015; 2020 bör tolkas i pandemikontext.,RVU 2020
+2025,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,54,%,direct,Direkt jämförbar,Samma sakfråga och svarsalternativ; mindre språklig justering ('kan innebära nackdelar').,RVU 2025
+2005,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,62,%,direct,Direkt jämförbar,Samma grundfråga: vilket trafikslag bör prioriteras när gång/cykel och bil står mot varandra.,RVU 2005; RVU 2010
+2010,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,68,%,direct,Direkt jämförbar,Samma grundfråga och svarsalternativ som 2005.,RVU 2010
+2015,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,66,%,direct,Direkt jämförbar,Prioritera gång/cykeltrafik även om det innebär nackdel för biltrafiken.,RVU 2015
+2020,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,65,%,direct,Direkt jämförbar,Samma grundfråga; 2020 bör tolkas i pandemikontext.,RVU 2020
+2025,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,61,%,direct,Direkt jämförbar,Samma sakfråga och svarsalternativ som tidigare år.,RVU 2025
+2005,traveled_share,Andel som rest/förflyttat sig,Totalt,80,%,direct,Direkt jämförbar,Rapporteras som fyra av fem som gjort minst en resa under mätdagen.,RVU 2005
+2010,traveled_share,Andel som rest/förflyttat sig,Totalt,84,%,direct,Direkt jämförbar,Andel 16–84 år som gjort en resa under undersökt dag.,RVU 2010
+2020,traveled_share,Andel som rest/förflyttat sig,Totalt,71,%,reservation,Jämförbar med metodreservation,Frågan avser förflyttning under mätdagen; covid-19 påverkade resandet.,RVU 2020
+2025,traveled_share,Andel som rest/förflyttat sig,Totalt,79,%,reservation,Jämförbar med metodreservation,Frågan avser förflyttning under gårdagen. 2015 totalvärde ännu ej verifierat.,RVU 2025
+2010,trip_purpose_safe,Resärende,Hämta/lämna barn,4,%,reservation,Jämförbar med metodreservation,Samma huvudsakliga ärende; äldre geografi.,RVU 2010 Figur 9.1
+2010,trip_purpose_safe,Resärende,Resa/ärende i tjänsten,5,%,reservation,Jämförbar med metodreservation,Tjänsteresa; äldre geografi.,RVU 2010 Figur 9.1
+2010,trip_purpose_safe,Resärende,Till arbetsplats,16,%,reservation,Jämförbar med metodreservation,Arbete; äldre geografi.,RVU 2010 Figur 9.1
+2010,trip_purpose_safe,Resärende,Till bostad,26,%,reservation,Jämförbar med metodreservation,Hemresa enligt Figur 9.1; äldre geografi. Sammanfattningens 40 % används inte eftersom den motsägs av rapportens historik.,RVU 2010 Figur 9.1
+2010,trip_purpose_safe,Resärende,Till skola/utbildning,4,%,reservation,Jämförbar med metodreservation,Samma huvudsakliga ärende; äldre geografi.,RVU 2010 Figur 9.1
+2015,trip_purpose_safe,Resärende,Till arbetsplats,18,%,reservation,Jämförbar med metodreservation,Till arbetsplatsen.,RVU 2015 Figur 10:1
+2015,trip_purpose_safe,Resärende,Till bostad,39,%,reservation,Jämförbar med metodreservation,Till bostaden; kategori bedöms stabil nog för trend.,RVU 2015 Figur 10:1
+2015,trip_purpose_safe,Resärende,Till skola/utbildning,5,%,reservation,Jämförbar med metodreservation,Till skola/utbildning.,RVU 2015 Figur 10:1
+2020,trip_purpose_safe,Resärende,Hämta/lämna barn,4,%,reservation,Jämförbar med metodreservation,Covid-19 kan ha påverkat resmönstret.,RVU 2020 Graf 41
+2020,trip_purpose_safe,Resärende,Resa/ärende i tjänsten,3,%,reservation,Jämförbar med metodreservation,Covid-19 kan ha påverkat tjänsteresandet.,RVU 2020 Graf 41
+2020,trip_purpose_safe,Resärende,Till arbetsplats,17,%,reservation,Jämförbar med metodreservation,Till arbete; covid-19 kan ha påverkat arbetsresandet.,RVU 2020 Graf 41
+2020,trip_purpose_safe,Resärende,Till bostad,41,%,reservation,Jämförbar med metodreservation,Till bostaden; covid-19 kan ha påverkat resmönstret.,RVU 2020 Graf 41
+2020,trip_purpose_safe,Resärende,Till skola/utbildning,3,%,reservation,Jämförbar med metodreservation,Covid-19 kan ha påverkat skolresandet.,RVU 2020 Graf 41
+2025,trip_purpose_safe,Resärende,Hämta/lämna barn,4,%,reservation,Jämförbar med metodreservation,Samma huvudsakliga ärende.,RVU 2025 Tabell 14
+2025,trip_purpose_safe,Resärende,Resa/ärende i tjänsten,3,%,reservation,Jämförbar med metodreservation,Samma huvudsakliga ärende.,RVU 2025 Tabell 14
+2025,trip_purpose_safe,Resärende,Till arbetsplats,20,%,reservation,Jämförbar med metodreservation,Till egna arbetsplatsen; mindre formulering-/urvalsskillnader.,RVU 2025 Tabell 14
+2025,trip_purpose_safe,Resärende,Till bostad,37,%,reservation,Jämförbar med metodreservation,2025 anger att svarsalternativen skiljer sig något från 2020.,RVU 2025 Tabell 14
+2025,trip_purpose_safe,Resärende,Till skola/utbildning,2,%,reservation,Jämförbar med metodreservation,Samma huvudsakliga ärende.,RVU 2025 Tabell 14
+2005,trips_per_person,Resor per person och dag,Totalt,2.7,resor/person/dag,reservation,Jämförbar med metodreservation,Samma grundupplägg som 2010; 16–84 år. Geografin är snävare än i senare undersökningar.,RVU 2005
+2010,trips_per_person,Resor per person och dag,Totalt,2.8,resor/person/dag,reservation,Jämförbar med metodreservation,Rapporten jämför uttryckligen med 2005; 16–84 år. Geografin är snävare än i senare undersökningar.,RVU 2010
+2015,trips_per_person,Resor per person och dag,Totalt,2.4,resor/person/dag,reservation,Jämförbar med metodreservation,Resebegrepp och bearbetning har förändrats jämfört med 2005/2010.,RVU 2015
+2020,trips_per_person,Resor per person och dag,Totalt,2.1,resor/person/dag,reservation,Jämförbar med metodreservation,Mätningen genomfördes under covid-19-pandemin.,RVU 2020; RVU 2025
+2025,trips_per_person,Resor per person och dag,Totalt,2.4,resor/person/dag,reservation,Jämförbar med metodreservation,Bearbetning av reskedjor inkluderar bl.a. isärdragning; jämför med försiktighet.,RVU 2025
+2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,41,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015
+2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,22,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015
+2015,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,37,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020 och 2025.,RVU 2015
+2020,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,42,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; pandemin kan ha påverkat arbetsmönster men inte frågedefinitionen.,RVU 2020
+2020,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,14,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2020
+2020,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,44,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2020
+2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,40,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015 och 2020.,RVU 2025
+2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,24,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015 och 2020.,RVU 2025
+2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,36,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015 och 2020.,RVU 2025
