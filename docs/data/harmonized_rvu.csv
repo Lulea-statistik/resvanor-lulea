@@ -192,6 +192,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Busstrafik,35,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 21 + 14.,RVU 2025 Graf 11
 2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Cykeltrafik,38,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 14.,RVU 2025 Graf 12
 2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Gångtrafik,41,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 17.,RVU 2025 Graf 13
+2015,transit_share_sex,Buss/kollektivtrafikandel efter kön,Kvinnor,16,%,reservation,Jämförbar med metodreservation,Bussandel enligt Figur 7:6.,RVU 2015 Figur 7:6
+2015,transit_share_sex,Buss/kollektivtrafikandel efter kön,Män,10,%,reservation,Jämförbar med metodreservation,Bussandel enligt Figur 7:6.,RVU 2015 Figur 7:6
+2020,transit_share_sex,Buss/kollektivtrafikandel efter kön,Kvinnor,14,%,reservation,Jämförbar med metodreservation,Rapporttext anger att 14 % av kvinnornas resor sker med buss. Covid-19 kan ha påverkat nivån.,RVU 2020 avsnitt 9.4
+2020,transit_share_sex,Buss/kollektivtrafikandel efter kön,Män,10,%,reservation,Jämförbar med metodreservation,Rapporttext anger att 10 % av männens resor sker med buss. Covid-19 kan ha påverkat nivån.,RVU 2020 avsnitt 9.4
+2025,transit_share_sex,Buss/kollektivtrafikandel efter kön,Kvinnor,11,%,reservation,Jämförbar med metodreservation,2025 redovisar kollektivtrafik som bredare kategori än buss.,RVU 2025 Graf 25
+2025,transit_share_sex,Buss/kollektivtrafikandel efter kön,Män,6,%,reservation,Jämförbar med metodreservation,2025 redovisar kollektivtrafik som bredare kategori än buss.,RVU 2025 Graf 25
 2005,traveled_share,Andel som rest/förflyttat sig,Totalt,80,%,direct,Direkt jämförbar,Rapporteras som fyra av fem som gjort minst en resa under mätdagen.,RVU 2005
 2010,traveled_share,Andel som rest/förflyttat sig,Totalt,84,%,direct,Direkt jämförbar,Andel 16–84 år som gjort en resa under undersökt dag.,RVU 2010
 2020,traveled_share,Andel som rest/förflyttat sig,Totalt,71,%,reservation,Jämförbar med metodreservation,Frågan avser förflyttning under mätdagen; covid-19 påverkade resandet.,RVU 2020
