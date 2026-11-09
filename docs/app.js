@@ -40,12 +40,19 @@ function render(){
   els.title.textContent=data[0].indicator_label;
   els.subtitle.textContent=`${data[0].unit} · ${Math.min(...data.map(r=>r.year))}–${Math.max(...data.map(r=>r.year))}`;
   const cats=uniq(data.map(r=>r.category));
-  const traces=cats.map(cat=>{const d=data.filter(r=>r.category===cat).sort((a,b)=>a.year-b.year);return{
-    x:d.map(r=>r.year),y:d.map(r=>r.value),name:cat,mode:'lines+markers',type:'scatter',
-    marker:{size:10,symbol:d.map(r=>r.comparability==='reservation'?'diamond':'circle'),line:{width:1}},
-    customdata:d.map(r=>[r.status_label,r.method_note,r.source]),
-    hovertemplate:'<b>%{x}</b><br>%{y} '+data[0].unit+'<br>%{customdata[0]}<br>%{customdata[1]}<extra>%{fullData.name}</extra>'
-  }});
+  const indicatorYears=uniq(rows.filter(r=>r.indicator===els.indicator.value).map(r=>r.year)).sort((a,b)=>a-b);
+  const traces=cats.map(cat=>{
+    const byYear=new Map(data.filter(r=>r.category===cat).map(r=>[r.year,r]));
+    const d=indicatorYears.map(year=>byYear.get(year)||null);
+    return{
+      x:indicatorYears,
+      y:d.map(r=>r?r.value:null),
+      name:cat,mode:'lines+markers',type:'scatter',connectgaps:false,
+      marker:{size:10,symbol:d.map(r=>r&&r.comparability==='reservation'?'diamond':'circle'),line:{width:1}},
+      customdata:d.map(r=>r?[r.status_label,r.method_note,r.source]:['Datapunkt saknas','Ingen interpolation','']),
+      hovertemplate:'<b>%{x}</b><br>%{y} '+data[0].unit+'<br>%{customdata[0]}<br>%{customdata[1]}<extra>%{fullData.name}</extra>'
+    }
+  });
   const shapes=rows.some(r=>r.indicator===els.indicator.value&&r.year===2020)?[{type:'line',x0:2020,x1:2020,y0:0,y1:1,yref:'paper',line:{dash:'dot',width:1}}]:[];
   const annotations=shapes.length?[{x:2020,y:1,yref:'paper',text:'2020 · covid-19',showarrow:false,yanchor:'bottom',font:{size:11}}]:[];
   Plotly.react('chart',traces,{margin:{l:60,r:25,t:35,b:55},hovermode:'closest',legend:{orientation:'h'},xaxis:{dtick:5,title:'År'},yaxis:{rangemode:'tozero',title:data[0].unit},shapes,annotations},{responsive:true,displaylogo:false});
