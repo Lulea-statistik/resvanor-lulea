@@ -98,6 +98,30 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,66,%,direct,Direkt jämförbar,Prioritera gång/cykeltrafik även om det innebär nackdel för biltrafiken.,RVU 2015
 2020,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,65,%,direct,Direkt jämförbar,Samma grundfråga; 2020 bör tolkas i pandemikontext.,RVU 2020
 2025,priority_gc_car,Prioritering mellan trafikslag,Gång/cykel före bil,61,%,direct,Direkt jämförbar,Samma sakfråga och svarsalternativ som tidigare år.,RVU 2025
+2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Biltrafik,42,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Busstrafik,74,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Cykeltrafik,74,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Gångtrafik,71,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2020,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Biltrafik,46,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 21 + 25. Covid-19 kan påverka attityder men inte frågeskalan.,RVU 2020 Graf 21
+2020,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Busstrafik,78,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 25 + 53.,RVU 2020 Graf 21
+2020,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Cykeltrafik,82,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 22 + 60.,RVU 2020 Graf 21
+2020,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Gångtrafik,79,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 55.,RVU 2020 Graf 21
+2025,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Biltrafik,49,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 21 + 28.,RVU 2025 Graf 10
+2025,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Busstrafik,77,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 22 + 55.,RVU 2025 Graf 11
+2025,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Cykeltrafik,74,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 22 + 52.,RVU 2025 Graf 12
+2025,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Gångtrafik,76,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 52.,RVU 2025 Graf 13
+2015,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Biltrafik,24,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2015,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Busstrafik,37,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2015,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Cykeltrafik,25,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2015,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Gångtrafik,33,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
+2020,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Biltrafik,27,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 17 + 10.,RVU 2020 Graf 21
+2020,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Busstrafik,40,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 16.,RVU 2020 Graf 21
+2020,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Cykeltrafik,39,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 23 + 16.,RVU 2020 Graf 21
+2020,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Gångtrafik,43,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 25 + 18.,RVU 2020 Graf 21
+2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Biltrafik,28,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 20 + 8.,RVU 2025 Graf 10
+2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Busstrafik,35,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 21 + 14.,RVU 2025 Graf 11
+2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Cykeltrafik,38,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 14.,RVU 2025 Graf 12
+2025,traffic_satisfaction_positive,Nöjd med kommunens satsningar – andel 5–6,Gångtrafik,41,%,direct,Direkt jämförbar,Instämmer 5 + 6 = 24 + 17.,RVU 2025 Graf 13
 2005,traveled_share,Andel som rest/förflyttat sig,Totalt,80,%,direct,Direkt jämförbar,Rapporteras som fyra av fem som gjort minst en resa under mätdagen.,RVU 2005
 2010,traveled_share,Andel som rest/förflyttat sig,Totalt,84,%,direct,Direkt jämförbar,Andel 16–84 år som gjort en resa under undersökt dag.,RVU 2010
 2020,traveled_share,Andel som rest/förflyttat sig,Totalt,71,%,reservation,Jämförbar med metodreservation,Frågan avser förflyttning under mätdagen; covid-19 påverkade resandet.,RVU 2020
