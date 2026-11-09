@@ -26,6 +26,10 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,2–4 dagar per vecka,16,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025 Graf 4
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,54,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,21,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
+2005,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Bil,41,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 avsnitt 7.2
+2005,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Buss,12,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 avsnitt 7.2
+2005,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Cykel inkl. elcykel,37,%,reservation,Jämförbar med metodreservation,2005 redovisar endast Cykel; elcykel särredovisas inte. Äldre/snävare geografi.,RVU 2005 avsnitt 7.2
+2005,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Till fots,9,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 avsnitt 7.2
 2010,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Bil,45,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre geografi än senare undersökningar.,RVU 2010 Figur 10.7
 2010,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Buss,13,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre geografi än senare undersökningar.,RVU 2010 Figur 10.7
 2010,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Cykel inkl. elcykel,33,%,reservation,Jämförbar med metodreservation,2010 redovisar endast Cykel; elcykel särredovisas inte. Äldre geografi.,RVU 2010 Figur 10.7
@@ -42,6 +46,10 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Buss,14,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
 2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Cykel inkl. elcykel,31,%,reservation,Jämförbar med metodreservation,Härlett som Cykel 27 % + El-cykel 4 %.,RVU 2025 Graf 5
 2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Till fots,10,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
+2005,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Bil,51,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 avsnitt 7.2
+2005,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Buss,23,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 avsnitt 7.2
+2005,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Cykel inkl. elcykel,9,%,reservation,Jämförbar med metodreservation,2005 redovisar endast Cykel; elcykel särredovisas inte. Äldre/snävare geografi.,RVU 2005 avsnitt 7.2
+2005,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Till fots,17,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre/snävare geografi och äldre undersökningsdesign.,RVU 2005 avsnitt 7.2
 2010,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Bil,52,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre geografi än senare undersökningar.,RVU 2010 Figur 10.7
 2010,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Buss,23,%,reservation,Jämförbar med metodreservation,Samma sakfråga; äldre geografi än senare undersökningar.,RVU 2010 Figur 10.7
 2010,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Cykel inkl. elcykel,8,%,reservation,Jämförbar med metodreservation,2010 redovisar endast Cykel; elcykel särredovisas inte. Äldre geografi.,RVU 2010 Figur 10.7
