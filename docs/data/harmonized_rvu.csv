@@ -26,6 +26,30 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,2–4 dagar per vecka,16,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025 Graf 4
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,54,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
 2025,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Aldrig,21,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2015 och 2020.,RVU 2025
+2015,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Bil,42,%,direct,Direkt jämförbar,"Samma sakfråga och huvudkategori. Självrapporterat vanligaste färdmedel, inte resedagbokens huvudfärdmedel.",RVU 2015 Figur 5:2
+2015,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Buss,11,%,direct,Direkt jämförbar,Samma sakfråga och huvudkategori.,RVU 2015 Figur 5:2
+2015,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Cykel inkl. elcykel,36,%,reservation,Jämförbar med metodreservation,2015 redovisar endast Cykel; elcykel särredovisas först senare och kan därför inte separeras bakåt.,RVU 2015 Figur 5:2
+2015,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Till fots,8,%,direct,Direkt jämförbar,Samma sakfråga och huvudkategori.,RVU 2015 Figur 5:2
+2020,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Bil,41,%,direct,Direkt jämförbar,Samma fråga; covid-19 kan ha påverkat färdmedelsvalet.,RVU 2020 Graf 17
+2020,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Buss,10,%,direct,Direkt jämförbar,Samma fråga; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 17
+2020,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Cykel inkl. elcykel,38,%,reservation,Jämförbar med metodreservation,Härlett som Cykel 36 % + El-cykel 2 %.,RVU 2020 Graf 17
+2020,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Till fots,9,%,direct,Direkt jämförbar,Samma fråga; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 17
+2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Bil,42,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
+2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Buss,14,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
+2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Cykel inkl. elcykel,31,%,reservation,Jämförbar med metodreservation,Härlett som Cykel 27 % + El-cykel 4 %.,RVU 2025 Graf 5
+2025,commute_mode_summer,Vanligaste färdmedel till arbete/skola – sommar,Till fots,10,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
+2015,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Bil,50,%,direct,Direkt jämförbar,"Samma sakfråga och huvudkategori. Självrapporterat vanligaste färdmedel, inte resedagbokens huvudfärdmedel.",RVU 2015 Figur 5:2
+2015,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Buss,24,%,direct,Direkt jämförbar,Samma sakfråga och huvudkategori.,RVU 2015 Figur 5:2
+2015,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Cykel inkl. elcykel,9,%,reservation,Jämförbar med metodreservation,2015 redovisar endast Cykel; elcykel särredovisas först senare och kan därför inte separeras bakåt.,RVU 2015 Figur 5:2
+2015,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Till fots,15,%,direct,Direkt jämförbar,Samma sakfråga och huvudkategori.,RVU 2015 Figur 5:2
+2020,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Bil,52,%,direct,Direkt jämförbar,Samma fråga; covid-19 kan ha påverkat färdmedelsvalet.,RVU 2020 Graf 17
+2020,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Buss,24,%,direct,Direkt jämförbar,Samma fråga; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 17
+2020,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Cykel inkl. elcykel,11,%,reservation,Jämförbar med metodreservation,Härlett som Cykel 10 % + El-cykel 1 %.,RVU 2020 Graf 17
+2020,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Till fots,12,%,direct,Direkt jämförbar,Samma fråga; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 17
+2025,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Bil,53,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
+2025,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Buss,25,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
+2025,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Cykel inkl. elcykel,8,%,reservation,Jämförbar med metodreservation,Härlett som Cykel 7 % + El-cykel 1 %.,RVU 2025 Graf 5
+2025,commute_mode_winter,Vanligaste färdmedel till arbete/skola – vinter,Till fots,11,%,direct,Direkt jämförbar,Samma huvudfråga och kategori.,RVU 2025 Graf 5
 2005,driver_license,Körkort för personbil,Totalt,87,%,reservation,Jämförbar med metodreservation,Avser personer 18 år eller äldre.,RVU 2005
 2010,driver_license,Körkort för personbil,Totalt,88,%,reservation,Jämförbar med metodreservation,Avser personer 18–84 år.,RVU 2010
 2015,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde inkluderar yngre; 18+ är 90 %.,RVU 2015
