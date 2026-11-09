@@ -77,6 +77,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde inkluderar yngre; 18+ är 90 %.,RVU 2015
 2020,driver_license,Körkort för personbil,Totalt,89,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde; rapportens jämförelse med 2015 använder 86 %.,RVU 2020
 2025,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde för svarande 16–84 år.,RVU 2025
+2015,driver_license_sex,Körkort för personbil efter kön,Kvinnor,84,%,direct,Direkt jämförbar,Samma ja/nej-fråga som 2020 och 2025.,RVU 2015 avsnitt 4.1
+2015,driver_license_sex,Körkort för personbil efter kön,Män,88,%,direct,Direkt jämförbar,Samma ja/nej-fråga som 2020 och 2025.,RVU 2015 avsnitt 4.1
+2020,driver_license_sex,Körkort för personbil efter kön,Kvinnor,86,%,direct,Direkt jämförbar,Samma ja/nej-fråga; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 3
+2020,driver_license_sex,Körkort för personbil efter kön,Män,91,%,direct,Direkt jämförbar,Samma ja/nej-fråga; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 3
+2025,driver_license_sex,Körkort för personbil efter kön,Kvinnor,84,%,direct,Direkt jämförbar,Samma ja/nej-fråga som tidigare år.,RVU 2025 Tabell 4
+2025,driver_license_sex,Körkort för personbil efter kön,Män,89,%,direct,Direkt jämförbar,Samma ja/nej-fråga som tidigare år.,RVU 2025 Tabell 4
 2010,median_trip_length,Medianreslängd per resa,Totalt,4,km,reservation,Jämförbar med metodreservation,Rapporten anger median omkring 4 km; äldre geografi och respondentuppskattad reslängd.,RVU 2010 Figur 11.1
 2015,median_trip_length,Medianreslängd per resa,Totalt,6,km,reservation,Jämförbar med metodreservation,Publicerad totalmedian; respondentuppskattad reslängd.,RVU 2015 Figur 9:2
 2020,median_trip_length,Medianreslängd per resa,Totalt,4,km,reservation,Jämförbar med metodreservation,Publicerad totalmedian; respondentuppskattad reslängd. Covid-19 kan ha påverkat resandet.,RVU 2020 Graf 48
