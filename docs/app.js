@@ -11,7 +11,9 @@ const els={
   notice:document.getElementById('notice'),
   registryTheme:document.getElementById('registryTheme'),
   registryClass:document.getElementById('registryClass'),
-  registryTable:document.getElementById('registryTable')
+  registryTable:document.getElementById('registryTable'),
+  coverageTable:document.getElementById('coverageTable'),
+  coverageSummary:document.getElementById('coverageSummary')
 };
 function parseCSV(text){
   const lines=text.trim().split(/\r?\n/); const headers=splitLine(lines.shift());
@@ -63,7 +65,27 @@ function render(){
 els.indicator.addEventListener('change',()=>{fillCategories();render()});
 els.category.addEventListener('change',render);els.status.addEventListener('change',render);
 els.reset.addEventListener('click',()=>{els.indicator.selectedIndex=0;els.status.value='all';fillCategories();render()});
-fetch('data/harmonized_rvu.csv').then(r=>{if(!r.ok)throw new Error('Kunde inte läsa datafilen');return r.text()}).then(t=>{rows=parseCSV(t);fillIndicators();fillCategories();render()}).catch(e=>{els.notice.textContent=e.message});
+function renderCoverage(){
+  if(!rows.length||!els.coverageTable)return;
+  const labels=new Map(rows.map(r=>[r.indicator,r.indicator_label]));
+  const indicators=uniq(rows.map(r=>r.indicator)).map(ind=>{
+    const d=rows.filter(r=>r.indicator===ind);
+    const years=uniq(d.map(r=>r.year)).sort((a,b)=>a-b);
+    const cats=uniq(d.map(r=>r.category));
+    const reservations=d.filter(r=>r.comparability==='reservation').length;
+    return {ind,label:labels.get(ind),years,cats,reservations,points:d.length};
+  }).sort((a,b)=>b.years.length-a.years.length||a.label.localeCompare(b.label,'sv'));
+  const eligible=indicators.filter(x=>x.years.length>=3);
+  els.coverageSummary.textContent=`${eligible.length} indikatorer har minst tre undersökningsår. ${indicators.filter(x=>x.years.length>=5).length} har fem eller fler år.`;
+  els.coverageTable.innerHTML=eligible.map(x=>`<tr>
+    <td><strong>${x.label}</strong></td>
+    <td>${x.years.length}</td>
+    <td>${x.years.join(', ')}</td>
+    <td>${x.cats.length}</td>
+    <td>${x.reservations?'<span class="status-pill reservation">Ja</span>':'<span class="status-pill direct">Nej</span>'}</td>
+  </tr>`).join('');
+}
+fetch('data/harmonized_rvu.csv').then(r=>{if(!r.ok)throw new Error('Kunde inte läsa datafilen');return r.text()}).then(t=>{rows=parseCSV(t);fillIndicators();fillCategories();render();renderCoverage()}).catch(e=>{els.notice.textContent=e.message});
 
 function fillRegistryFilters(){
   if(!registry.length)return;
