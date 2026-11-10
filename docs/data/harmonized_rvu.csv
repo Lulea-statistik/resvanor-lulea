@@ -77,6 +77,10 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde inkluderar yngre; 18+ är 90 %.,RVU 2015
 2020,driver_license,Körkort för personbil,Totalt,89,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde; rapportens jämförelse med 2015 använder 86 %.,RVU 2020
 2025,driver_license,Körkort för personbil,Totalt,86,%,reservation,Jämförbar med metodreservation,Publicerat totalvärde för svarande 16–84 år.,RVU 2025
+2005,driver_license_sex,Körkort för personbil efter kön,Kvinnor,81,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2005 gäller äldre/snävare geografi och personer över 18 år.",RVU 2005 avsnitt 4 / könsskillnader
+2005,driver_license_sex,Körkort för personbil efter kön,Män,93,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2005 gäller äldre/snävare geografi och personer över 18 år.",RVU 2005 avsnitt 4 / könsskillnader
+2010,driver_license_sex,Körkort för personbil efter kön,Kvinnor,81,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2010 gäller äldre/snävare geografi och personer över 18 år.",RVU 2010 sammanfattning / könsskillnader
+2010,driver_license_sex,Körkort för personbil efter kön,Män,92,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2010 gäller äldre/snävare geografi och personer över 18 år.",RVU 2010 sammanfattning / könsskillnader
 2015,driver_license_sex,Körkort för personbil efter kön,Kvinnor,84,%,direct,Direkt jämförbar,Samma ja/nej-fråga som 2020 och 2025.,RVU 2015 avsnitt 4.1
 2015,driver_license_sex,Körkort för personbil efter kön,Män,88,%,direct,Direkt jämförbar,Samma ja/nej-fråga som 2020 och 2025.,RVU 2015 avsnitt 4.1
 2020,driver_license_sex,Körkort för personbil efter kön,Kvinnor,86,%,direct,Direkt jämförbar,Samma ja/nej-fråga; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 3
