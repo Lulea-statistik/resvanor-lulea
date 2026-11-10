@@ -11,6 +11,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,71,%,direct,Direkt jämförbar,61 % ja + 10 % ja ibland.,RVU 2015; RVU 2020
 2020,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,68,%,direct,Direkt jämförbar,56 % ja + 12 % ja ibland.,RVU 2020
 2025,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,57,%,direct,Direkt jämförbar,41 % ja + 16 % ja ibland.,RVU 2025
+2005,bus_pass_always_area,Alltid tillgång till busskort – Råneå och Sörbyarna,Råneå,14,%,reservation,Jämförbar med metodreservation,2005 års äldre/snävare geografi och undersökningsdesign; värdet avser alltid tillgång till busskort.,RVU 2005 busskort per område
+2005,bus_pass_always_area,Alltid tillgång till busskort – Råneå och Sörbyarna,Sörbyarna,28,%,reservation,Jämförbar med metodreservation,2005 års äldre/snävare geografi och undersökningsdesign; värdet avser alltid tillgång till busskort.,RVU 2005 busskort per område
+2015,bus_pass_always_area,Alltid tillgång till busskort – Råneå och Sörbyarna,Råneå,43,%,direct,Direkt jämförbar,Rapporttext anger 43 procent 'ja' i Råneå; samma figur skiljer Ja från Ja ibland.,RVU 2015 avsnitt 4.2
+2015,bus_pass_always_area,Alltid tillgång till busskort – Råneå och Sörbyarna,Sörbyarna,43,%,direct,Direkt jämförbar,Rapporttext anger 43 procent 'ja' i Sörbyarna; samma figur skiljer Ja från Ja ibland.,RVU 2015 avsnitt 4.2
+2020,bus_pass_always_area,Alltid tillgång till busskort – Råneå och Sörbyarna,Råneå,36,%,direct,Direkt jämförbar,"Tabell 8: Ja 36 %, Ja ibland 10 %, Nej 54 %.",RVU 2020 Tabell 8
+2020,bus_pass_always_area,Alltid tillgång till busskort – Råneå och Sörbyarna,Sörbyarna,27,%,direct,Direkt jämförbar,"Tabell 8: Ja 27 %, Ja ibland 11 %, Nej 62 %.",RVU 2020 Tabell 8
 2010,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Kvinnor,44,%,reservation,Jämförbar med metodreservation,"Samma svarskategori 'alltid', men äldre/snävare geografi och äldre undersökningsdesign.",RVU 2010 avsnitt 4.2
 2010,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Män,29,%,reservation,Jämförbar med metodreservation,"Samma svarskategori 'alltid', men äldre/snävare geografi och äldre undersökningsdesign.",RVU 2010 avsnitt 4.2
 2015,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Kvinnor,70,%,direct,Direkt jämförbar,Publicerad andel med alltid tillgång.,RVU 2015 avsnitt 4.2
