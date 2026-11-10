@@ -11,6 +11,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,71,%,direct,Direkt jämförbar,61 % ja + 10 % ja ibland.,RVU 2015; RVU 2020
 2020,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,68,%,direct,Direkt jämförbar,56 % ja + 12 % ja ibland.,RVU 2020
 2025,bus_pass_access_any,Tillgång till busskort,Alltid eller ibland,57,%,direct,Direkt jämförbar,41 % ja + 16 % ja ibland.,RVU 2025
+2010,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Kvinnor,44,%,reservation,Jämförbar med metodreservation,"Samma svarskategori 'alltid', men äldre/snävare geografi och äldre undersökningsdesign.",RVU 2010 avsnitt 4.2
+2010,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Män,29,%,reservation,Jämförbar med metodreservation,"Samma svarskategori 'alltid', men äldre/snävare geografi och äldre undersökningsdesign.",RVU 2010 avsnitt 4.2
+2015,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Kvinnor,70,%,direct,Direkt jämförbar,Publicerad andel med alltid tillgång.,RVU 2015 avsnitt 4.2
+2015,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Män,52,%,direct,Direkt jämförbar,Publicerad andel med alltid tillgång.,RVU 2015 avsnitt 4.2
+2020,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Kvinnor,64,%,direct,Direkt jämförbar,"Tabellens 'Ja' motsvarar alltid tillgång; 'Ja, ibland' redovisas separat.",RVU 2020 Tabell 8
+2020,bus_pass_always_sex,Alltid tillgång till busskort efter kön,Män,48,%,direct,Direkt jämförbar,"Tabellens 'Ja' motsvarar alltid tillgång; 'Ja, ibland' redovisas separat.",RVU 2020 Tabell 8
 2015,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2015
 2020,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2020
 2025,car_access,Tillgång till bil,Alltid eller ibland,89,%,direct,Direkt jämförbar,81 % alltid + 8 % ibland.,RVU 2025
