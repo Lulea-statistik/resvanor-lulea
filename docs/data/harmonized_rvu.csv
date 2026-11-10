@@ -132,6 +132,9 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2010,driver_license_age_45_64,Körkort för personbil – 45–64 år,45–64 år,93,%,reservation,Jämförbar med metodreservation,Samma åldersgrupp och sakfråga; 2010 har äldre/snävare geografi och undersökningsdesign.,RVU 2010 avsnitt 4.1
 2020,driver_license_age_45_64,Körkort för personbil – 45–64 år,45–64 år,93,%,direct,Direkt jämförbar,Samma åldersgrupp och fråga som 2025.,RVU 2020 Tabell 3
 2025,driver_license_age_45_64,Körkort för personbil – 45–64 år,45–64 år,94,%,direct,Direkt jämförbar,Samma åldersgrupp och fråga som 2020.,RVU 2025 Tabell 4
+2015,driver_license_none,Saknar körkort för personbil,Nej,14,%,direct,Direkt jämförbar,Figur 4:1 redovisar Nej 14 %.,RVU 2015 Figur 4:1
+2020,driver_license_none,Saknar körkort för personbil,Nej,11,%,direct,Direkt jämförbar,Tabell 3 redovisar Nej 11 %.,RVU 2020 Tabell 3
+2025,driver_license_none,Saknar körkort för personbil,Nej,14,%,direct,Direkt jämförbar,Graf 6 redovisar Nej 14 %.,RVU 2025 Graf 6
 2005,driver_license_sex,Körkort för personbil efter kön,Kvinnor,81,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2005 gäller äldre/snävare geografi och personer över 18 år.",RVU 2005 avsnitt 4 / könsskillnader
 2005,driver_license_sex,Körkort för personbil efter kön,Män,93,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2005 gäller äldre/snävare geografi och personer över 18 år.",RVU 2005 avsnitt 4 / könsskillnader
 2010,driver_license_sex,Körkort för personbil efter kön,Kvinnor,81,%,reservation,Jämförbar med metodreservation,"Samma sakfråga, men 2010 gäller äldre/snävare geografi och personer över 18 år.",RVU 2010 sammanfattning / könsskillnader
