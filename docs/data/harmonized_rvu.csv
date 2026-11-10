@@ -185,6 +185,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2025,modal_share_daytype,Färdmedelsfördelning vardag/helg – harmoniserade huvudgrupper,Vardag – Bil,63,%,reservation,Jämförbar med metodreservation,Bil redovisas som samlad huvudkategori i 2025.,RVU 2025 Graf 22
 2025,modal_share_daytype,Färdmedelsfördelning vardag/helg – harmoniserade huvudgrupper,Vardag – Buss/kollektivtrafik,9,%,reservation,Jämförbar med metodreservation,2025 redovisar kollektivtrafik; jämförs här med buss i äldre år.,RVU 2025 Graf 22
 2025,modal_share_daytype,Färdmedelsfördelning vardag/helg – harmoniserade huvudgrupper,Vardag – Gång + cykel,27,%,reservation,Jämförbar med metodreservation,Härlett som cykel 13 % + till fots 14 %.,RVU 2025 Graf 22
+2015,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Moped,8,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015 avsnitt 4.3
+2015,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Motorcykel,6,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2015 avsnitt 4.3
+2020,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Moped,7,%,direct,Direkt jämförbar,"Tabell 11: Ja 7 %, Ja ibland 1 %, Nej 92 %.",RVU 2020 Tabell 11
+2020,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Motorcykel,6,%,direct,Direkt jämförbar,"Tabell 12: Ja 6 %, Ja ibland 1 %, Nej 93 %.",RVU 2020 Tabell 12
+2025,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Moped,6,%,direct,Direkt jämförbar,Grafen redovisar Ja 6 %; resterande utgör Ja ibland/Nej.,RVU 2025 Graf 7
+2025,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Motorcykel,5,%,direct,Direkt jämförbar,Grafen redovisar Ja 5 %; resterande utgör Ja ibland/Nej.,RVU 2025 Graf 7
 2005,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,52,%,direct,Direkt jämförbar,Samma grundfråga: vilket trafikslag bör prioriteras när buss och bil står mot varandra.,RVU 2005; RVU 2010
 2010,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,64,%,direct,Direkt jämförbar,Samma grundfråga och svarsalternativ som 2005.,RVU 2010
 2015,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,61,%,direct,Direkt jämförbar,Prioritera busstrafik även om det innebär nackdel för biltrafiken.,RVU 2015
