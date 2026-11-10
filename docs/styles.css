@@ -12,3 +12,5 @@ main{padding:24px 0 40px}.controls{display:grid;grid-template-columns:2fr 1.4fr 
 @media(max-width:800px){.registry-controls{grid-template-columns:1fr}}
 
 #coverageSummary{margin-bottom:12px}.coverage-note{color:var(--muted);font-size:.9rem}
+
+.page-links{margin:14px 0 0}.page-links a{color:var(--accent);font-weight:700;text-decoration:none}.page-links a:hover{text-decoration:underline}.result-note{font-size:.86rem;color:var(--muted)}.result-tag{display:inline-block;border-radius:999px;padding:3px 8px;background:#eef4f8;color:#31556f;font-size:.8rem;font-weight:700}.back-link{display:inline-block;margin-top:12px;color:var(--accent);font-weight:700;text-decoration:none}.back-link:hover{text-decoration:underline}

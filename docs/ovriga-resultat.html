@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Övriga RVU-resultat – Luleå</title>
+  <meta name="description" content="Verifierade resultat från Luleås resvaneundersökningar som inte bör visas som harmoniserade tidsserier.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Luleå kommun · resvaneundersökningar</p>
+      <h1>Övriga RVU-resultat</h1>
+      <p class="lead">Verifierade resultat som är relevanta, men som inte bör tolkas som harmoniserade tidsserier.</p>
+      <a class="back-link" href="index.html">← Till harmoniserade tidsserier</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="method">
+      <h2>Varför finns denna sida?</h2>
+      <p>Här samlas resultat där minst ett av följande gäller: för få jämförbara år, ändrad frågeformulering eller kategori, saknat exakt värde i något år eller annan metodskillnad som gör en trendlinje missvisande.</p>
+      <p>Värdena visas därför <strong>årsvis och separat</strong>. Saknade år fylls inte ut och inga residualer eller komplement räknas fram.</p>
+    </section>
+
+    <section class="controls" aria-label="Filter" style="margin-top:18px">
+      <label>Tema
+        <select id="theme"><option value="all">Alla teman</option></select>
+      </label>
+      <label>Variabel
+        <select id="variable"><option value="all">Alla variabler</option></select>
+      </label>
+      <label>År
+        <select id="year"><option value="all">Alla år</option></select>
+      </label>
+      <button id="reset" type="button">Återställ filter</button>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Verifierade enskilda resultat</h2>
+          <p>Endast värden som uttryckligen redovisas i rapporterna tas med.</p>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>År</th><th>Tema</th><th>Variabel</th><th>Kategori</th><th>Värde</th><th>Varför inte tidsserie?</th><th>Källa</th></tr>
+          </thead>
+          <tbody id="resultsTable"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Källor: Luleå kommuns resvaneundersökningar. Sidan kompletterar, men ersätter inte, harmoniseringsregistret.</p>
+  </footer>
+  <script src="ovriga-resultat.js"></script>
+</body>
+</html>
