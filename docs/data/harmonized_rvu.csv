@@ -234,6 +234,11 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2020,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,62,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 15
 2025,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Kvinnor,63,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 6
 2025,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,58,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 6
+2005,single_person_household,Ensamhushåll,1 person,21,%,reservation,Jämförbar med metodreservation,Rapporten redovisar hushållsstorlek; 21 % består av 1 person. Äldre/snävare geografi.,RVU 2005 avsnitt hushåll
+2010,single_person_household,Ensamhushåll,1 person,23,%,reservation,Jämförbar med metodreservation,Rapporten redovisar hushållsstorlek; 23 % består av 1 person. Äldre/snävare geografi.,RVU 2010 avsnitt 3.2
+2015,single_person_household,Ensamhushåll,1 person,22,%,direct,Direkt jämförbar,"Figur 3:3: En vuxen utan barn 22 %, vilket motsvarar ensamhushåll.",RVU 2015 Figur 3:3
+2020,single_person_household,Ensamhushåll,1 person,25,%,direct,Direkt jämförbar,Rapporttext: hushåll som består av 1 person utgjorde 25 % av de svarande.,RVU 2020 hushållsstorlek
+2025,single_person_household,Ensamhushåll,1 person,21,%,direct,Direkt jämförbar,Graf 1: Ensamhushåll utan barn 21 %.,RVU 2025 Graf 1
 2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Biltrafik,42,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
 2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Busstrafik,74,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
 2015,traffic_importance_positive,Viktigt att kommunen satsar på trafikslag – andel 5–6,Cykeltrafik,74,%,direct,Direkt jämförbar,Andel som svarat 5 eller 6 på samma sexgradiga instämmelseskala.,RVU 2015 Figur 6:3
