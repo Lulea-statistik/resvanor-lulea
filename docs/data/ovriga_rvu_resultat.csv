@@ -1,0 +1,11 @@
+year,theme,variable,category,value,unit,reason,source
+2015,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2015 Figur 3:1
+2025,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2025 Graf 3
+2020,Bakgrund,Sysselsättning,Arbetssökande,2,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2020 Graf 1
+2025,Bakgrund,Sysselsättning,Arbetssökande,1,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2025 Graf 3
+2015,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2015 Figur 4:5
+2020,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2020 Graf 10
+2025,Tillgång,Färdtjänstlegitimation,Nej,97,%,2015 och 2020 redovisar främst Ja-värdet; Nej ska inte räknas fram som komplement,RVU 2025 Graf 7
+2020,Tillgång,Elcykel,Nej,94,%,Frågan var ny 2020; det finns därför inte tre jämförbara mättillfällen,RVU 2020 Tabell 10
+2025,Tillgång,Elcykel,Nej,89,%,Frågan saknas i jämförbar form 2015; ingen treårsserie,RVU 2025 Graf 7
+2025,Tillgång,Elsparkcykel,Nej,94,%,Frågan saknar jämförbara tidigare mättillfällen,RVU 2025 Graf 7
