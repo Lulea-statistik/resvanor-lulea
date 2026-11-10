@@ -243,6 +243,12 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2020,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,62,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ; 2020 genomfördes under covid-19-pandemin.,RVU 2020 Tabell 15
 2025,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Kvinnor,63,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 6
 2025,priority_gc_car_sex,Prioritera gång/cykel framför biltrafik efter kön,Män,58,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ.,RVU 2025 Tabell 6
+2015,sample_age_45_plus,Åldersfördelning i svarsgruppen – 45 år och äldre,45–64 år,32,%,direct,Direkt jämförbar,Viktad åldersfördelning för svarsgruppen.,RVU 2015 Tabell 3:2
+2015,sample_age_45_plus,Åldersfördelning i svarsgruppen – 45 år och äldre,65–84 år,22,%,direct,Direkt jämförbar,Viktad åldersfördelning för svarsgruppen.,RVU 2015 Tabell 3:2
+2020,sample_age_45_plus,Åldersfördelning i svarsgruppen – 45 år och äldre,45–64 år,31,%,direct,Direkt jämförbar,Viktad åldersfördelning för svarsgruppen.,RVU 2020 Tabell 2
+2020,sample_age_45_plus,Åldersfördelning i svarsgruppen – 45 år och äldre,65–84 år,23,%,direct,Direkt jämförbar,Viktad åldersfördelning för svarsgruppen.,RVU 2020 Tabell 2
+2025,sample_age_45_plus,Åldersfördelning i svarsgruppen – 45 år och äldre,45–64 år,30,%,direct,Direkt jämförbar,Viktad åldersfördelning för svarsgruppen.,RVU 2025 Tabell 1
+2025,sample_age_45_plus,Åldersfördelning i svarsgruppen – 45 år och äldre,65–84 år,23,%,direct,Direkt jämförbar,Viktad åldersfördelning för svarsgruppen.,RVU 2025 Tabell 1
 2005,single_person_household,Ensamhushåll,1 person,21,%,reservation,Jämförbar med metodreservation,Rapporten redovisar hushållsstorlek; 21 % består av 1 person. Äldre/snävare geografi.,RVU 2005 avsnitt hushåll
 2010,single_person_household,Ensamhushåll,1 person,23,%,reservation,Jämförbar med metodreservation,Rapporten redovisar hushållsstorlek; 23 % består av 1 person. Äldre/snävare geografi.,RVU 2010 avsnitt 3.2
 2015,single_person_household,Ensamhushåll,1 person,22,%,direct,Direkt jämförbar,"Figur 3:3: En vuxen utan barn 22 %, vilket motsvarar ensamhushåll.",RVU 2015 Figur 3:3
