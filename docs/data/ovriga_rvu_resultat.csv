@@ -3,10 +3,20 @@ year,theme,variable,category,value,unit,reason,source
 2005,Beteende,Cykelhjälmsanvändning,Aldrig,80,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Alltid,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Ibland,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
+2005,Tillgång,Fritidsfordon,Moped eller motorcykel,10,%,2005 slår ihop moped och motorcykel medan senare RVU särredovisar dem; därför ska måttet inte trendkopplas,RVU 2005 avsnitt Tillgång till andra färdmedel
+2005,Tillgång,Fritidsfordon,Motordriven fritidsbåt och/eller snöskoter,33,%,Frågan är ett äldre engångsmått och saknar verifierad motsvarighet med samma definition i senare RVU,RVU 2005 avsnitt Tillgång till andra färdmedel
 2015,Bakgrund,Hushållssammansättning,En vuxen med barn,3,%,Kategorierna för hushåll och barn är omgjorda 2025 och kan inte harmoniseras direkt,RVU 2015 Figur 3:3
 2015,Bakgrund,Hushållssammansättning,Två eller fler vuxna med barn,30,%,Kategorierna för hushåll och barn är omgjorda 2025 och kan inte harmoniseras direkt,RVU 2015 Figur 3:3
 2015,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2015 Figur 3:1
 2015,Bakgrund,Utbildningsnivå,Högskola/Universitet,39,%,2020 anger bara 'drygt 40 %' och saknar ett exakt verifierbart värde; därför visas ingen trendserie,RVU 2015 Figur 3:2
+2015,Reserelationer,Målpunkt – Kallax flygplats,Bil som förare,57,%,Endast 22 resor i tabellen och hög andel Övrigt; inte lämpligt som trendserie,RVU 2015 Tabell 11:12
+2015,Reserelationer,Målpunkt – Kallax flygplats,Övrigt,26,%,Rapporten anger att hög andel Övrigt sannolikt speglar inkommande flyg; inte lämpligt som trendserie,RVU 2015 Tabell 11:12
+2015,Reserelationer,Målpunkt – Luleå tekniska universitet,Bil totalt,32,%,Målpunktsanalysen gäller ett särskilt urval och saknar verifierad jämförbar upprepning,RVU 2015 avsnitt 11.12
+2015,Reserelationer,Målpunkt – Luleå tekniska universitet,Cykel,25,%,Målpunktsanalysen gäller ett särskilt urval och saknar verifierad jämförbar upprepning,RVU 2015 Tabell 11:12
+2015,Reserelationer,Målpunkt – SSAB,Bil som förare,84,%,Målpunktsanalysen bygger på få resor och ska inte tolkas som generell tidsserie,RVU 2015 Tabell 11:12
+2015,Reserelationer,Målpunkt – Storheden,Bil som förare,71,%,Målpunktsanalysen gäller ett särskilt urval och saknar verifierad jämförbar upprepning,RVU 2015 Tabell 11:12
+2015,Reserelationer,Målpunkt – Sunderby sjukhus,Bil som förare,70,%,Målpunktsanalysen bygger på ett begränsat antal resor och är inte verifierad som återkommande serie,RVU 2015 Tabell 11:12
+2015,Reserelationer,Målpunkt – Sunderby sjukhus,Buss,17,%,Målpunktsanalysen bygger på ett begränsat antal resor och är inte verifierad som återkommande serie,RVU 2015 Tabell 11:12
 2015,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2015 Figur 4:5
 2020,Bakgrund,Sysselsättning,Arbetssökande,2,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2020 Graf 1
 2020,Tillgång,Elcykel,Nej,94,%,Frågan var ny 2020; det finns därför inte tre jämförbara mättillfällen,RVU 2020 Tabell 10
@@ -17,6 +27,16 @@ year,theme,variable,category,value,unit,reason,source
 2025,Bakgrund,Sysselsättning,Arbetssökande,1,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2025 Graf 3
 2025,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2025 Graf 3
 2025,Bakgrund,Utbildningsnivå,Högskola/Universitet,45,%,2020 anger bara 'drygt 40 %' och saknar ett exakt verifierbart värde; därför visas ingen trendserie,RVU 2025 Graf 2
+2025,Barnens RVU,Avstånd till skola,Mindre än 1 km,40,%,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Färdmedelsanvändning,Skjuts av anhörig,38,%,Resultatet gäller barnens resande och saknar jämförbar vuxenserie,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Reslängd,"1–3,9 km",47,%,Barnspecifikt reslängdsmått utan verifierad jämförbar historik,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Resor per dag,Helg,2.6,resor,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Resor per dag,Vardag,3.0,resor,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Tillgång till färdmedel,Busskort,44,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Tillgång till färdmedel,Cykel – alltid eller ibland,97,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU och ska inte blandas med vuxenserier,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Tillgång till färdmedel,Skjuts av förälder,91,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Ärende,Fritidsaktivitet,27,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Ärende,Till skola,44,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Tillgång,Elcykel,Nej,89,%,Frågan saknas i jämförbar form 2015; ingen treårsserie,RVU 2025 Graf 7
 2025,Tillgång,Elsparkcykel,Nej,94,%,Frågan saknar jämförbara tidigare mättillfällen,RVU 2025 Graf 7
 2025,Tillgång,Färdtjänstlegitimation,Nej,97,%,2015 och 2020 redovisar främst Ja-värdet; Nej ska inte räknas fram som komplement,RVU 2025 Graf 7
