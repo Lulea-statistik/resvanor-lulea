@@ -191,6 +191,9 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2020,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Motorcykel,6,%,direct,Direkt jämförbar,"Tabell 12: Ja 6 %, Ja ibland 1 %, Nej 93 %.",RVU 2020 Tabell 12
 2025,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Moped,6,%,direct,Direkt jämförbar,Grafen redovisar Ja 6 %; resterande utgör Ja ibland/Nej.,RVU 2025 Graf 7
 2025,motor_vehicle_access_always,Alltid tillgång till moped eller motorcykel,Motorcykel,5,%,direct,Direkt jämförbar,Grafen redovisar Ja 5 %; resterande utgör Ja ibland/Nej.,RVU 2025 Graf 7
+2010,paratransit_access,Tillgång till färdtjänstlegitimation,Har tillgång,3,%,reservation,Jämförbar med metodreservation,Samma sakfråga; 2010 har äldre/snävare geografi och undersökningsdesign.,RVU 2010 avsnitt 4.2
+2015,paratransit_access,Tillgång till färdtjänstlegitimation,Har tillgång,2,%,direct,Direkt jämförbar,Rapporttext anger att 2 % av svarsgruppen har tillgång.,RVU 2015 avsnitt 4.2
+2020,paratransit_access,Tillgång till färdtjänstlegitimation,Har tillgång,2,%,direct,Direkt jämförbar,Rapporttext anger att 2 % har tillgång.,RVU 2020 avsnitt 4.3
 2005,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,52,%,direct,Direkt jämförbar,Samma grundfråga: vilket trafikslag bör prioriteras när buss och bil står mot varandra.,RVU 2005; RVU 2010
 2010,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,64,%,direct,Direkt jämförbar,Samma grundfråga och svarsalternativ som 2005.,RVU 2010
 2015,priority_bus_car,Prioritering mellan trafikslag,Buss före bil,61,%,direct,Direkt jämförbar,Prioritera busstrafik även om det innebär nackdel för biltrafiken.,RVU 2015
