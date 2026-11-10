@@ -1,4 +1,6 @@
 year,indicator,indicator_label,category,value,unit,comparability,status_label,method_note,source
+2005,bike_access_any,Tillgång till cykel,Alltid eller ibland,90,%,reservation,Jämförbar med metodreservation,Rapporten anger 'nio av tio invånare har tillgång till cykel'; avrundat rapportvärde och äldre/snävare geografi.,RVU 2005 avsnitt Tillgång till cykel
+2010,bike_access_any,Tillgång till cykel,Alltid eller ibland,90,%,reservation,Jämförbar med metodreservation,Rapporten anger 'nio av tio invånare har tillgång till cykel'; avrundat rapportvärde och äldre/snävare geografi.,RVU 2010 avsnitt 4.3
 2015,bike_access_any,Tillgång till cykel,Alltid eller ibland,92,%,direct,Direkt jämförbar,90 % ja + 2 % ja ibland.,RVU 2020 jämförelsetabell för 2015
 2020,bike_access_any,Tillgång till cykel,Alltid eller ibland,91,%,direct,Direkt jämförbar,88 % ja + 3 % ja ibland.,RVU 2020
 2025,bike_access_any,Tillgång till cykel,Alltid eller ibland,87,%,direct,Direkt jämförbar,83 % ja + 4 % ja ibland.,RVU 2025
