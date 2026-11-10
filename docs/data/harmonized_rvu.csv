@@ -20,6 +20,10 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020.,RVU 2020 jämförelsetabell för 2015
 2020,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015.,RVU 2020
 2025,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,89,%,reservation,Jämförbar med metodreservation,Frågan är semantiskt samma men rapporttexten använder formuleringen busslinjer som går in till centrum.,RVU 2025
+2010,bus_line_knowledge_centre,Bor i Luleå centrum – busslinjekännedom,Bor i Luleå centrum,15,%,reservation,Jämförbar med metodreservation,Figur 4.12 redovisar 'Jag bor i centrum' 15 %. Äldre/snävare geografi.,RVU 2010 Figur 4.12
+2015,bus_line_knowledge_centre,Bor i Luleå centrum – busslinjekännedom,Bor i Luleå centrum,11,%,direct,Direkt jämförbar,RVU 2020:s jämförelsetabell redovisar 2015: Bor i Luleå centrum 11 %.,"RVU 2020 Tabell 7, historik 2015"
+2020,bus_line_knowledge_centre,Bor i Luleå centrum – busslinjekännedom,Bor i Luleå centrum,11,%,direct,Direkt jämförbar,Tabell 7 redovisar Bor i Luleå centrum 11 %.,RVU 2020 Tabell 7
+2025,bus_line_knowledge_centre,Bor i Luleå centrum – busslinjekännedom,Bor i Luleå centrum,1,%,direct,Direkt jämförbar,Graf 9 redovisar Jag bor i Luleå centrum 1 %.,RVU 2025 Graf 9
 2010,bus_line_knowledge_no,Känner inte till busslinjer till Luleå centrum,Nej,22,%,reservation,Jämförbar med metodreservation,"2010 redovisar Ja 63 %, Nej 22 %, Bor i Luleå centrum 15 %. Äldre/snävare geografi.",RVU 2010 avsnitt 4.5
 2015,bus_line_knowledge_no,Känner inte till busslinjer till Luleå centrum,Nej,12,%,direct,Direkt jämförbar,RVU 2020:s jämförelsetabell redovisar 2015: Nej 12 %.,"RVU 2020 Tabell 7, historik 2015"
 2020,bus_line_knowledge_no,Känner inte till busslinjer till Luleå centrum,Nej,12,%,direct,Direkt jämförbar,Tabell 7 redovisar Nej 12 %.,RVU 2020 Tabell 7
