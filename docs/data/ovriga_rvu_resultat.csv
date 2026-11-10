@@ -21,6 +21,11 @@ year,theme,variable,category,value,unit,reason,source
 2020,Bakgrund,Sysselsättning,Arbetssökande,2,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2020 Graf 1
 2020,Tillgång,Elcykel,Nej,94,%,Frågan var ny 2020; det finns därför inte tre jämförbara mättillfällen,RVU 2020 Tabell 10
 2020,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2020 Graf 10
+2025,Attityd,Förväntad förändring av bilanvändning,Minska,18,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
+2025,Attityd,Förväntad förändring av bilanvändning,Öka,21,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
+2025,Attityd,Förväntad förändring av cykelanvändning,Minska,10,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
+2025,Attityd,Förväntad förändring av cykelanvändning,Öka,30,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
+2025,Attityd,Förväntad förändring av kollektivtrafikresande,Minska,10,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
 2025,Bakgrund,Hushållssammansättning,Hemmaboende barn 11–17 år,21,%,2025 använder barnens åldersgrupper i stället för 2015 års hushållstyper; kategorierna överlappar inte direkt,RVU 2025 Graf 1
 2025,Bakgrund,Hushållssammansättning,Hemmaboende barn under 10 år,19,%,2025 använder barnens åldersgrupper i stället för 2015 års hushållstyper; kategorierna överlappar inte direkt,RVU 2025 Graf 1
 2025,Bakgrund,Hushållssammansättning,Hushåll utan barn,60,%,Rapporten anger att 60 % saknar barn i hushållet; äldre rapporter använder andra kategorier och åldersgränser,RVU 2025 Graf 1
