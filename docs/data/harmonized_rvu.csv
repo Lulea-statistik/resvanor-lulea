@@ -31,6 +31,9 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2015
 2020,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2020
 2025,car_access,Tillgång till bil,Alltid eller ibland,89,%,direct,Direkt jämförbar,81 % alltid + 8 % ibland.,RVU 2025
+2015,car_access_always,Alltid tillgång till bil,Alltid,80,%,direct,Direkt jämförbar,Samma svarskategori som 2020 och 2025.,RVU 2015
+2020,car_access_always,Alltid tillgång till bil,Alltid,80,%,direct,Direkt jämförbar,"Tabell 4: Ja 80 %, Ja ibland 10 %, Nej 10 %.",RVU 2020 Tabell 4
+2025,car_access_always,Alltid tillgång till bil,Alltid,81,%,direct,Direkt jämförbar,"Graf 7: Ja 81 %, Ja ibland 8 %, Nej 11 %.",RVU 2025 Graf 7
 2005,commute_frequency,Hur ofta resor görs till/från arbete eller skola,2–4 dagar per vecka,11,%,reservation,Jämförbar med metodreservation,Exakt samma svarskategori som senare år. Äldre/snävare geografi; originalet redovisar 8 % ej svar.,RVU 2005 lång presentation s.25
 2005,commute_frequency,Hur ofta resor görs till/från arbete eller skola,5–7 dagar per vecka,57,%,reservation,Jämförbar med metodreservation,Exakt samma svarskategori som senare år. Äldre/snävare geografi; originalet redovisar 8 % ej svar.,RVU 2005 lång presentation s.25
 2010,commute_frequency,Hur ofta resor görs till/från arbete eller skola,1 dag per vecka,2,%,reservation,Jämförbar med metodreservation,Samma svarsskala som senare år; äldre/snävare geografi. Ej svar 4 % redovisas separat i originalet.,RVU 2010 Figur 8.1
