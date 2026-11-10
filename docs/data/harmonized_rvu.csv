@@ -10,6 +10,9 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,bike_access_any,Tillgång till cykel,Alltid eller ibland,92,%,direct,Direkt jämförbar,90 % ja + 2 % ja ibland.,RVU 2020 jämförelsetabell för 2015
 2020,bike_access_any,Tillgång till cykel,Alltid eller ibland,91,%,direct,Direkt jämförbar,88 % ja + 3 % ja ibland.,RVU 2020
 2025,bike_access_any,Tillgång till cykel,Alltid eller ibland,87,%,direct,Direkt jämförbar,83 % ja + 4 % ja ibland.,RVU 2025
+2015,bike_access_none,Ingen tillgång till cykel,Nej,8,%,direct,Direkt jämförbar,RVU 2020:s jämförelsetabell redovisar 2015: Nej 8 %.,"RVU 2020 Tabell 9, historik 2015"
+2020,bike_access_none,Ingen tillgång till cykel,Nej,9,%,direct,Direkt jämförbar,Tabell 9 redovisar Nej 9 %.,RVU 2020 Tabell 9
+2025,bike_access_none,Ingen tillgång till cykel,Nej,12,%,direct,Direkt jämförbar,Graf 7 redovisar Nej 12 %.,RVU 2025 Graf 7
 2010,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,63,%,direct,Direkt jämförbar,"Detaljtabellen anger 63 % ja, 22 % nej och 15 % bor i centrum.",RVU 2010
 2015,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2020.,RVU 2020 jämförelsetabell för 2015
 2020,bus_line_knowledge,Kännedom om busslinjer till Luleå centrum,Känner till minst en linje,77,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015.,RVU 2020
