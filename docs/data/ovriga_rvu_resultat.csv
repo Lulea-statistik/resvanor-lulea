@@ -1,11 +1,22 @@
 year,theme,variable,category,value,unit,reason,source
+2005,Bakgrund,Sysselsättning,Arbetssökande,5,%,Senare RVU använder närliggande men inte fullt verifierad serie; 2015 års exakta kategoriandel kan inte säkert läsas ut,RVU 2005 befolkningsavsnitt
+2005,Beteende,Cykelhjälmsanvändning,Aldrig,80,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
+2005,Beteende,Cykelhjälmsanvändning,Alltid,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
+2005,Beteende,Cykelhjälmsanvändning,Ibland,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
+2015,Bakgrund,Hushållssammansättning,En vuxen med barn,3,%,Kategorierna för hushåll och barn är omgjorda 2025 och kan inte harmoniseras direkt,RVU 2015 Figur 3:3
+2015,Bakgrund,Hushållssammansättning,Två eller fler vuxna med barn,30,%,Kategorierna för hushåll och barn är omgjorda 2025 och kan inte harmoniseras direkt,RVU 2015 Figur 3:3
 2015,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2015 Figur 3:1
-2025,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2025 Graf 3
-2020,Bakgrund,Sysselsättning,Arbetssökande,2,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2020 Graf 1
-2025,Bakgrund,Sysselsättning,Arbetssökande,1,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2025 Graf 3
+2015,Bakgrund,Utbildningsnivå,Högskola/Universitet,39,%,2020 anger bara 'drygt 40 %' och saknar ett exakt verifierbart värde; därför visas ingen trendserie,RVU 2015 Figur 3:2
 2015,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2015 Figur 4:5
-2020,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2020 Graf 10
-2025,Tillgång,Färdtjänstlegitimation,Nej,97,%,2015 och 2020 redovisar främst Ja-värdet; Nej ska inte räknas fram som komplement,RVU 2025 Graf 7
+2020,Bakgrund,Sysselsättning,Arbetssökande,2,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2020 Graf 1
 2020,Tillgång,Elcykel,Nej,94,%,Frågan var ny 2020; det finns därför inte tre jämförbara mättillfällen,RVU 2020 Tabell 10
+2020,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2020 Graf 10
+2025,Bakgrund,Hushållssammansättning,Hemmaboende barn 11–17 år,21,%,2025 använder barnens åldersgrupper i stället för 2015 års hushållstyper; kategorierna överlappar inte direkt,RVU 2025 Graf 1
+2025,Bakgrund,Hushållssammansättning,Hemmaboende barn under 10 år,19,%,2025 använder barnens åldersgrupper i stället för 2015 års hushållstyper; kategorierna överlappar inte direkt,RVU 2025 Graf 1
+2025,Bakgrund,Hushållssammansättning,Hushåll utan barn,60,%,Rapporten anger att 60 % saknar barn i hushållet; äldre rapporter använder andra kategorier och åldersgränser,RVU 2025 Graf 1
+2025,Bakgrund,Sysselsättning,Arbetssökande,1,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2025 Graf 3
+2025,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2025 Graf 3
+2025,Bakgrund,Utbildningsnivå,Högskola/Universitet,45,%,2020 anger bara 'drygt 40 %' och saknar ett exakt verifierbart värde; därför visas ingen trendserie,RVU 2025 Graf 2
 2025,Tillgång,Elcykel,Nej,89,%,Frågan saknas i jämförbar form 2015; ingen treårsserie,RVU 2025 Graf 7
 2025,Tillgång,Elsparkcykel,Nej,94,%,Frågan saknar jämförbara tidigare mättillfällen,RVU 2025 Graf 7
+2025,Tillgång,Färdtjänstlegitimation,Nej,97,%,2015 och 2020 redovisar främst Ja-värdet; Nej ska inte räknas fram som komplement,RVU 2025 Graf 7
