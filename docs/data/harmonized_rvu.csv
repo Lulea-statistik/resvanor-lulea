@@ -296,3 +296,8 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Gratis,40,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015 och 2020.,RVU 2025
 2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Ingen parkering,24,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015 och 2020.,RVU 2025
 2025,workplace_parking,Parkeringsmöjlighet vid arbete/skola,Mot avgift,36,%,direct,Direkt jämförbar,Samma fråga och svarsalternativ som 2015 och 2020.,RVU 2025
+2005,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,75,%,reservation,Jämförbar med metodreservation,"Rapporten anger 'tre av fyra' med fast arbetsplats har parkering. Avser arbetsplats, inte skola.",RVU 2005 sammanfattning
+2010,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,72,%,reservation,Jämförbar med metodreservation,"Fast arbetsplats: 72 % har tillgång till parkering. Avser arbetsplats, inte skola.",RVU 2010 avsnitt 4.1
+2015,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,78,%,direct,Direkt jämförbar,Härlett transparent som 41 % gratis + 37 % mot avgift.,RVU 2015
+2020,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,86,%,direct,Direkt jämförbar,Härlett transparent som 42 % gratis + 44 % mot avgift.,RVU 2020
+2025,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,76,%,direct,Direkt jämförbar,Härlett transparent som 40 % gratis + 36 % mot avgift.,RVU 2025
