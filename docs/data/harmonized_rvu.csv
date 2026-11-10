@@ -36,6 +36,11 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,bus_pass_always_total,Alltid tillgång till busskort,Alltid,61,%,direct,Direkt jämförbar,Samma svarskategori som 2020 och 2025.,RVU 2015 avsnitt 4.2
 2020,bus_pass_always_total,Alltid tillgång till busskort,Alltid,56,%,direct,Direkt jämförbar,"Tabell 8: Ja 56 %, Ja ibland 12 %, Nej 32 %.",RVU 2020 Tabell 8
 2025,bus_pass_always_total,Alltid tillgång till busskort,Alltid,41,%,direct,Direkt jämförbar,"Graf 7: Ja 41 %, Ja ibland 16 %, Nej 44 %.",RVU 2025 Graf 7
+2005,bus_pass_never_total,Aldrig tillgång till busskort,Aldrig/Nej,50,%,reservation,Jämförbar med metodreservation,Rapporten anger 'varannan invånare' har aldrig tillgång; avrundat rapportvärde och äldre/snävare geografi.,RVU 2005
+2010,bus_pass_never_total,Aldrig tillgång till busskort,Aldrig/Nej,47,%,reservation,Jämförbar med metodreservation,"Figuren anger Nej, aldrig 47 %. Äldre/snävare geografi och undersökningsdesign.",RVU 2010 avsnitt 4.2
+2015,bus_pass_never_total,Aldrig tillgång till busskort,Aldrig/Nej,29,%,direct,Direkt jämförbar,Rapporttext anger 29 % aldrig tillgång till busskort.,RVU 2015 avsnitt 4.2
+2020,bus_pass_never_total,Aldrig tillgång till busskort,Aldrig/Nej,32,%,direct,Direkt jämförbar,Tabell 8: Nej 32 %.,RVU 2020 Tabell 8
+2025,bus_pass_never_total,Aldrig tillgång till busskort,Aldrig/Nej,44,%,direct,Direkt jämförbar,Graf 7: Nej 44 %.,RVU 2025 Graf 7
 2015,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2015
 2020,car_access,Tillgång till bil,Alltid eller ibland,90,%,direct,Direkt jämförbar,80 % alltid + 10 % ibland.,RVU 2020
 2025,car_access,Tillgång till bil,Alltid eller ibland,89,%,direct,Direkt jämförbar,81 % alltid + 8 % ibland.,RVU 2025
