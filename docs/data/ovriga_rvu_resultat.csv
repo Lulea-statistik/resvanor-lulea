@@ -1,8 +1,21 @@
 year,theme,variable,category,value,unit,reason,source
+2005,Attityd,Cyklistattityd,Cykelstölder är ett stort problem,78,%,Explicit diagram: 34 % delvis + 44 % instämmer; samma påstående är inte verifierat senare,RVU 2005 cyklistattityder
+2005,Attityd,Cyklistattityd,Känner sig trygg,76,%,Explicit diagramvärde; engångs-/äldre attitydfråga utan verifierad jämförbar serie,RVU 2005 cyklistattityder
+2005,Attityd,Cyklistattityd,Trafiksäkert att cykla,60,%,Rapporttext anger sex av tio; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 cyklistattityder
 2005,Bakgrund,Sysselsättning,Arbetssökande,5,%,Senare RVU använder närliggande men inte fullt verifierad serie; 2015 års exakta kategoriandel kan inte säkert läsas ut,RVU 2005 befolkningsavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Aldrig,80,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Alltid,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Ibland,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
+2005,Beteende,Motiv för bussresande,Busstiderna passar,75,%,Rapporten anger 'tre av fyra'; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 bussresenärsavsnitt
+2005,Beteende,Motiv för bussresande,Miljövänligt,80,%,Rapporten anger 'åtta av tio'; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 bussresenärsavsnitt
+2005,Beteende,Motiv för bussresande,Nära till busshållplatsen,80,%,Rapporten anger 'åtta av tio'; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 bussresenärsavsnitt
+2005,Beteende,Motiv för cykling,Det ger motion,81,%,Explicit diagramvärde; frågan är inte verifierad med samma upplägg i senare RVU,RVU 2005 cyklistavsnitt
+2005,Beteende,Motiv för cykling,Det går fort med cykel,84,%,Explicit diagramvärde; frågan är inte verifierad med samma upplägg i senare RVU,RVU 2005 cyklistavsnitt
+2005,Beteende,Motiv för cykling,Enkelt att cykla dit jag ska,94,%,Explicit diagramvärde; frågan är inte verifierad med samma upplägg i senare RVU,RVU 2005 cyklistavsnitt
+2005,Beteende,Motiv för cykling,Miljövänligt,78,%,Explicit diagramvärde; frågan är inte verifierad med samma upplägg i senare RVU,RVU 2005 cyklistavsnitt
+2005,Beteende,Möjlighet att ersätta bilresa,Skulle kunna cykla,67,%,Rapporten anger 'två av tre'; avrundat rapportvärde och engångsfråga utan verifierad jämförbar flerårsserie,RVU 2005 bilistavsnitt
+2005,Beteende,Möjlighet att ersätta bilresa,Skulle kunna samåka,33,%,Rapporten anger 'en av tre'; avrundat rapportvärde och engångsfråga utan verifierad jämförbar flerårsserie,RVU 2005 bilistavsnitt
+2005,Beteende,Möjlighet att ersätta bilresa,Skulle kunna åka buss,67,%,Rapporten anger 'två av tre'; avrundat rapportvärde och engångsfråga utan verifierad jämförbar flerårsserie,RVU 2005 bilistavsnitt
 2005,Tillgång,Fritidsfordon,Moped eller motorcykel,10,%,2005 slår ihop moped och motorcykel medan senare RVU särredovisar dem; därför ska måttet inte trendkopplas,RVU 2005 avsnitt Tillgång till andra färdmedel
 2005,Tillgång,Fritidsfordon,Motordriven fritidsbåt och/eller snöskoter,33,%,Frågan är ett äldre engångsmått och saknar verifierad motsvarighet med samma definition i senare RVU,RVU 2005 avsnitt Tillgång till andra färdmedel
 2015,Bakgrund,Hushållssammansättning,En vuxen med barn,3,%,Kategorierna för hushåll och barn är omgjorda 2025 och kan inte harmoniseras direkt,RVU 2015 Figur 3:3
