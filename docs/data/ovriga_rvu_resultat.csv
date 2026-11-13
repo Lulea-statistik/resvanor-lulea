@@ -1509,3 +1509,11 @@ year,theme,variable,category,value,unit,reason,source
 2025,Bakgrund,Sysselsättning,Föräldraledig/Tjänstledig,1,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
 2025,Bakgrund,Sysselsättning,Sjukskriven,1,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
 2025,Bakgrund,Sysselsättning,Annat,1,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
+2025,Resvanor,Förflyttning under gårdagen – vuxna,Ja,79,%,Andel som gjorde minst en förflyttning under gårdagen,RVU 2025 Graf 17
+2025,Resvanor,Förflyttning under gårdagen – vuxna,Nej – hemma eller på samma plats hela dagen,21,%,Andel utan förflyttning under gårdagen,RVU 2025 Graf 17
+2025,Resvanor,Orsak till ingen förflyttning – vuxna,Jag hade inga ärenden,66,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
+2025,Resvanor,Orsak till ingen förflyttning – vuxna,Sjukdom,11,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
+2025,Resvanor,Orsak till ingen förflyttning – vuxna,Vård av sjukt barn,0,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
+2025,Resvanor,Orsak till ingen förflyttning – vuxna,Funktionshinder,2,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
+2025,Resvanor,Orsak till ingen förflyttning – vuxna,Hemarbete/hemmastudier,13,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
+2025,Resvanor,Orsak till ingen förflyttning – vuxna,Annat,7,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
