@@ -136,6 +136,30 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedelsanvändning,Skjuts av anhörig,38,%,Resultatet gäller barnens resande och saknar jämförbar vuxenserie,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Förflyttning under gårdagen,Gjorde någon förflyttning,94,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
 2025,Barnens RVU,Förflyttning under gårdagen,Ingen förflyttning,6,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
+2025,Barnens RVU,Förflyttning under gårdagen – 12–15 år,Ja,95,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – 12–15 år,Nej,5,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – 6–8 år,Ja,94,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – 6–8 år,Nej,6,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – 9–11 år,Ja,94,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – 9–11 år,Nej,6,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Bergnäset/Kallax,Ja,95,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Bergnäset/Kallax,Nej,5,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Bergviken-Rutvik,Ja,95,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Bergviken-Rutvik,Nej,5,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Björkskatan-Bensbyn,Ja,97,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Björkskatan-Bensbyn,Nej,3,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Centrum,Ja,89,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Centrum,Nej,11,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Kille,Ja,94,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Kille,Nej,6,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Malmudden/Kronan,Ja,95,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Malmudden/Kronan,Nej,5,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Mjölkudden-Sunderbyn,Ja,94,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Mjölkudden-Sunderbyn,Nej,6,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Tjej,Ja,96,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Tjej,Nej,4,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Övrigt,Ja,94,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
+2025,Barnens RVU,Förflyttning under gårdagen – Övrigt,Nej,6,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
 2025,Barnens RVU,Genomsnittligt antal resor – 12–15 år,Helg,2.4,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
 2025,Barnens RVU,Genomsnittligt antal resor – 12–15 år,Totalt,3.1,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
 2025,Barnens RVU,Genomsnittligt antal resor – 12–15 år,Vardag,3.2,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
