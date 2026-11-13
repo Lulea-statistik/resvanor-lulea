@@ -106,6 +106,29 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Tillgång till färdmedel,Skjuts av förälder,91,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Ärende,Fritidsaktivitet,27,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Ärende,Till skola,44,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
+2025,Reslängd,Medelreslängd efter färdsätt,Bil,15,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medelreslängd efter färdsätt,Cykel,4,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medelreslängd efter färdsätt,Kollektivtrafik,12,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medelreslängd efter färdsätt,Till fots,2,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medianreslängd efter färdsätt,Bil,6,km,Detaljerat färdsättsspecifikt reslängdsmått; huvudserien visar inte denna uppdelning som harmoniserad flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medianreslängd efter färdsätt,Cykel,3,km,Detaljerat färdsättsspecifikt reslängdsmått; huvudserien visar inte denna uppdelning som harmoniserad flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medianreslängd efter färdsätt,Kollektivtrafik,5,km,Detaljerat färdsättsspecifikt reslängdsmått; huvudserien visar inte denna uppdelning som harmoniserad flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Medianreslängd efter färdsätt,Till fots,1,km,Detaljerat färdsättsspecifikt reslängdsmått; huvudserien visar inte denna uppdelning som harmoniserad flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Reslängdsklass,"10–24,9 km",19,%,Fördelning över reslängdsklasser i 2025 års RVU; inte verifierad som jämförbar flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Reslängdsklass,25 km eller längre,10,%,Fördelning över reslängdsklasser i 2025 års RVU; inte verifierad som jämförbar flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Reslängdsklass,"4–9,9 km",29,%,Fördelning över reslängdsklasser i 2025 års RVU; inte verifierad som jämförbar flerårsserie,RVU 2025 sammanfattning
+2025,Reslängd,Reslängdsklass,"Kortare än 3,9 km",41,%,Fördelning över reslängdsklasser i 2025 års RVU; inte verifierad som jämförbar flerårsserie,RVU 2025 sammanfattning
+2025,Resor efter ärende,Ärendefördelning,Annat inköp,4,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Besöka släkt och vänner,4,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Besöka vårdcentral/sjukhus/tandvård,2,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Hämta ut paket,1,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Hämta/lämna barn,4,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Inköp av livsmedel,8,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Nöje,2,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Resa/ärende i tjänsten,3,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Till föreningsliv t.ex. idrott,3,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Till motion/friluftsliv,6,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Till skola/utbildning,2,%,Detaljerat ärendemått från 2025; inte harmoniserat över flera år på denna detaljnivå,RVU 2025 Graf 30
 2025,Tillgång,Elcykel,Nej,89,%,Frågan saknas i jämförbar form 2015; ingen treårsserie,RVU 2025 Graf 7
 2025,Tillgång,Elsparkcykel,Nej,94,%,Frågan saknar jämförbara tidigare mättillfällen,RVU 2025 Graf 7
 2025,Tillgång,Färdtjänstlegitimation,Nej,97,%,2015 och 2020 redovisar främst Ja-värdet; Nej ska inte räknas fram som komplement,RVU 2025 Graf 7
