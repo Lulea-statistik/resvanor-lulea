@@ -257,8 +257,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till fritidsaktivitet,27,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till nöje,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till skola,52,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
-2025,Barnens RVU,Bussandel efter reslängd,10 km eller längre,23,%,Rapporttexten anger explicit bussandelen för resor över 10 km,RVU 2025 avsnitt Reslängd och färdmedel
-2025,Barnens RVU,Bussandel efter reslängd,"4–9,9 km",27,%,"Rapporttexten anger explicit bussandelen upp till 9,9 km",RVU 2025 avsnitt Reslängd och färdmedel
 2025,Barnens RVU,Bussresande efter ålder,12–15 år,29,%,Rapporttexten anger explicit 29 % för 12–15-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Bussresande efter ålder,9–11 år,8,%,Rapporttexten anger explicit 8 % för 9–11-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Färdmedel efter kön – Kille,Annat,4,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
@@ -300,8 +298,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Cykel,20,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Skjuts av anhörig,52,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Till fots,20,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
-2025,Barnens RVU,Färdmedel för resor under 1 km,Cykel,40,%,Rapporttexten anger explicit färdmedelsandel för resor under 1 km,RVU 2025 avsnitt Reslängd och färdmedel
-2025,Barnens RVU,Färdmedel för resor under 1 km,Till fots,47,%,Rapporttexten anger explicit färdmedelsandel för resor under 1 km,RVU 2025 avsnitt Reslängd och färdmedel
 2025,Barnens RVU,Färdmedel till affär,Buss,5,%,Rapporttexten anger explicit att affärsresor har lägst bussandel,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedel till affär,Till fots,30,%,Rapporttexten anger explicit att gång är vanligast till affär,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedel till fritidsaktivitet,Skjuts av anhörig,70,%,Rapporttexten anger explicit detta som klart vanligaste färdsättet till fritidsaktivitet,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
