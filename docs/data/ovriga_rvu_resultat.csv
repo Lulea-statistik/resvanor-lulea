@@ -1075,3 +1075,105 @@ year,theme,variable,category,value,unit,reason,source
 2025,Attityd,Prioritering bil kontra gång/cykel,Prioritera gång/cykeltrafik,61,%,Totalfördelning i prioriteringsfrågan,RVU 2025 Graf 15
 2025,Attityd,Prioritering bil kontra gång/cykel,Prioritera biltrafik,24,%,Totalfördelning i prioriteringsfrågan,RVU 2025 Graf 15
 2025,Attityd,Prioritering bil kontra gång/cykel,Vet ej/ingen åsikt,15,%,Totalfördelning i prioriteringsfrågan,RVU 2025 Graf 15
+2025,Attityd,Prioritering bil kontra buss – Kvinna,Prioritera busstrafik,55,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Kvinna,Prioritera biltrafik,18,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Kvinna,Vet ej/ingen åsikt,27,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Man,Prioritera busstrafik,54,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Man,Prioritera biltrafik,30,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Man,Vet ej/ingen åsikt,17,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 16–24 år,Prioritera busstrafik,54,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 16–24 år,Prioritera biltrafik,28,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 16–24 år,Vet ej/ingen åsikt,18,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 25–44 år,Prioritera busstrafik,51,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 25–44 år,Prioritera biltrafik,27,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 25–44 år,Vet ej/ingen åsikt,22,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 45–64 år,Prioritera busstrafik,56,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 45–64 år,Prioritera biltrafik,22,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 45–64 år,Vet ej/ingen åsikt,23,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 65–84 år,Prioritera busstrafik,58,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 65–84 år,Prioritera biltrafik,20,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – 65–84 år,Vet ej/ingen åsikt,22,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Bergnäset,Prioritera busstrafik,55,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Bergnäset,Prioritera biltrafik,27,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Bergnäset,Vet ej/ingen åsikt,17,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Bergviken/Porsön,Prioritera busstrafik,67,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Bergviken/Porsön,Prioritera biltrafik,13,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Bergviken/Porsön,Vet ej/ingen åsikt,20,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Björkskatan/Lulsundet,Prioritera busstrafik,61,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Björkskatan/Lulsundet,Prioritera biltrafik,19,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Björkskatan/Lulsundet,Vet ej/ingen åsikt,20,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Centrum/Östermalm,Prioritera busstrafik,60,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Centrum/Östermalm,Prioritera biltrafik,20,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Centrum/Östermalm,Vet ej/ingen åsikt,20,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Gammelstad/Sunderbyn,Prioritera busstrafik,56,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Gammelstad/Sunderbyn,Prioritera biltrafik,25,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Gammelstad/Sunderbyn,Vet ej/ingen åsikt,19,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Hertsön/Lerbäcken,Prioritera busstrafik,55,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Hertsön/Lerbäcken,Prioritera biltrafik,26,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Hertsön/Lerbäcken,Vet ej/ingen åsikt,19,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Landsbygd,Prioritera busstrafik,38,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Landsbygd,Prioritera biltrafik,38,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Landsbygd,Vet ej/ingen åsikt,24,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Mjölkudden/Notviken,Prioritera busstrafik,54,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Mjölkudden/Notviken,Prioritera biltrafik,23,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Mjölkudden/Notviken,Vet ej/ingen åsikt,23,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Råneå,Prioritera busstrafik,40,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Råneå,Prioritera biltrafik,32,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Råneå,Vet ej/ingen åsikt,29,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Sörbyarna,Prioritera busstrafik,44,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Sörbyarna,Prioritera biltrafik,33,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Sörbyarna,Vet ej/ingen åsikt,23,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Örnäset/Skurholmen/mfl,Prioritera busstrafik,54,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Örnäset/Skurholmen/mfl,Prioritera biltrafik,22,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra buss – Örnäset/Skurholmen/mfl,Vet ej/ingen åsikt,23,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 5
+2025,Attityd,Prioritering bil kontra gång/cykel – Kvinna,Prioritera gång/cykeltrafik,63,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Kvinna,Prioritera biltrafik,19,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Kvinna,Vet ej/ingen åsikt,18,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Man,Prioritera gång/cykeltrafik,58,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Man,Prioritera biltrafik,29,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Man,Vet ej/ingen åsikt,13,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 16–24 år,Prioritera gång/cykeltrafik,51,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 16–24 år,Prioritera biltrafik,38,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 16–24 år,Vet ej/ingen åsikt,12,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 25–44 år,Prioritera gång/cykeltrafik,64,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 25–44 år,Prioritera biltrafik,25,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 25–44 år,Vet ej/ingen åsikt,11,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 45–64 år,Prioritera gång/cykeltrafik,63,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 45–64 år,Prioritera biltrafik,21,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 45–64 år,Vet ej/ingen åsikt,16,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 65–84 år,Prioritera gång/cykeltrafik,59,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 65–84 år,Prioritera biltrafik,18,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – 65–84 år,Vet ej/ingen åsikt,23,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Bergnäset,Prioritera gång/cykeltrafik,67,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Bergnäset,Prioritera biltrafik,21,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Bergnäset,Vet ej/ingen åsikt,12,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Bergviken/Porsön,Prioritera gång/cykeltrafik,70,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Bergviken/Porsön,Prioritera biltrafik,19,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Bergviken/Porsön,Vet ej/ingen åsikt,11,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Björkskatan/Lulsundet,Prioritera gång/cykeltrafik,68,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Björkskatan/Lulsundet,Prioritera biltrafik,14,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Björkskatan/Lulsundet,Vet ej/ingen åsikt,18,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Centrum/Östermalm,Prioritera gång/cykeltrafik,69,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Centrum/Östermalm,Prioritera biltrafik,15,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Centrum/Östermalm,Vet ej/ingen åsikt,16,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Gammelstad/Sunderbyn,Prioritera gång/cykeltrafik,61,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Gammelstad/Sunderbyn,Prioritera biltrafik,25,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Gammelstad/Sunderbyn,Vet ej/ingen åsikt,14,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Hertsön/Lerbäcken,Prioritera gång/cykeltrafik,54,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Hertsön/Lerbäcken,Prioritera biltrafik,29,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Hertsön/Lerbäcken,Vet ej/ingen åsikt,17,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Landsbygd,Prioritera gång/cykeltrafik,54,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Landsbygd,Prioritera biltrafik,31,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Landsbygd,Vet ej/ingen åsikt,16,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Mjölkudden/Notviken,Prioritera gång/cykeltrafik,61,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Mjölkudden/Notviken,Prioritera biltrafik,24,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Mjölkudden/Notviken,Vet ej/ingen åsikt,15,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Råneå,Prioritera gång/cykeltrafik,46,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Råneå,Prioritera biltrafik,34,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Råneå,Vet ej/ingen åsikt,20,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Sörbyarna,Prioritera gång/cykeltrafik,48,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Sörbyarna,Prioritera biltrafik,35,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Sörbyarna,Vet ej/ingen åsikt,17,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Örnäset/Skurholmen/mfl,Prioritera gång/cykeltrafik,59,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Örnäset/Skurholmen/mfl,Prioritera biltrafik,26,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
+2025,Attityd,Prioritering bil kontra gång/cykel – Örnäset/Skurholmen/mfl,Vet ej/ingen åsikt,15,%,Gruppuppdelning av prioriteringsfråga,RVU 2025 Tabell 6
