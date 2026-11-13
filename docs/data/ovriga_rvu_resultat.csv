@@ -106,6 +106,15 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Tillgång till färdmedel,Skjuts av förälder,91,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Ärende,Fritidsaktivitet,27,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Ärende,Till skola,44,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
+2025,Färdmedel efter bakgrund,Ensamhushåll utan barn,Bil,46,%,Detaljerad bakgrundsuppdelning från RVU 2025; inte verifierad som harmoniserad flerårsserie,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Ensamhushåll utan barn,Cykel,17,%,Detaljerad bakgrundsuppdelning från RVU 2025; inte verifierad som harmoniserad flerårsserie,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Ensamhushåll utan barn,Kollektivtrafik,14,%,Detaljerad bakgrundsuppdelning från RVU 2025; inte verifierad som harmoniserad flerårsserie,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Ensamhushåll utan barn,Till fots,20,%,Detaljerad bakgrundsuppdelning från RVU 2025; inte verifierad som harmoniserad flerårsserie,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Ensamhushåll utan barn,Övrigt,3,%,Detaljerad bakgrundsuppdelning från RVU 2025; inte verifierad som harmoniserad flerårsserie,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Ålder 16–24 år,Bil,35,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 16–24 år,Cykel,12,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 16–24 år,Kollektivtrafik,33,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 16–24 år,Till fots,20,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
 2025,Reslängd,Medelreslängd efter färdsätt,Bil,15,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
 2025,Reslängd,Medelreslängd efter färdsätt,Cykel,4,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
 2025,Reslängd,Medelreslängd efter färdsätt,Kollektivtrafik,12,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
