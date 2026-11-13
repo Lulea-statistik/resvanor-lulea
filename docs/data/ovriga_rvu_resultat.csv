@@ -770,3 +770,8 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,2,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
 2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Busskort – Ja + Ja, ibland,42,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
 2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Skjuts av förälder i bil – Ja + Ja, ibland,95,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Barnens könsfördelning,Tjej,51,%,Bakgrundsmått för barn-RVU 2025; separat population från huvud-RVU,RVU 2025 Graf 39
+2025,Barnens RVU,Barnens könsfördelning,Kille,49,%,Bakgrundsmått för barn-RVU 2025; separat population från huvud-RVU,RVU 2025 Graf 39
+2025,Barnens RVU,Barnens åldersfördelning,6–8 år,29,%,Bakgrundsmått för barn-RVU 2025; separat population från huvud-RVU,RVU 2025 Graf 38
+2025,Barnens RVU,Barnens åldersfördelning,9–11 år,31,%,Bakgrundsmått för barn-RVU 2025; separat population från huvud-RVU,RVU 2025 Graf 38
+2025,Barnens RVU,Barnens åldersfördelning,12–15 år,40,%,Bakgrundsmått för barn-RVU 2025; separat population från huvud-RVU,RVU 2025 Graf 38
