@@ -47,6 +47,11 @@ year,theme,variable,category,value,unit,reason,source
 2015,Reserelationer,Målpunkt – Storheden,Bil som förare,71,%,Målpunktsanalysen gäller ett särskilt urval och saknar verifierad jämförbar upprepning,RVU 2015 Tabell 11:12
 2015,Reserelationer,Målpunkt – Sunderby sjukhus,Bil som förare,70,%,Målpunktsanalysen bygger på ett begränsat antal resor och är inte verifierad som återkommande serie,RVU 2015 Tabell 11:12
 2015,Reserelationer,Målpunkt – Sunderby sjukhus,Buss,17,%,Målpunktsanalysen bygger på ett begränsat antal resor och är inte verifierad som återkommande serie,RVU 2015 Tabell 11:12
+2015,Reslängd,Medianreslängd efter dagtyp,Helg,6,km,Dagtypsspecifikt medianmått från 2015; motsvarande flerårsserie är inte verifierad,RVU 2015 Figur 9:2
+2015,Reslängd,Medianreslängd efter dagtyp,Vardag,5,km,Dagtypsspecifikt medianmått från 2015; motsvarande flerårsserie är inte verifierad,RVU 2015 Figur 9:2
+2015,Reslängd,Medianreslängd efter område,Bergviken/Porsön,4,km,Områdesspecifik medianreslängd från RVU 2015; ingen verifierad jämförbar områdesindelning över flera RVU-år,RVU 2015 sammanfattning
+2015,Reslängd,Medianreslängd efter område,Centrum/Östermalm,4,km,Områdesspecifik medianreslängd från RVU 2015; ingen verifierad jämförbar områdesindelning över flera RVU-år,RVU 2015 sammanfattning
+2015,Reslängd,Medianreslängd efter område,Råneå,30,km,Områdesspecifik medianreslängd från RVU 2015; ingen verifierad jämförbar områdesindelning över flera RVU-år,RVU 2015 Figur 9:3 och sammanfattning
 2015,Resor efter ärende,Hämta/lämna barn/vuxen,Bil som förare,70,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
 2015,Resor efter ärende,Hämta/lämna barn/vuxen,Bil som passagerare,5,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
 2015,Resor efter ärende,Hämta/lämna barn/vuxen,Buss,3,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
