@@ -1258,3 +1258,87 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Annat,2,%,Total för vintersäsong,RVU 2025 Tabell 2
 2025,Resvanor,Hållbart resande till/från arbete eller skola,Sommar,56,%,Cykel elcykel buss till fots eller elsparkcykel,RVU 2025 Graf 5
 2025,Resvanor,Hållbart resande till/från arbete eller skola,Vinter,44,%,Cykel elcykel buss till fots eller elsparkcykel,RVU 2025 Graf 5
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,Bil,37,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,Bil,48,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,Cykel,30,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,Cykel,5,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,Buss,15,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,Buss,29,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,Till fots,12,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,Till fots,15,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,El-cykel,3,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,El-cykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,El-sparkcykel,1,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,El-sparkcykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Sommar,Annat,2,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Kvinna – Vinter,Annat,2,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,Bil,47,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,Bil,57,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,Cykel,24,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,Cykel,9,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,Buss,12,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,Buss,21,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,Till fots,7,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,Till fots,8,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,El-cykel,4,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,El-cykel,2,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,El-sparkcykel,1,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,El-sparkcykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Sommar,Annat,3,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Man – Vinter,Annat,3,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,Bil,28,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,Bil,32,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,Cykel,22,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,Cykel,5,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,Buss,30,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,Buss,49,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,Till fots,14,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,Till fots,13,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,El-cykel,2,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,El-cykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,El-sparkcykel,1,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,El-sparkcykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Sommar,Annat,2,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 16–30 år – Vinter,Annat,1,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,Bil,39,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,Bil,53,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,Cykel,30,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,Cykel,8,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,Buss,14,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,Buss,26,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,Till fots,9,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,Till fots,11,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,El-cykel,4,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,El-cykel,1,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,El-sparkcykel,2,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,El-sparkcykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Sommar,Annat,1,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 31–44 år – Vinter,Annat,1,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,Bil,51,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,Bil,63,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,Cykel,27,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,Cykel,8,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,Buss,8,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,Buss,15,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,Till fots,7,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,Till fots,11,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,El-cykel,4,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,El-cykel,2,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,El-sparkcykel,0,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,El-sparkcykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Sommar,Annat,1,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 45–64 år – Vinter,Annat,1,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,Bil,45,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,Bil,52,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,Cykel,24,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,Cykel,3,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,Buss,6,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,Buss,19,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,Till fots,10,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,Till fots,14,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,El-cykel,3,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,El-cykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,El-sparkcykel,0,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,El-sparkcykel,0,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Sommar,Annat,12,%,Gruppuppdelning för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – 65–84 år – Vinter,Annat,12,%,Gruppuppdelning för vintersäsong,RVU 2025 Tabell 2
