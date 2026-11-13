@@ -857,3 +857,207 @@ year,theme,variable,category,value,unit,reason,source
 2025,Attityd,Förväntad förändring av kollektivtrafikresande,Öka,28,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
 2025,Attityd,Förväntad förändring av kollektivtrafikresande,Ingen förändring,52,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
 2025,Attityd,Förväntad förändring av kollektivtrafikresande,Vet ej,9,%,Frågan avser respondentens bedömning av framtida resande och saknar verifierad jämförbar flerårsserie,RVU 2025 Graf 16
+2025,Attityd,Förväntad förändring av bilanvändning – Kvinna,Öka,20,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Kvinna,Ingen förändring,55,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Kvinna,Minska,19,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Kvinna,Vet ej,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Man,Öka,23,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Man,Ingen förändring,56,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Man,Minska,17,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Man,Vet ej,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 16–24 år,Öka,53,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 16–24 år,Ingen förändring,29,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 16–24 år,Minska,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 16–24 år,Vet ej,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 25–44 år,Öka,28,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 25–44 år,Ingen förändring,54,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 25–44 år,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 25–44 år,Vet ej,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 45–64 år,Öka,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 45–64 år,Ingen förändring,64,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 45–64 år,Minska,21,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 45–64 år,Vet ej,3,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 65–84 år,Öka,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 65–84 år,Ingen förändring,61,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 65–84 år,Minska,27,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – 65–84 år,Vet ej,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergnäset,Öka,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergnäset,Ingen förändring,72,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergnäset,Minska,23,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergnäset,Vet ej,1,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergviken/Porsön,Öka,27,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergviken/Porsön,Ingen förändring,46,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergviken/Porsön,Minska,20,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Bergviken/Porsön,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Björkskatan/Lulsundet,Öka,14,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Björkskatan/Lulsundet,Ingen förändring,64,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Björkskatan/Lulsundet,Minska,20,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Björkskatan/Lulsundet,Vet ej,3,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Centrum/Östermalm,Öka,21,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Centrum/Östermalm,Ingen förändring,55,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Centrum/Östermalm,Minska,21,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Centrum/Östermalm,Vet ej,3,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Gammelstad/Sunderbyn,Öka,20,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Gammelstad/Sunderbyn,Ingen förändring,59,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Gammelstad/Sunderbyn,Minska,16,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Gammelstad/Sunderbyn,Vet ej,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Hertsön/Lerbäcken,Öka,21,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Hertsön/Lerbäcken,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Hertsön/Lerbäcken,Minska,26,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Hertsön/Lerbäcken,Vet ej,2,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Landsbygd,Öka,24,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Landsbygd,Ingen förändring,61,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Landsbygd,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Landsbygd,Vet ej,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Mjölkudden/Notviken,Öka,21,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Mjölkudden/Notviken,Ingen förändring,48,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Mjölkudden/Notviken,Minska,21,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Mjölkudden/Notviken,Vet ej,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Råneå,Öka,18,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Råneå,Ingen förändring,66,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Råneå,Minska,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Råneå,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Sörbyarna,Öka,32,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Sörbyarna,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Sörbyarna,Minska,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Sörbyarna,Vet ej,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Örnäset/Skurholmen/mfl,Öka,22,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Örnäset/Skurholmen/mfl,Ingen förändring,53,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Örnäset/Skurholmen/mfl,Minska,20,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av bilanvändning – Örnäset/Skurholmen/mfl,Vet ej,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 7
+2025,Attityd,Förväntad förändring av cykelanvändning – Kvinna,Öka,30,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Kvinna,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Kvinna,Minska,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Kvinna,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Man,Öka,29,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Man,Ingen förändring,54,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Man,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Man,Vet ej,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 16–24 år,Öka,31,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 16–24 år,Ingen förändring,44,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 16–24 år,Minska,19,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 16–24 år,Vet ej,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 25–44 år,Öka,38,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 25–44 år,Ingen förändring,49,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 25–44 år,Minska,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 25–44 år,Vet ej,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 45–64 år,Öka,30,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 45–64 år,Ingen förändring,61,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 45–64 år,Minska,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 45–64 år,Vet ej,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 65–84 år,Öka,16,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 65–84 år,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 65–84 år,Minska,20,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – 65–84 år,Vet ej,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergnäset,Öka,44,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergnäset,Ingen förändring,46,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergnäset,Minska,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergnäset,Vet ej,2,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergviken/Porsön,Öka,38,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergviken/Porsön,Ingen förändring,45,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergviken/Porsön,Minska,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Bergviken/Porsön,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Björkskatan/Lulsundet,Öka,28,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Björkskatan/Lulsundet,Ingen förändring,61,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Björkskatan/Lulsundet,Minska,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Björkskatan/Lulsundet,Vet ej,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Centrum/Östermalm,Öka,28,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Centrum/Östermalm,Ingen förändring,54,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Centrum/Östermalm,Minska,15,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Centrum/Östermalm,Vet ej,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Gammelstad/Sunderbyn,Öka,33,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Gammelstad/Sunderbyn,Ingen förändring,55,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Gammelstad/Sunderbyn,Minska,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Gammelstad/Sunderbyn,Vet ej,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Hertsön/Lerbäcken,Öka,33,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Hertsön/Lerbäcken,Ingen förändring,49,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Hertsön/Lerbäcken,Minska,13,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Hertsön/Lerbäcken,Vet ej,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Landsbygd,Öka,18,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Landsbygd,Ingen förändring,65,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Landsbygd,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Landsbygd,Vet ej,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Mjölkudden/Notviken,Öka,39,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Mjölkudden/Notviken,Ingen förändring,40,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Mjölkudden/Notviken,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Mjölkudden/Notviken,Vet ej,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Råneå,Öka,13,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Råneå,Ingen förändring,63,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Råneå,Minska,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Råneå,Vet ej,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Sörbyarna,Öka,16,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Sörbyarna,Ingen förändring,57,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Sörbyarna,Minska,13,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Sörbyarna,Vet ej,14,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Örnäset/Skurholmen/mfl,Öka,31,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Örnäset/Skurholmen/mfl,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Örnäset/Skurholmen/mfl,Minska,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av cykelanvändning – Örnäset/Skurholmen/mfl,Vet ej,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 8
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Kvinna,Öka,33,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Kvinna,Ingen förändring,48,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Kvinna,Minska,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Kvinna,Vet ej,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Man,Öka,24,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Man,Ingen förändring,57,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Man,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Man,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 16–24 år,Öka,34,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 16–24 år,Ingen förändring,34,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 16–24 år,Minska,25,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 16–24 år,Vet ej,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 25–44 år,Öka,26,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 25–44 år,Ingen förändring,55,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 25–44 år,Minska,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 25–44 år,Vet ej,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 45–64 år,Öka,22,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 45–64 år,Ingen förändring,63,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 45–64 år,Minska,7,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 45–64 år,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 65–84 år,Öka,36,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 65–84 år,Ingen förändring,47,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 65–84 år,Minska,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – 65–84 år,Vet ej,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergnäset,Öka,38,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergnäset,Ingen förändring,51,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergnäset,Minska,3,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergnäset,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergviken/Porsön,Öka,40,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergviken/Porsön,Ingen förändring,42,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergviken/Porsön,Minska,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Bergviken/Porsön,Vet ej,6,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Björkskatan/Lulsundet,Öka,26,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Björkskatan/Lulsundet,Ingen förändring,60,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Björkskatan/Lulsundet,Minska,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Björkskatan/Lulsundet,Vet ej,4,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Centrum/Östermalm,Öka,27,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Centrum/Östermalm,Ingen förändring,54,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Centrum/Östermalm,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Centrum/Östermalm,Vet ej,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Gammelstad/Sunderbyn,Öka,30,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Gammelstad/Sunderbyn,Ingen förändring,57,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Gammelstad/Sunderbyn,Minska,8,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Gammelstad/Sunderbyn,Vet ej,5,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Hertsön/Lerbäcken,Öka,41,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Hertsön/Lerbäcken,Ingen förändring,40,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Hertsön/Lerbäcken,Minska,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Hertsön/Lerbäcken,Vet ej,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Landsbygd,Öka,14,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Landsbygd,Ingen förändring,65,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Landsbygd,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Landsbygd,Vet ej,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Mjölkudden/Notviken,Öka,27,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Mjölkudden/Notviken,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Mjölkudden/Notviken,Minska,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Mjölkudden/Notviken,Vet ej,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Råneå,Öka,17,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Råneå,Ingen förändring,52,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Råneå,Minska,16,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Råneå,Vet ej,15,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Sörbyarna,Öka,22,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Sörbyarna,Ingen förändring,57,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Sörbyarna,Minska,9,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Sörbyarna,Vet ej,12,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Örnäset/Skurholmen/mfl,Öka,26,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Örnäset/Skurholmen/mfl,Ingen förändring,53,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Örnäset/Skurholmen/mfl,Minska,10,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
+2025,Attityd,Förväntad förändring av kollektivtrafikresande – Örnäset/Skurholmen/mfl,Vet ej,11,%,Gruppuppdelning av respondentens bedömning av framtida resande,RVU 2025 Tabell 9
