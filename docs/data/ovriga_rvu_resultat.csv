@@ -1496,3 +1496,16 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Färdmedel till/från arbete eller skola – Örnäset/Skurholmen/mfl – Vinter,El-sparkcykel,0,%,Områdesuppdelning för vintersäsong,RVU 2025 Tabell 3
 2025,Resvanor,Färdmedel till/från arbete eller skola – Örnäset/Skurholmen/mfl – Sommar,Annat,3,%,Områdesuppdelning för sommarsäsong,RVU 2025 Tabell 3
 2025,Resvanor,Färdmedel till/från arbete eller skola – Örnäset/Skurholmen/mfl – Vinter,Annat,3,%,Områdesuppdelning för vintersäsong,RVU 2025 Tabell 3
+2025,Bakgrund,Åldersfördelning,16–24 år,14,%,Viktad åldersfördelning för vuxna respondenter,RVU 2025 Tabell 1
+2025,Bakgrund,Åldersfördelning,25–44 år,32,%,Viktad åldersfördelning för vuxna respondenter,RVU 2025 Tabell 1
+2025,Bakgrund,Åldersfördelning,45–64 år,30,%,Viktad åldersfördelning för vuxna respondenter,RVU 2025 Tabell 1
+2025,Bakgrund,Åldersfördelning,65–84 år,23,%,Viktad åldersfördelning för vuxna respondenter,RVU 2025 Tabell 1
+2025,Bakgrund,Utbildningsnivå,Grundskola/Folkskola,10,%,Högsta avslutade utbildning,RVU 2025 Graf 2
+2025,Bakgrund,Utbildningsnivå,Gymnasium/Realskola,33,%,Högsta avslutade utbildning,RVU 2025 Graf 2
+2025,Bakgrund,Utbildningsnivå,Yrkeshögskola/Folkhögskola,9,%,Högsta avslutade utbildning,RVU 2025 Graf 2
+2025,Bakgrund,Utbildningsnivå,Annan,3,%,Högsta avslutade utbildning,RVU 2025 Graf 2
+2025,Bakgrund,Sysselsättning,Arbetar hel- eller deltid,60,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
+2025,Bakgrund,Sysselsättning,Studerar,12,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
+2025,Bakgrund,Sysselsättning,Föräldraledig/Tjänstledig,1,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
+2025,Bakgrund,Sysselsättning,Sjukskriven,1,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
+2025,Bakgrund,Sysselsättning,Annat,1,%,Huvudsaklig sysselsättning,RVU 2025 Graf 3
