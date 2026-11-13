@@ -364,9 +364,9 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Orsak till ingen förflyttning,Annan orsak,17,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Ledig från skolan och inga ärenden,57,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Sjuk,26,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
-2025,Barnens RVU,Tillgång till färdmedel,Busskort,44,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
-2025,Barnens RVU,Tillgång till färdmedel,Cykel – alltid eller ibland,97,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU och ska inte blandas med vuxenserier,RVU 2025 Barnens resvaneundersökning
-2025,Barnens RVU,Tillgång till färdmedel,Skjuts av förälder,91,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Tillgång till färdmedel,Busskort – Ja + Ja, ibland,50,%,Barnspecifik tillgång till färdmedel; sammanlagt Ja + Ja ibland,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel,Cykel – Ja + Ja, ibland,97,%,Barnspecifik tillgång till färdmedel; sammanlagt Ja + Ja ibland,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel,Skjuts av förälder i bil – Ja + Ja, ibland,91,%,Barnspecifik tillgång till färdmedel; sammanlagt Ja + Ja ibland,RVU 2025 Tabell 17
 2025,Barnens RVU,Ärende,Fritidsaktivitet,27,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Ärende,Till skola,44,%,Barnspecifikt ärendemått; definition och population skiljer sig från huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Färdmedel efter bakgrund,Ensamhushåll utan barn,Bil,46,%,Detaljerad bakgrundsuppdelning från RVU 2025; inte verifierad som harmoniserad flerårsserie,RVU 2025 Graf 23
@@ -708,3 +708,65 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Cykeln riskerar förstöras eller stjälas på skolan,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
 2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Barnet har ingen fungerande cykel,3,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
 2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Annat,12,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Tillgång till färdmedel,Moped – Ja + Ja, ibland,4,%,Barnspecifik tillgång till färdmedel; sammanlagt Ja + Ja ibland,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,2,%,Barnspecifik tillgång till färdmedel; sammanlagt Ja + Ja ibland,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Tjej,Cykel – Ja + Ja, ibland,95,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Tjej,Moped – Ja + Ja, ibland,6,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Tjej,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,2,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Tjej,Busskort – Ja + Ja, ibland,46,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Tjej,Skjuts av förälder i bil – Ja + Ja, ibland,90,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Kille,Cykel – Ja + Ja, ibland,98,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Kille,Moped – Ja + Ja, ibland,6,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Kille,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Kille,Busskort – Ja + Ja, ibland,52,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Kille,Skjuts av förälder i bil – Ja + Ja, ibland,93,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 6–8 år,Cykel – Ja + Ja, ibland,95,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 6–8 år,Moped – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 6–8 år,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 6–8 år,Busskort – Ja + Ja, ibland,21,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 6–8 år,Skjuts av förälder i bil – Ja + Ja, ibland,93,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 9–11 år,Cykel – Ja + Ja, ibland,99,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 9–11 år,Moped – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 9–11 år,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 9–11 år,Busskort – Ja + Ja, ibland,45,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 9–11 år,Skjuts av förälder i bil – Ja + Ja, ibland,91,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 12–15 år,Cykel – Ja + Ja, ibland,97,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 12–15 år,Moped – Ja + Ja, ibland,9,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 12–15 år,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,4,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 12–15 år,Busskort – Ja + Ja, ibland,76,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – 12–15 år,Skjuts av förälder i bil – Ja + Ja, ibland,89,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergnäset/Kallax,Cykel – Ja + Ja, ibland,96,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergnäset/Kallax,Moped – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergnäset/Kallax,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergnäset/Kallax,Busskort – Ja + Ja, ibland,45,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergnäset/Kallax,Skjuts av förälder i bil – Ja + Ja, ibland,94,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergviken-Rutvik,Cykel – Ja + Ja, ibland,95,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergviken-Rutvik,Moped – Ja + Ja, ibland,4,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergviken-Rutvik,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,3,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergviken-Rutvik,Busskort – Ja + Ja, ibland,48,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Bergviken-Rutvik,Skjuts av förälder i bil – Ja + Ja, ibland,86,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Björkskatan-Bensbyn,Cykel – Ja + Ja, ibland,98,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Björkskatan-Bensbyn,Moped – Ja + Ja, ibland,4,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Björkskatan-Bensbyn,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,1,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Björkskatan-Bensbyn,Busskort – Ja + Ja, ibland,56,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Björkskatan-Bensbyn,Skjuts av förälder i bil – Ja + Ja, ibland,94,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Centrum,Cykel – Ja + Ja, ibland,96,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Centrum,Moped – Ja + Ja, ibland,5,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Centrum,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,2,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Centrum,Busskort – Ja + Ja, ibland,49,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Centrum,Skjuts av förälder i bil – Ja + Ja, ibland,92,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Malmudden/Kronan,Cykel – Ja + Ja, ibland,97,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Malmudden/Kronan,Moped – Ja + Ja, ibland,5,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Malmudden/Kronan,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,3,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Malmudden/Kronan,Busskort – Ja + Ja, ibland,53,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Malmudden/Kronan,Skjuts av förälder i bil – Ja + Ja, ibland,90,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Mjölkudden-Sunderbyn,Cykel – Ja + Ja, ibland,97,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Mjölkudden-Sunderbyn,Moped – Ja + Ja, ibland,4,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Mjölkudden-Sunderbyn,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,2,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Mjölkudden-Sunderbyn,Busskort – Ja + Ja, ibland,54,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Mjölkudden-Sunderbyn,Skjuts av förälder i bil – Ja + Ja, ibland,87,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Cykel – Ja + Ja, ibland,98,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Moped – Ja + Ja, ibland,6,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Mopedbil/EPA/A-traktor – Ja + Ja, ibland,2,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Busskort – Ja + Ja, ibland,42,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
+2025,Barnens RVU,Tillgång till färdmedel – Övrigt,Skjuts av förälder i bil – Ja + Ja, ibland,95,%,Barnspecifik tillgång till färdmedel efter grupp,RVU 2025 Tabell 17
