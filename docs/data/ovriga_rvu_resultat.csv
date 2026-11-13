@@ -126,6 +126,45 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedelsanvändning,Skjuts av anhörig,38,%,Resultatet gäller barnens resande och saknar jämförbar vuxenserie,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Förflyttning under gårdagen,Gjorde någon förflyttning,94,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
 2025,Barnens RVU,Förflyttning under gårdagen,Ingen förflyttning,6,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
+2025,Barnens RVU,Genomsnittligt antal resor – 12–15 år,Helg,2.4,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 12–15 år,Totalt,3.1,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 12–15 år,Vardag,3.2,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 6–8 år,Helg,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 6–8 år,Totalt,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 6–8 år,Vardag,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 9–11 år,Helg,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 9–11 år,Totalt,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – 9–11 år,Vardag,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Bergnäset/Kallax,Helg,2.1,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Bergnäset/Kallax,Totalt,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Bergnäset/Kallax,Vardag,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Bergviken-Rutvik,Helg,2.5,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Bergviken-Rutvik,Totalt,3.1,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Bergviken-Rutvik,Vardag,3.2,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Björkskatan-Bensbyn,Helg,2.6,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Björkskatan-Bensbyn,Totalt,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Björkskatan-Bensbyn,Vardag,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Centrum,Helg,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Centrum,Totalt,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Centrum,Vardag,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Kille,Helg,2.2,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Kille,Totalt,2.8,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Kille,Vardag,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Malmudden/Kronan,Helg,3.2,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Malmudden/Kronan,Totalt,3.2,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Malmudden/Kronan,Vardag,3.3,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Mjölkudden-Sunderbyn,Helg,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Mjölkudden-Sunderbyn,Totalt,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Mjölkudden-Sunderbyn,Vardag,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Tjej,Helg,2.7,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Tjej,Totalt,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Tjej,Vardag,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Totalt,Helg,2.6,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Totalt,Totalt,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Totalt,Vardag,3.0,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Övrigt,Helg,2.4,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Övrigt,Totalt,2.8,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
+2025,Barnens RVU,Genomsnittligt antal resor – Övrigt,Vardag,2.9,resor/dag,Barnspecifikt gruppvärde från RVU 2025; redovisas separat från vuxnas harmoniserade resfrekvensserier,RVU 2025 Tabell 23
 2025,Barnens RVU,Orsak till ingen förflyttning,Annan orsak,17,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Ledig från skolan och inga ärenden,57,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Sjuk,26,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
