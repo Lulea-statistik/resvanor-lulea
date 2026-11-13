@@ -118,7 +118,17 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Cykel,20,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Skjuts av anhörig,52,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Till fots,20,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel till affär,Buss,5,%,Rapporttexten anger explicit att affärsresor har lägst bussandel,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel till affär,Till fots,30,%,Rapporttexten anger explicit att gång är vanligast till affär,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel till fritidsaktivitet,Skjuts av anhörig,70,%,Rapporttexten anger explicit detta som klart vanligaste färdsättet till fritidsaktivitet,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel till fritidsaktivitet,Till fots,7,%,Rapporttexten anger explicit att gång är minst vanligt till fritidsaktivitet,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel till släktbesök,Skjuts av anhörig,46,%,Rapporttexten anger explicit skjuts av anhörig vid släktbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedelsanvändning,Skjuts av anhörig,38,%,Resultatet gäller barnens resande och saknar jämförbar vuxenserie,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Förflyttning under gårdagen,Gjorde någon förflyttning,94,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
+2025,Barnens RVU,Förflyttning under gårdagen,Ingen förflyttning,6,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
+2025,Barnens RVU,Orsak till ingen förflyttning,Annan orsak,17,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
+2025,Barnens RVU,Orsak till ingen förflyttning,Ledig från skolan och inga ärenden,57,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
+2025,Barnens RVU,Orsak till ingen förflyttning,Sjuk,26,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Reslängd,"1–3,9 km",47,%,Barnspecifikt reslängdsmått utan verifierad jämförbar historik,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Resor per dag,Helg,2.6,resor,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Resor per dag,Vardag,3.0,resor,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
