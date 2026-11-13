@@ -115,6 +115,10 @@ year,theme,variable,category,value,unit,reason,source
 2025,Färdmedel efter bakgrund,Ålder 16–24 år,Cykel,12,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
 2025,Färdmedel efter bakgrund,Ålder 16–24 år,Kollektivtrafik,33,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
 2025,Färdmedel efter bakgrund,Ålder 16–24 år,Till fots,20,%,Detaljerad åldersuppdelning från RVU 2025; åldersgrupperna är inte stabila över alla RVU-år,RVU 2025 Graf 26
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Kollektivtrafik,30,%,Rapporten lyfter detta som den reserelation där kollektivtrafikandelen är högst; relationsspecifikt engångsresultat utan harmoniserad flerårsserie,RVU 2025 avsnitt Reserelationer
+2025,Reserelationer,Inom Gammelstad/Sunderbyn,Andel av samtliga resor,4,%,Rapporten anger att resor inom Gammelstad/Sunderbyn utgör 4 % av alla resor; relationsspecifikt mått utan harmoniserad flerårsserie,RVU 2025 avsnitt Reserelationer
+2025,Reserelationer,Inom Gammelstad/Sunderbyn,Bil,80,%,Rapporten anger explicit att 80 % av resorna inom området görs med bil; områdesspecifikt engångsresultat,RVU 2025 avsnitt Reserelationer
+2025,Reserelationer,Mjölkudden/Notviken ↔ Centrum/Östermalm,Cykel,35,%,Rapporten lyfter detta som den reserelation där cykelandelen är högst; relationsspecifikt engångsresultat utan harmoniserad flerårsserie,RVU 2025 avsnitt Reserelationer
 2025,Reslängd,Medelreslängd efter färdsätt,Bil,15,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
 2025,Reslängd,Medelreslängd efter färdsätt,Cykel,4,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
 2025,Reslängd,Medelreslängd efter färdsätt,Kollektivtrafik,12,km,Detaljerat färdsättsspecifikt medelvärde; inte harmoniserat som flerårsserie,RVU 2025 sammanfattning
