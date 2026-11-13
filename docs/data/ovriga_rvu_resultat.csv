@@ -1225,3 +1225,20 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Resor till/från arbete eller skola,2–4 dagar per vecka,16,%,Direkt utskriven kategori i Graf 4,RVU 2025 Graf 4
 2025,Resvanor,Resor till/från arbete eller skola,1 dag per vecka,6,%,Direkt utskriven kategori i Graf 4,RVU 2025 Graf 4
 2025,Resvanor,Resor till/från arbete eller skola,Aldrig,21,%,Direkt utskriven kategori i Graf 4; kategorin Sällan saknar utskrivet värde och lämnas därför utanför,RVU 2025 Graf 4
+2025,Tillgång,Bil,Ja,81,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Bil,Ja ibland,8,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Bil,Nej,11,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Cykel,Ja,83,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Cykel,Ja ibland,4,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Cykel,Nej,12,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,El-cykel,Ja,9,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,El-cykel,Nej,89,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,El-sparkcykel,Ja,4,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,El-sparkcykel,Nej,94,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,Moped,Ja,6,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,Moped,Nej,93,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,Motorcykel,Ja,5,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,Motorcykel,Nej,94,%,Vuxnas tillgång till färdmedel; små övriga segment saknar utskrivet värde,RVU 2025 Graf 7
+2025,Tillgång,Busskort,Ja,41,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Busskort,Ja ibland,16,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Tillgång,Busskort,Nej,44,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
