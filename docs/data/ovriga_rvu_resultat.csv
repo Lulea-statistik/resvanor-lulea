@@ -1,4 +1,7 @@
 year,theme,variable,category,value,unit,reason,source
+2005,Attityd,Bilistattityd,Det går snabbt att köra bil i Luleå centrum,80,%,Rapporten anger 'åtta av tio'; avrundat rapportvärde utan verifierad jämförbar flerårsserie,RVU 2005 bilistattityder
+2005,Attityd,Bilistattityd,Det känns trafiksäkert att köra bil i Luleå kommun,75,%,Rapporten anger 'tre av fyra'; avrundat rapportvärde utan verifierad jämförbar flerårsserie,RVU 2005 bilistattityder
+2005,Attityd,Bilistattityd,Det är lätt att köra i Luleås cirkulationsplatser,75,%,Rapporten anger 'tre av fyra'; avrundat rapportvärde utan verifierad jämförbar flerårsserie,RVU 2005 bilistattityder
 2005,Attityd,Bussresenärernas attityder,Bussförarna kör hänsynsfullt och trafiksäkert,77,%,Explicit diagramvärde från 2005; attitydfrågan är inte verifierad med samma upplägg i senare RVU och visas därför inte som tidsserie,RVU 2005 bussresenärsavsnitt
 2005,Attityd,Bussresenärernas attityder,Busstrafiken håller tiderna,83,%,Explicit diagramvärde från 2005; attitydfrågan är inte verifierad med samma upplägg i senare RVU och visas därför inte som tidsserie,RVU 2005 bussresenärsavsnitt
 2005,Attityd,Bussresenärernas attityder,Det är bekvämt att åka buss,78,%,Explicit diagramvärde från 2005; attitydfrågan är inte verifierad med samma upplägg i senare RVU och visas därför inte som tidsserie,RVU 2005 bussresenärsavsnitt
@@ -8,12 +11,18 @@ year,theme,variable,category,value,unit,reason,source
 2005,Attityd,Bussresenärernas attityder,Känner sig trygg när de åker buss,90,%,Explicit diagramvärde från 2005; attitydfrågan är inte verifierad med samma upplägg i senare RVU och visas därför inte som tidsserie,RVU 2005 bussresenärsavsnitt
 2005,Attityd,Bussresenärernas attityder,Trafikinformationen är bra,84,%,Explicit diagramvärde från 2005; attitydfrågan är inte verifierad med samma upplägg i senare RVU och visas därför inte som tidsserie,RVU 2005 bussresenärsavsnitt
 2005,Attityd,Cyklistattityd,Cykelstölder är ett stort problem,78,%,Explicit diagram: 34 % delvis + 44 % instämmer; samma påstående är inte verifierat senare,RVU 2005 cyklistattityder
+2005,Attityd,Cyklistattityd,Det finns gott om cykelparkeringar i Luleå,60,%,Rapporttext anger sex av tio; avrundat rapportvärde utan verifierad jämförbar flerårsserie,RVU 2005 cyklistattityder
 2005,Attityd,Cyklistattityd,Känner sig trygg,76,%,Explicit diagramvärde; engångs-/äldre attitydfråga utan verifierad jämförbar serie,RVU 2005 cyklistattityder
 2005,Attityd,Cyklistattityd,Trafiksäkert att cykla,60,%,Rapporttext anger sex av tio; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 cyklistattityder
+2005,Attityd,Motiv för samåkning,Bra för miljön,80,%,Rapporten anger åtta av tio bland de bilister som kan tänka sig samåka; avrundat rapportvärde,RVU 2005 bilistavsnitt
+2005,Attityd,Motiv för samåkning,Socialt/trevligt eller billigt,80,%,Rapporten anger åtta av tio; avrundat rapportvärde och engångsfråga,RVU 2005 bilistavsnitt
 2005,Bakgrund,Sysselsättning,Arbetssökande,5,%,Senare RVU använder närliggande men inte fullt verifierad serie; 2015 års exakta kategoriandel kan inte säkert läsas ut,RVU 2005 befolkningsavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Aldrig,80,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Alltid,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
 2005,Beteende,Cykelhjälmsanvändning,Ibland,10,%,Resultatet är ett verifierat 2005-mått men motsvarande fråga är inte verifierad med samma upplägg i senare RVU,RVU 2005 sammanfattning och cykelavsnitt
+2005,Beteende,Faktorer som kan öka cykling,Högre bensinpris,30,%,Rapporten anger 'nästan en tredjedel'; avrundat rapportvärde och engångsfråga,RVU 2005 bilistavsnitt
+2005,Beteende,Hinder för ökad cykling,Känns inte trafiksäkert att cykla,25,%,Rapporten anger en fjärdedel; avrundat rapportvärde och engångsfråga,RVU 2005 bilistavsnitt
+2005,Beteende,Hinder för ökad cykling,Känns inte tryggt att cykla,25,%,Rapporten anger en fjärdedel; avrundat rapportvärde och engångsfråga,RVU 2005 bilistavsnitt
 2005,Beteende,Motiv för bussresande,Busstiderna passar,75,%,Rapporten anger 'tre av fyra'; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 bussresenärsavsnitt
 2005,Beteende,Motiv för bussresande,Miljövänligt,80,%,Rapporten anger 'åtta av tio'; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 bussresenärsavsnitt
 2005,Beteende,Motiv för bussresande,Nära till busshållplatsen,80,%,Rapporten anger 'åtta av tio'; avrundat rapportvärde och ingen verifierad jämförbar serie,RVU 2005 bussresenärsavsnitt
