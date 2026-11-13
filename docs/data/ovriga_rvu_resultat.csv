@@ -183,6 +183,20 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel efter område – Övrigt,Cykel,12,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
 2025,Barnens RVU,Färdmedel efter område – Övrigt,Skjuts av anhörig,50,%,Explicit diagram- och textvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
 2025,Barnens RVU,Färdmedel efter område – Övrigt,Till fots,13,%,Explicit diagram- och textvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
+2025,Barnens RVU,"Färdmedel efter reslängd – 1–3,9 km",Buss,15,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 1–3,9 km",Cykel,33,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 1–3,9 km",Skjuts av anhörig,30,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 1–3,9 km",Till fots,20,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,Färdmedel efter reslängd – 10 km eller längre,Buss,23,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,Färdmedel efter reslängd – 10 km eller längre,Cykel,6,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,Färdmedel efter reslängd – 10 km eller längre,Skjuts av anhörig,66,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 4–9,9 km",Buss,27,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 4–9,9 km",Cykel,8,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 4–9,9 km",Skjuts av anhörig,61,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,"Färdmedel efter reslängd – 4–9,9 km",Till fots,4,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,Färdmedel efter reslängd – Under 1 km,Cykel,40,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,Färdmedel efter reslängd – Under 1 km,Skjuts av anhörig,11,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
+2025,Barnens RVU,Färdmedel efter reslängd – Under 1 km,Till fots,47,%,Barnspecifik färdmedelsfördelning efter reslängd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Graf 52
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Buss,6,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Cykel,20,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Skjuts av anhörig,52,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
