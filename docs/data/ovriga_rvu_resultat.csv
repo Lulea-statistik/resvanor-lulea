@@ -103,6 +103,16 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens färdmedelsfördelning,Till fots,18,%,Barnspecifik färdmedelsfördelning; separat population och därför inte del av vuxnas harmoniserade tidsserier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Bussresande efter ålder,12–15 år,29,%,Rapporttexten anger explicit 29 % för 12–15-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Bussresande efter ålder,9–11 år,8,%,Rapporttexten anger explicit 8 % för 9–11-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
+2025,Barnens RVU,Färdmedel efter kön – Kille,Annat,4,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Kille,Buss,11,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Kille,Cykel,22,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Kille,Skjuts av anhörig,40,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Kille,Till fots,22,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Tjej,Annat,3,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Tjej,Buss,18,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Tjej,Cykel,22,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Tjej,Skjuts av anhörig,39,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
+2025,Barnens RVU,Färdmedel efter kön – Tjej,Till fots,17,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
 2025,Barnens RVU,Färdmedel efter område – Centrum,Cykel,11,%,"Rapporttexten anger explicit att Centrum har lägst cykelandel bland barn, 11 %",RVU 2025 områdesavsnitt barn
 2025,Barnens RVU,Färdmedel efter område – Centrum,Till fots,34,%,"Rapporttexten anger explicit att Centrum har högst gångandel bland barn, 34 %",RVU 2025 områdesavsnitt barn
 2025,Barnens RVU,Färdmedel efter område – Mjölkudden/Sunderbyn,Buss,14,%,Områdesspecifik barn-RVU-fördelning; inte jämförbar som harmoniserad flerårsserie,RVU 2025 områdesfigur barn
