@@ -96,7 +96,7 @@ year,theme,variable,category,value,unit,reason,source
 2025,Bakgrund,Sysselsättning,Arbetssökande,1,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2025 Graf 3
 2025,Bakgrund,Sysselsättning,Pensionär,23,%,2020 saknar exakt publicerat procenttal i textunderlaget; ingen sammanhängande serie visas,RVU 2025 Graf 3
 2025,Bakgrund,Utbildningsnivå,Högskola/Universitet,45,%,2020 anger bara 'drygt 40 %' och saknar ett exakt verifierbart värde; därför visas ingen trendserie,RVU 2025 Graf 2
-2025,Barnens RVU,Avstånd till skola,Mindre än 1 km,40,%,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
+2025,Barnens RVU,Avstånd till skola,Mindre än 1 km,40,%,Barnspecifikt skolavstånd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Tabell 18
 2025,Barnens RVU,Barnens färdmedelsfördelning,Buss,16,%,Barnspecifik färdmedelsfördelning; separat population och därför inte del av vuxnas harmoniserade tidsserier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Barnens färdmedelsfördelning,Cykel,24,%,Barnspecifik färdmedelsfördelning; separat population och därför inte del av vuxnas harmoniserade tidsserier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Barnens färdmedelsfördelning,Skjuts av anhörig,38,%,Barnspecifik färdmedelsfördelning; separat population och därför inte del av vuxnas harmoniserade tidsserier,RVU 2025 avsnitt 6.3
@@ -438,8 +438,8 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Cykel,23,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
 2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Till fots,21,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
 2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Annat,4,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
-2025,Barnens RVU,Avstånd till skola,1–3 km,33,%,Barnspecifikt avståndsmått från RVU 2025; separat population och ingen verifierad flerårsserie,RVU 2025 Graf 40
-2025,Barnens RVU,Avstånd till skola,Mer än 3 km,27,%,Barnspecifikt avståndsmått från RVU 2025; separat population och ingen verifierad flerårsserie,RVU 2025 Graf 40
+2025,Barnens RVU,Avstånd till skola,1–3 km,33,%,Barnspecifikt skolavstånd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola,Mer än 3 km,27,%,Barnspecifikt skolavstånd från RVU 2025; redovisas separat från vuxnas harmoniserade serier,RVU 2025 Tabell 18
 2025,Barnens RVU,Färdmedel efter ärende – Till skola,Skjuts av anhörig,28,%,Barnspecifik färdmedelsfördelning per ärende från RVU 2025,RVU 2025 Graf 51
 2025,Barnens RVU,Färdmedel efter ärende – Till skola,Buss,20,%,Barnspecifik färdmedelsfördelning per ärende från RVU 2025,RVU 2025 Graf 51
 2025,Barnens RVU,Färdmedel efter ärende – Till skola,Cykel,29,%,Barnspecifik färdmedelsfördelning per ärende från RVU 2025,RVU 2025 Graf 51
@@ -476,3 +476,49 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel efter ärende – Annat,Cykel,13,%,Barnspecifik färdmedelsfördelning per ärende från RVU 2025,RVU 2025 Graf 51
 2025,Barnens RVU,Färdmedel efter ärende – Annat,Till fots,30,%,Barnspecifik färdmedelsfördelning per ärende från RVU 2025,RVU 2025 Graf 51
 2025,Barnens RVU,Färdmedel efter ärende – Annat,Annat,4,%,Barnspecifik färdmedelsfördelning per ärende från RVU 2025,RVU 2025 Graf 51
+2025,Barnens RVU,Avstånd till skola – Tjej,Mindre än 1 km,42,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Tjej,1–3 km,32,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Tjej,Mer än 3 km,26,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Kille,Mindre än 1 km,43,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Kille,1–3 km,28,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Kille,Mer än 3 km,29,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 6–8 år,Mindre än 1 km,44,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 6–8 år,1–3 km,33,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 6–8 år,Mer än 3 km,22,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 9–11 år,Mindre än 1 km,42,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 9–11 år,1–3 km,36,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 9–11 år,Mer än 3 km,21,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 12–15 år,Mindre än 1 km,34,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 12–15 år,1–3 km,31,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – 12–15 år,Mer än 3 km,35,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Bergnäset/Kallax,Mindre än 1 km,36,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Bergnäset/Kallax,1–3 km,36,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Bergnäset/Kallax,Mer än 3 km,29,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Bergviken-Rutvik,Mindre än 1 km,46,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Bergviken-Rutvik,1–3 km,31,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Bergviken-Rutvik,Mer än 3 km,23,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Björkskatan-Bensbyn,Mindre än 1 km,34,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Björkskatan-Bensbyn,1–3 km,28,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Björkskatan-Bensbyn,Mer än 3 km,38,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Centrum,Mindre än 1 km,41,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Centrum,1–3 km,38,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Centrum,Mer än 3 km,21,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Malmudden/Kronan,Mindre än 1 km,44,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Malmudden/Kronan,1–3 km,40,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Malmudden/Kronan,Mer än 3 km,17,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Mjölkudden-Sunderbyn,Mindre än 1 km,46,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Mjölkudden-Sunderbyn,1–3 km,43,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Mjölkudden-Sunderbyn,Mer än 3 km,11,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Övrigt,Mindre än 1 km,30,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Övrigt,1–3 km,15,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Avstånd till skola – Övrigt,Mer än 3 km,55,%,Barnspecifikt skolavstånd efter grupp från RVU 2025,RVU 2025 Tabell 18
+2025,Barnens RVU,Färdmedel till/från skola – Sommar,Cykel,49,%,Barnspecifikt skolfärdmedel under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Vinter,Cykel,4,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Sommar,Gåendes,19,%,Barnspecifikt skolfärdmedel under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Vinter,Gåendes,45,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Sommar,Skjuts av förälder,15,%,Barnspecifikt skolfärdmedel under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Vinter,Skjuts av förälder,27,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Sommar,Skolskjuts,8,%,Barnspecifikt skolfärdmedel under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Vinter,Skolskjuts,11,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Vinter,Buss,11,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
