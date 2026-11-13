@@ -257,8 +257,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till fritidsaktivitet,27,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till nöje,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till skola,52,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
-2025,Barnens RVU,Bussresande efter ålder,12–15 år,29,%,Rapporttexten anger explicit 29 % för 12–15-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
-2025,Barnens RVU,Bussresande efter ålder,9–11 år,8,%,Rapporttexten anger explicit 8 % för 9–11-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Färdmedel efter kön – Kille,Annat,4,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
 2025,Barnens RVU,Färdmedel efter kön – Kille,Buss,11,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
 2025,Barnens RVU,Färdmedel efter kön – Kille,Cykel,22,%,Barnspecifik könsuppdelning från RVU 2025; inte harmoniserad som flerårsserie,RVU 2025 barnens färdmedelsfördelning
@@ -376,7 +374,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Orsak till ingen förflyttning,Annan orsak,17,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Ledig från skolan och inga ärenden,57,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Sjuk,26,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
-2025,Barnens RVU,Skjuts av anhörig efter ålder,12–15 år,29,%,"Rapporttexten anger explicit att skjuts av anhörig är minst vanlig bland 12–15-åringar, 29 %",RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Tillgång till färdmedel,Busskort,44,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Tillgång till färdmedel,Cykel – alltid eller ibland,97,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU och ska inte blandas med vuxenserier,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Tillgång till färdmedel,Skjuts av förälder,91,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
@@ -421,3 +418,33 @@ year,theme,variable,category,value,unit,reason,source
 2025,Tillgång,Elcykel,Nej,89,%,Frågan saknas i jämförbar form 2015; ingen treårsserie,RVU 2025 Graf 7
 2025,Tillgång,Elsparkcykel,Nej,94,%,Frågan saknar jämförbara tidigare mättillfällen,RVU 2025 Graf 7
 2025,Tillgång,Färdtjänstlegitimation,Nej,97,%,2015 och 2020 redovisar främst Ja-värdet; Nej ska inte räknas fram som komplement,RVU 2025 Graf 7
+
+2025,Barnens RVU,Barnens färdmedelsfördelning,Annat,3,%,Barnspecifik färdmedelsfördelning; separat population och därför inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 47
+2025,Barnens RVU,Färdmedel efter ålder 9–11 år,Skjuts av anhörig,39,%,Explicit diagramvärde för barn 9–11 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 9–11 år,Buss,8,%,Explicit diagramvärde för barn 9–11 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 9–11 år,Cykel,31,%,Explicit diagramvärde för barn 9–11 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 9–11 år,Till fots,20,%,Explicit diagramvärde för barn 9–11 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 12–15 år,Skjuts av anhörig,29,%,Explicit diagramvärde för barn 12–15 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 12–15 år,Buss,29,%,Explicit diagramvärde för barn 12–15 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 12–15 år,Cykel,22,%,Explicit diagramvärde för barn 12–15 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 12–15 år,Till fots,16,%,Explicit diagramvärde för barn 12–15 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter ålder 12–15 år,Annat,5,%,Explicit diagramvärde för barn 12–15 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
+2025,Barnens RVU,Färdmedel efter område – Bergnäset/Kallax,Skjuts av anhörig,46,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergnäset/Kallax,Buss,8,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergnäset/Kallax,Cykel,30,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergnäset/Kallax,Till fots,14,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergviken-Rutvik,Skjuts av anhörig,33,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergviken-Rutvik,Buss,21,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergviken-Rutvik,Cykel,18,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Bergviken-Rutvik,Till fots,26,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Björkskatan-Bensbyn,Skjuts av anhörig,50,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Björkskatan-Bensbyn,Buss,16,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Björkskatan-Bensbyn,Cykel,21,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Björkskatan-Bensbyn,Till fots,13,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Centrum,Skjuts av anhörig,35,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Centrum,Buss,16,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Skjuts av anhörig,32,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Buss,19,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Cykel,23,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Till fots,21,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
+2025,Barnens RVU,Färdmedel efter område – Malmudden/Kronan,Annat,4,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 Graf 50
