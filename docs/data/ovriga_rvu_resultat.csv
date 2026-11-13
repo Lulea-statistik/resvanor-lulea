@@ -153,11 +153,110 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens reslängdsklasser,10 km eller längre,16,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,"4–9,9 km",20,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,Under 1 km,17,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens ärendefördelning,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Barnens ärendefördelning,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
 2025,Barnens RVU,Barnens ärendefördelning,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
 2025,Barnens RVU,Barnens ärendefördelning,Hem,13,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
 2025,Barnens RVU,Barnens ärendefördelning,Till affär,6,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
+2025,Barnens RVU,Barnens ärendefördelning,Till fritidsaktivitet,27,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Barnens ärendefördelning,Till nöje,4,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
+2025,Barnens RVU,Barnens ärendefördelning,Till skola,44,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Hem,13,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Till affär,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Till fritidsaktivitet,29,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Till nöje,5,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 12–15 år,Till skola,42,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Besöka kompis,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Hem,14,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Till affär,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Till fritidsaktivitet,23,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Till nöje,5,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 6–8 år,Till skola,48,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Besöka släkt,0,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Hem,12,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Till affär,5,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Till fritidsaktivitet,30,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Till nöje,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – 9–11 år,Till skola,44,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Annat,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Besöka kompis,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Besöka släkt,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Hem,14,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Till affär,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Till fritidsaktivitet,35,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Till nöje,4,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergnäset/Kallax,Till skola,41,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Besöka släkt,0,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Hem,14,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Till affär,5,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Till fritidsaktivitet,22,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Till nöje,5,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Bergviken-Rutvik,Till skola,51,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Annat,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Besöka kompis,5,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Hem,15,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Till affär,7,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Till fritidsaktivitet,27,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Till nöje,4,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Björkskatan-Bensbyn,Till skola,41,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Hem,13,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Till affär,8,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Till fritidsaktivitet,30,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Till nöje,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Centrum,Till skola,37,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Besöka kompis,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Hem,36,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Till affär,4,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Till fritidsaktivitet,16,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Till nöje,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Kille,Till skola,33,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Annat,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Besöka släkt,0,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Hem,10,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Till affär,8,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Till fritidsaktivitet,27,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Till nöje,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Malmudden/Kronan,Till skola,43,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Besöka kompis,4,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Hem,13,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Till affär,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Till fritidsaktivitet,26,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Till nöje,4,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Mjölkudden-Sunderbyn,Till skola,44,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Annat,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Besöka kompis,6,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Hem,36,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Till affär,4,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Till fritidsaktivitet,14,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Till nöje,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Tjej,Till skola,33,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Annat,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Besöka kompis,1,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Besöka släkt,0,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Hem,14,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till affär,2,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till fritidsaktivitet,27,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till nöje,3,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
+2025,Barnens RVU,Barnens ärendefördelning – Övrigt,Till skola,52,%,Barnspecifik ärendefördelning från RVU 2025; redovisas separat från vuxnas harmoniserade tidsserier,RVU 2025 Tabell 24
 2025,Barnens RVU,Bussandel efter reslängd,10 km eller längre,23,%,Rapporttexten anger explicit bussandelen för resor över 10 km,RVU 2025 avsnitt Reslängd och färdmedel
 2025,Barnens RVU,Bussandel efter reslängd,"4–9,9 km",27,%,"Rapporttexten anger explicit bussandelen upp till 9,9 km",RVU 2025 avsnitt Reslängd och färdmedel
 2025,Barnens RVU,Bussresande efter ålder,12–15 år,29,%,Rapporttexten anger explicit 29 % för 12–15-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
