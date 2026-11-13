@@ -109,10 +109,46 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens reslängd efter kön – Tjej,10 km eller längre,13,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängd efter kön – Tjej,"4–9,9 km",20,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängd efter kön – Tjej,Under 1 km,19,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergnäset/Kallax,"1–3,9 km",42,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergnäset/Kallax,10 km eller längre,19,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergnäset/Kallax,"4–9,9 km",27,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergnäset/Kallax,Under 1 km,12,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergviken-Rutvik,"1–3,9 km",54,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergviken-Rutvik,10 km eller längre,7,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergviken-Rutvik,"4–9,9 km",20,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Bergviken-Rutvik,Under 1 km,18,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Björkskatan-Bensbyn,"1–3,9 km",46,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Björkskatan-Bensbyn,10 km eller längre,10,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Björkskatan-Bensbyn,"4–9,9 km",31,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Björkskatan-Bensbyn,Under 1 km,13,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Centrum,"1–3,9 km",62,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Centrum,10 km eller längre,8,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Centrum,"4–9,9 km",14,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Centrum,Under 1 km,16,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Malmudden/Kronan,"1–3,9 km",55,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Malmudden/Kronan,10 km eller längre,9,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Malmudden/Kronan,"4–9,9 km",18,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Malmudden/Kronan,Under 1 km,18,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Mjölkudden-Sunderbyn,"1–3,9 km",48,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Mjölkudden-Sunderbyn,10 km eller längre,12,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Mjölkudden-Sunderbyn,"4–9,9 km",19,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Mjölkudden-Sunderbyn,Under 1 km,22,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Övrigt,"1–3,9 km",27,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Övrigt,10 km eller längre,45,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Övrigt,"4–9,9 km",12,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter område – Övrigt,Under 1 km,16,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 12–15 år,"1–3,9 km",46,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 12–15 år,10 km eller längre,19,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 12–15 år,"4–9,9 km",21,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 12–15 år,Under 1 km,13,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängd efter ålder – 6–8 år,"1–3,9 km",44,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängd efter ålder – 6–8 år,10 km eller längre,13,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängd efter ålder – 6–8 år,"4–9,9 km",21,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängd efter ålder – 6–8 år,Under 1 km,22,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 9–11 år,"1–3,9 km",51,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 9–11 år,10 km eller längre,14,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 9–11 år,"4–9,9 km",17,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens reslängd efter ålder – 9–11 år,Under 1 km,18,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,"1–3,9 km",47,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,10 km eller längre,16,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,"4–9,9 km",20,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
