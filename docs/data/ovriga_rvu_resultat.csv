@@ -1207,3 +1207,21 @@ year,theme,variable,category,value,unit,reason,source
 2025,Attityd,Kännedom om busslinjer till Luleå centrum,Ja,89,%,Kännedom om vilka busslinjer som går till Luleå centrum,RVU 2025 Graf 9
 2025,Attityd,Kännedom om busslinjer till Luleå centrum,Nej,10,%,Kännedom om vilka busslinjer som går till Luleå centrum,RVU 2025 Graf 9
 2025,Attityd,Kännedom om busslinjer till Luleå centrum,Jag bor i Luleå centrum,1,%,Kännedom om vilka busslinjer som går till Luleå centrum,RVU 2025 Graf 9
+2025,Bakgrund,Körkort för personbil – Totalt,Ja,86,%,Andel vuxna respondenter med körkort,RVU 2025 Graf 6
+2025,Bakgrund,Körkort för personbil – Totalt,Nej,14,%,Andel vuxna respondenter utan körkort,RVU 2025 Graf 6
+2025,Bakgrund,Körkort för personbil – Kvinna,Ja,84,%,Körkortsinnehav efter kön,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – Kvinna,Nej,16,%,Körkortsinnehav efter kön,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – Man,Ja,89,%,Körkortsinnehav efter kön,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – Man,Nej,11,%,Körkortsinnehav efter kön,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 16–24 år,Ja,59,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 16–24 år,Nej,41,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 25–44 år,Ja,86,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 25–44 år,Nej,14,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 45–64 år,Ja,94,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 45–64 år,Nej,6,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 65–84 år,Ja,94,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Bakgrund,Körkort för personbil – 65–84 år,Nej,6,%,Körkortsinnehav efter ålder,RVU 2025 Tabell 4
+2025,Resvanor,Resor till/från arbete eller skola,5–7 dagar per vecka,54,%,Direkt utskriven kategori i Graf 4,RVU 2025 Graf 4
+2025,Resvanor,Resor till/från arbete eller skola,2–4 dagar per vecka,16,%,Direkt utskriven kategori i Graf 4,RVU 2025 Graf 4
+2025,Resvanor,Resor till/från arbete eller skola,1 dag per vecka,6,%,Direkt utskriven kategori i Graf 4,RVU 2025 Graf 4
+2025,Resvanor,Resor till/från arbete eller skola,Aldrig,21,%,Direkt utskriven kategori i Graf 4; kategorin Sällan saknar utskrivet värde och lämnas därför utanför,RVU 2025 Graf 4
