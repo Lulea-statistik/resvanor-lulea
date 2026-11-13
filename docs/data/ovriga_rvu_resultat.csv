@@ -522,3 +522,123 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel till/från skola – Vinter,Skolskjuts,11,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
 2025,Barnens RVU,Färdmedel till/från skola – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel under sommarsäsongen,RVU 2025 Tabell 19
 2025,Barnens RVU,Färdmedel till/från skola – Vinter,Buss,11,%,Barnspecifikt skolfärdmedel under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Sommar,Cykel,46,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Vinter,Cykel,3,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Sommar,Gåendes,21,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Vinter,Gåendes,46,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Sommar,Skjuts av förälder,17,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Vinter,Skjuts av förälder,26,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Sommar,Skolskjuts,9,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Vinter,Skolskjuts,10,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Sommar,Buss,4,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Tjej – Vinter,Buss,12,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Sommar,Cykel,46,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Vinter,Cykel,4,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Sommar,Gåendes,22,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Vinter,Gåendes,45,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Sommar,Skjuts av förälder,16,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Vinter,Skjuts av förälder,29,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Sommar,Skolskjuts,8,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Vinter,Skolskjuts,12,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Sommar,Buss,7,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Kille – Vinter,Buss,9,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Sommar,Cykel,42,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Vinter,Cykel,4,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Sommar,Gåendes,23,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Vinter,Gåendes,39,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Sommar,Skjuts av förälder,29,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Vinter,Skjuts av förälder,49,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Sommar,Skolskjuts,3,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Vinter,Skolskjuts,4,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Sommar,Buss,2,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 6–8 år – Vinter,Buss,3,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Sommar,Cykel,59,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Vinter,Cykel,2,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Sommar,Gåendes,18,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Vinter,Gåendes,54,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Sommar,Skjuts av förälder,15,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Vinter,Skjuts av förälder,27,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Sommar,Skolskjuts,6,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Vinter,Skolskjuts,10,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Sommar,Buss,2,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 9–11 år – Vinter,Buss,7,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Sommar,Cykel,48,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Vinter,Cykel,7,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Sommar,Gåendes,18,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Vinter,Gåendes,44,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Sommar,Skjuts av förälder,4,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Vinter,Skjuts av förälder,10,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Sommar,Skolskjuts,13,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Vinter,Skolskjuts,17,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Sommar,Buss,12,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – 12–15 år – Vinter,Buss,20,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Sommar,Cykel,58,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Vinter,Cykel,5,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Sommar,Gåendes,13,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Vinter,Gåendes,45,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Sommar,Skjuts av förälder,17,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Vinter,Skjuts av förälder,38,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Sommar,Skolskjuts,11,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Vinter,Skolskjuts,11,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Sommar,Buss,0,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergnäset/Kallax – Vinter,Buss,1,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Sommar,Cykel,52,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Vinter,Cykel,4,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Sommar,Gåendes,28,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Vinter,Gåendes,52,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Sommar,Skjuts av förälder,7,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Vinter,Skjuts av förälder,21,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Sommar,Skolskjuts,4,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Vinter,Skolskjuts,8,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Sommar,Buss,8,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Bergviken-Rutvik – Vinter,Buss,13,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Sommar,Cykel,54,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Vinter,Cykel,3,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Sommar,Gåendes,10,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Vinter,Gåendes,35,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Sommar,Skjuts av förälder,20,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Vinter,Skjuts av förälder,33,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Sommar,Skolskjuts,8,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Vinter,Skolskjuts,16,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Björkskatan-Bensbyn – Vinter,Buss,13,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Sommar,Cykel,38,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Vinter,Cykel,1,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Sommar,Gåendes,32,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Vinter,Gåendes,56,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Sommar,Skjuts av förälder,15,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Vinter,Skjuts av förälder,24,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Sommar,Skolskjuts,1,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Vinter,Skolskjuts,1,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Sommar,Buss,11,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Centrum – Vinter,Buss,18,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Sommar,Cykel,52,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Vinter,Cykel,5,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Sommar,Gåendes,24,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Vinter,Gåendes,49,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Sommar,Skjuts av förälder,10,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Vinter,Skjuts av förälder,21,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Sommar,Skolskjuts,3,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Vinter,Skolskjuts,5,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Malmudden/Kronan – Vinter,Buss,17,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Sommar,Cykel,61,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Vinter,Cykel,9,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Sommar,Gåendes,19,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Vinter,Gåendes,57,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Sommar,Skjuts av förälder,10,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Vinter,Skjuts av förälder,20,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Sommar,Skolskjuts,3,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Vinter,Skolskjuts,5,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Mjölkudden-Sunderbyn – Vinter,Buss,8,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Sommar,Cykel,27,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Cykel,1,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Sommar,Gåendes,15,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Gåendes,27,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Sommar,Skjuts av förälder,26,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Skjuts av förälder,35,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Sommar,Skolskjuts,25,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Skolskjuts,29,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Buss,7,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
