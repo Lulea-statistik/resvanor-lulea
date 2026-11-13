@@ -1517,3 +1517,139 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Orsak till ingen förflyttning – vuxna,Funktionshinder,2,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
 2025,Resvanor,Orsak till ingen förflyttning – vuxna,Hemarbete/hemmastudier,13,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
 2025,Resvanor,Orsak till ingen förflyttning – vuxna,Annat,7,%,Skäl bland respondenter som inte rest under gårdagen,RVU 2025 Graf 18
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Kvinna,Ja,81,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Kvinna,Nej – hemma eller på samma plats hela dagen,19,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Man,Ja,77,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Man,Nej – hemma eller på samma plats hela dagen,23,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 16–24 år,Ja,84,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 16–24 år,Nej – hemma eller på samma plats hela dagen,16,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 25–44 år,Ja,88,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 25–44 år,Nej – hemma eller på samma plats hela dagen,12,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 45–64 år,Ja,81,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 45–64 år,Nej – hemma eller på samma plats hela dagen,19,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 65–84 år,Ja,63,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – 65–84 år,Nej – hemma eller på samma plats hela dagen,37,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Bergnäset,Ja,78,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Bergnäset,Nej – hemma eller på samma plats hela dagen,22,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Bergviken/Porsön,Ja,81,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Bergviken/Porsön,Nej – hemma eller på samma plats hela dagen,19,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Björkskatan/Lulsundet,Ja,81,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Björkskatan/Lulsundet,Nej – hemma eller på samma plats hela dagen,19,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Centrum/Östermalm,Ja,79,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Centrum/Östermalm,Nej – hemma eller på samma plats hela dagen,21,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Gammelstad/Sunderbyn,Ja,80,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Gammelstad/Sunderbyn,Nej – hemma eller på samma plats hela dagen,20,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Hertsön/Lerbäcken,Ja,80,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Hertsön/Lerbäcken,Nej – hemma eller på samma plats hela dagen,20,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Landsbygd,Ja,82,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Landsbygd,Nej – hemma eller på samma plats hela dagen,18,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Mjölkudden/Notviken,Ja,81,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Mjölkudden/Notviken,Nej – hemma eller på samma plats hela dagen,19,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Råneå,Ja,74,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Råneå,Nej – hemma eller på samma plats hela dagen,26,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Sörbyarna,Ja,75,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Sörbyarna,Nej – hemma eller på samma plats hela dagen,25,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Örnäset/Skurholmen/mfl,Ja,77,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Förflyttning under gårdagen – vuxna – Örnäset/Skurholmen/mfl,Nej – hemma eller på samma plats hela dagen,23,%,Gruppuppdelning av förflyttning under gårdagen,RVU 2025 Tabell 9
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Kvinna,Jag hade inga ärenden,70,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Kvinna,Sjukdom,15,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Kvinna,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Kvinna,Funktionshinder,2,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Kvinna,Hemarbete/hemmastudier,9,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Kvinna,Annat,4,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Man,Jag hade inga ärenden,63,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Man,Sjukdom,8,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Man,Vård av sjukt barn,1,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Man,Funktionshinder,2,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Man,Hemarbete/hemmastudier,16,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Man,Annat,10,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 16–24 år,Jag hade inga ärenden,66,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 16–24 år,Sjukdom,7,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 16–24 år,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 16–24 år,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 16–24 år,Hemarbete/hemmastudier,9,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 16–24 år,Annat,18,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 25–44 år,Jag hade inga ärenden,51,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 25–44 år,Sjukdom,14,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 25–44 år,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 25–44 år,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 25–44 år,Hemarbete/hemmastudier,25,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 25–44 år,Annat,11,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 45–64 år,Jag hade inga ärenden,57,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 45–64 år,Sjukdom,15,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 45–64 år,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 45–64 år,Funktionshinder,4,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 45–64 år,Hemarbete/hemmastudier,20,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 45–64 år,Annat,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 65–84 år,Jag hade inga ärenden,79,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 65–84 år,Sjukdom,8,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 65–84 år,Vård av sjukt barn,1,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 65–84 år,Funktionshinder,2,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 65–84 år,Hemarbete/hemmastudier,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – 65–84 år,Annat,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergnäset,Jag hade inga ärenden,55,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergnäset,Sjukdom,13,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergnäset,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergnäset,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergnäset,Hemarbete/hemmastudier,9,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergnäset,Annat,23,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergviken/Porsön,Jag hade inga ärenden,63,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergviken/Porsön,Sjukdom,10,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergviken/Porsön,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergviken/Porsön,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergviken/Porsön,Hemarbete/hemmastudier,20,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Bergviken/Porsön,Annat,7,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Björkskatan/Lulsundet,Jag hade inga ärenden,70,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Björkskatan/Lulsundet,Sjukdom,9,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Björkskatan/Lulsundet,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Björkskatan/Lulsundet,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Björkskatan/Lulsundet,Hemarbete/hemmastudier,18,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Björkskatan/Lulsundet,Annat,4,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Centrum/Östermalm,Jag hade inga ärenden,66,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Centrum/Östermalm,Sjukdom,15,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Centrum/Östermalm,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Centrum/Östermalm,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Centrum/Östermalm,Hemarbete/hemmastudier,13,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Centrum/Östermalm,Annat,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Gammelstad/Sunderbyn,Jag hade inga ärenden,64,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Gammelstad/Sunderbyn,Sjukdom,2,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Gammelstad/Sunderbyn,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Gammelstad/Sunderbyn,Funktionshinder,4,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Gammelstad/Sunderbyn,Hemarbete/hemmastudier,19,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Gammelstad/Sunderbyn,Annat,11,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Hertsön/Lerbäcken,Jag hade inga ärenden,73,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Hertsön/Lerbäcken,Sjukdom,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Hertsön/Lerbäcken,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Hertsön/Lerbäcken,Funktionshinder,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Hertsön/Lerbäcken,Hemarbete/hemmastudier,5,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Hertsön/Lerbäcken,Annat,11,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Landsbygd,Jag hade inga ärenden,79,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Landsbygd,Sjukdom,11,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Landsbygd,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Landsbygd,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Landsbygd,Hemarbete/hemmastudier,10,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Landsbygd,Annat,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Mjölkudden/Notviken,Jag hade inga ärenden,68,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Mjölkudden/Notviken,Sjukdom,8,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Mjölkudden/Notviken,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Mjölkudden/Notviken,Funktionshinder,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Mjölkudden/Notviken,Hemarbete/hemmastudier,8,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Mjölkudden/Notviken,Annat,17,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Råneå,Jag hade inga ärenden,55,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Råneå,Sjukdom,21,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Råneå,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Råneå,Funktionshinder,3,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Råneå,Hemarbete/hemmastudier,11,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Råneå,Annat,11,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Sörbyarna,Jag hade inga ärenden,72,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Sörbyarna,Sjukdom,8,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Sörbyarna,Vård av sjukt barn,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Sörbyarna,Funktionshinder,3,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Sörbyarna,Hemarbete/hemmastudier,14,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Sörbyarna,Annat,3,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Jag hade inga ärenden,68,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Sjukdom,13,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Vård av sjukt barn,2,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Funktionshinder,4,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Hemarbete/hemmastudier,14,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Annat,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
