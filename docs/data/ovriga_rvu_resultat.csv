@@ -103,6 +103,17 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens färdmedelsfördelning,Till fots,18,%,Barnspecifik färdmedelsfördelning; separat population och därför inte del av vuxnas harmoniserade tidsserier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Bussresande efter ålder,12–15 år,29,%,Rapporttexten anger explicit 29 % för 12–15-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Bussresande efter ålder,9–11 år,8,%,Rapporttexten anger explicit 8 % för 9–11-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
+2025,Barnens RVU,Färdmedel efter område – Centrum,Cykel,11,%,"Rapporttexten anger explicit att Centrum har lägst cykelandel bland barn, 11 %",RVU 2025 områdesavsnitt barn
+2025,Barnens RVU,Färdmedel efter område – Centrum,Till fots,34,%,"Rapporttexten anger explicit att Centrum har högst gångandel bland barn, 34 %",RVU 2025 områdesavsnitt barn
+2025,Barnens RVU,Färdmedel efter område – Mjölkudden/Sunderbyn,Buss,14,%,Områdesspecifik barn-RVU-fördelning; inte jämförbar som harmoniserad flerårsserie,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Mjölkudden/Sunderbyn,Cykel,40,%,Områdesspecifik barn-RVU-fördelning; högsta cykelandelen enligt rapporttexten,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Mjölkudden/Sunderbyn,Skjuts av anhörig,29,%,Områdesspecifik barn-RVU-fördelning; inte jämförbar som harmoniserad flerårsserie,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Mjölkudden/Sunderbyn,Till fots,14,%,Områdesspecifik barn-RVU-fördelning; inte jämförbar som harmoniserad flerårsserie,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Övrigt,Annat,6,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Övrigt,Buss,20,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Övrigt,Cykel,12,%,Explicit diagramvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Övrigt,Skjuts av anhörig,50,%,Explicit diagram- och textvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
+2025,Barnens RVU,Färdmedel efter område – Övrigt,Till fots,13,%,Explicit diagram- och textvärde; områdesspecifikt barn-RVU-resultat,RVU 2025 områdesfigur barn
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Buss,6,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Cykel,20,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
 2025,Barnens RVU,Färdmedel efter ålder 6–8 år,Skjuts av anhörig,52,%,Explicit diagramvärde för barn 6–8 år; barnspecifik åldersuppdelning utan jämförbar flerårsserie,RVU 2025 Graf 48
