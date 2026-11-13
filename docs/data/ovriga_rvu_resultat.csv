@@ -47,6 +47,35 @@ year,theme,variable,category,value,unit,reason,source
 2015,Reserelationer,Målpunkt – Storheden,Bil som förare,71,%,Målpunktsanalysen gäller ett särskilt urval och saknar verifierad jämförbar upprepning,RVU 2015 Tabell 11:12
 2015,Reserelationer,Målpunkt – Sunderby sjukhus,Bil som förare,70,%,Målpunktsanalysen bygger på ett begränsat antal resor och är inte verifierad som återkommande serie,RVU 2015 Tabell 11:12
 2015,Reserelationer,Målpunkt – Sunderby sjukhus,Buss,17,%,Målpunktsanalysen bygger på ett begränsat antal resor och är inte verifierad som återkommande serie,RVU 2015 Tabell 11:12
+2015,Resor efter ärende,Hämta/lämna barn/vuxen,Bil som förare,70,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Hämta/lämna barn/vuxen,Bil som passagerare,5,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Hämta/lämna barn/vuxen,Buss,3,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Hämta/lämna barn/vuxen,Cykel,10,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Hämta/lämna barn/vuxen,Till fots,11,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Hämta/lämna barn/vuxen,Övrigt,0,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Inköp av dagligvaror/övrigt,Bil som förare,50,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Inköp av dagligvaror/övrigt,Bil som passagerare,15,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Inköp av dagligvaror/övrigt,Buss,7,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Inköp av dagligvaror/övrigt,Cykel,11,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Inköp av dagligvaror/övrigt,Till fots,15,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Inköp av dagligvaror/övrigt,Övrigt,1,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Resa i tjänsten/i studierna,Bil som förare,74,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Resa i tjänsten/i studierna,Bil som passagerare,8,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Resa i tjänsten/i studierna,Cykel,6,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Resa i tjänsten/i studierna,Till fots,6,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Resa i tjänsten/i studierna,Övrigt,4,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,"Service (sjukvård, bank etc.)",Bil som förare,39,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,"Service (sjukvård, bank etc.)",Bil som passagerare,5,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,"Service (sjukvård, bank etc.)",Buss,23,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,"Service (sjukvård, bank etc.)",Cykel,7,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,"Service (sjukvård, bank etc.)",Till fots,22,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,"Service (sjukvård, bank etc.)",Övrigt,4,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Till skola/utbildning,Bil som förare,14,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Till skola/utbildning,Bil som passagerare,6,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Till skola/utbildning,Buss,41,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Till skola/utbildning,Cykel,28,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Till skola/utbildning,Till fots,10,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
+2015,Resor efter ärende,Till skola/utbildning,Övrigt,1,%,Färdmedelsfördelning för ett specifikt ärende i RVU 2015; inte verifierad som återkommande jämförbar flerårsserie,RVU 2015 Figur 7:8
 2015,Tillgång,Färdtjänstlegitimation,Har tillgång,2,%,2025 redovisar explicit Nej men inte ett direkt jämförbart Ja-värde som kan användas utan residual,RVU 2015 Figur 4:5
 2020,Bakgrund,Sysselsättning,Arbetssökande,2,%,2015 års exakta stapelvärde kan inte verifieras säkert i tillgängligt underlag,RVU 2020 Graf 1
 2020,Tillgång,Elcykel,Nej,94,%,Frågan var ny 2020; det finns därför inte tre jämförbara mättillfällen,RVU 2020 Tabell 10
