@@ -1242,3 +1242,19 @@ year,theme,variable,category,value,unit,reason,source
 2025,Tillgång,Busskort,Ja,41,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
 2025,Tillgång,Busskort,Ja ibland,16,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
 2025,Tillgång,Busskort,Nej,44,%,Vuxnas tillgång till färdmedel,RVU 2025 Graf 7
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Bil,42,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Bil,53,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Cykel,27,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Cykel,7,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Buss,14,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Buss,25,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Till fots,10,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Till fots,11,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,El-cykel,4,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,El-cykel,1,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,El-sparkcykel,1,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,El-sparkcykel,0,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Annat,3,%,Total för sommarsäsong,RVU 2025 Tabell 2
+2025,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Annat,2,%,Total för vintersäsong,RVU 2025 Tabell 2
+2025,Resvanor,Hållbart resande till/från arbete eller skola,Sommar,56,%,Cykel elcykel buss till fots eller elsparkcykel,RVU 2025 Graf 5
+2025,Resvanor,Hållbart resande till/från arbete eller skola,Vinter,44,%,Cykel elcykel buss till fots eller elsparkcykel,RVU 2025 Graf 5
