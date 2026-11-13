@@ -642,3 +642,69 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Skolskjuts,29,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
 2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Sommar,Buss,6,%,Barnspecifikt skolfärdmedel efter grupp under sommarsäsongen,RVU 2025 Tabell 19
 2025,Barnens RVU,Färdmedel till/från skola – Övrigt – Vinter,Buss,7,%,Barnspecifikt skolfärdmedel efter grupp under vintersäsongen,RVU 2025 Tabell 19
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,För långt avstånd,46,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Tidsbrist på morgonen eller eftermiddagen så det finns inte tid att gå eller cykla / annan förälder kör ändå bil förbi skolan,28,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Finns inga säkra vägar att gå eller cykla på till skolan,24,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Ingen vuxen har möjlighet att följa med,13,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Barnet vill eller orkar inte gå eller cykla,13,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Biltrafik runt skolan skapar otrygghet,5,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Kompisar går eller cyklar inte till skolan,5,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Barnet kan inte cykla,3,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Cykeln riskerar förstöras eller stjälas på skolan,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Barnet har ingen fungerande cykel,1,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Totalt,Annat,17,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,För långt avstånd,43,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Tidsbrist på morgonen eller eftermiddagen så det finns inte tid att gå eller cykla / annan förälder kör ändå bil förbi skolan,33,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Finns inga säkra vägar att gå eller cykla på till skolan,30,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Ingen vuxen har möjlighet att följa med,13,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Barnet vill eller orkar inte gå eller cykla,18,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Biltrafik runt skolan skapar otrygghet,9,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Kompisar går eller cyklar inte till skolan,7,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Barnet kan inte cykla,6,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Cykeln riskerar förstöras eller stjälas på skolan,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Barnet har ingen fungerande cykel,0,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Tjej,Annat,13,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,För långt avstånd,42,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Tidsbrist på morgonen eller eftermiddagen så det finns inte tid att gå eller cykla / annan förälder kör ändå bil förbi skolan,29,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Finns inga säkra vägar att gå eller cykla på till skolan,23,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Ingen vuxen har möjlighet att följa med,13,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Barnet vill eller orkar inte gå eller cykla,8,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Biltrafik runt skolan skapar otrygghet,5,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Kompisar går eller cyklar inte till skolan,0,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Barnet kan inte cykla,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Cykeln riskerar förstöras eller stjälas på skolan,3,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Barnet har ingen fungerande cykel,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – Kille,Annat,17,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,För långt avstånd,37,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Tidsbrist på morgonen eller eftermiddagen så det finns inte tid att gå eller cykla / annan förälder kör ändå bil förbi skolan,47,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Finns inga säkra vägar att gå eller cykla på till skolan,30,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Ingen vuxen har möjlighet att följa med,18,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Barnet vill eller orkar inte gå eller cykla,8,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Biltrafik runt skolan skapar otrygghet,5,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Kompisar går eller cyklar inte till skolan,1,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Barnet kan inte cykla,7,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Cykeln riskerar förstöras eller stjälas på skolan,1,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Barnet har ingen fungerande cykel,0,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 6–8 år,Annat,16,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,För långt avstånd,40,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Tidsbrist på morgonen eller eftermiddagen så det finns inte tid att gå eller cykla / annan förälder kör ändå bil förbi skolan,21,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Finns inga säkra vägar att gå eller cykla på till skolan,30,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Ingen vuxen har möjlighet att följa med,15,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Barnet vill eller orkar inte gå eller cykla,15,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Biltrafik runt skolan skapar otrygghet,9,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Kompisar går eller cyklar inte till skolan,7,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Barnet kan inte cykla,1,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Cykeln riskerar förstöras eller stjälas på skolan,3,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Barnet har ingen fungerande cykel,0,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 9–11 år,Annat,24,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,För långt avstånd,62,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Tidsbrist på morgonen eller eftermiddagen så det finns inte tid att gå eller cykla / annan förälder kör ändå bil förbi skolan,12,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Finns inga säkra vägar att gå eller cykla på till skolan,12,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Ingen vuxen har möjlighet att följa med,4,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Barnet vill eller orkar inte gå eller cykla,17,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Biltrafik runt skolan skapar otrygghet,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Kompisar går eller cyklar inte till skolan,7,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Barnet kan inte cykla,0,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Cykeln riskerar förstöras eller stjälas på skolan,2,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Barnet har ingen fungerande cykel,3,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
+2025,Barnens RVU,Skäl att inte cykla/gå till skolan – 12–15 år,Annat,12,%,Barnspecifikt hinder för aktiv skolresa; flervalsfråga,RVU 2025 Tabell 20
