@@ -312,7 +312,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel vid kompisbesök,Cykel,30,%,Rapporttexten anger explicit cykel som vanligaste färdsätt vid kompisbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedel vid kompisbesök,Skjuts av anhörig,25,%,Rapporttexten anger explicit andelen skjuts vid kompisbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedel vid kompisbesök,Till fots,25,%,Rapporttexten anger explicit gångandelen vid kompisbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
-2025,Barnens RVU,Färdmedelsanvändning,Skjuts av anhörig,38,%,Resultatet gäller barnens resande och saknar jämförbar vuxenserie,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Förflyttning under gårdagen,Gjorde någon förflyttning,94,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
 2025,Barnens RVU,Förflyttning under gårdagen,Ingen förflyttning,6,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
 2025,Barnens RVU,Förflyttning under gårdagen – 12–15 år,Ja,95,%,Barnspecifikt gruppmått från RVU 2025; redovisas separat och inte som harmoniserad flerårsserie,RVU 2025 Tabell 22
@@ -381,9 +380,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Orsak till ingen förflyttning,Annan orsak,17,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Ledig från skolan och inga ärenden,57,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
 2025,Barnens RVU,Orsak till ingen förflyttning,Sjuk,26,%,Explicit redovisad orsak bland barn utan förflyttning; ingen jämförbar flerårsserie,RVU 2025 Graf 44
-2025,Barnens RVU,Reslängd,"1–3,9 km",47,%,Barnspecifikt reslängdsmått utan verifierad jämförbar historik,RVU 2025 Barnens resvaneundersökning
-2025,Barnens RVU,Resor per dag,Helg,2.6,resor,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
-2025,Barnens RVU,Resor per dag,Vardag,3.0,resor,Barnspecifikt mått utan verifierad jämförbar serie över flera RVU-år,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Skjuts av anhörig efter ålder,12–15 år,29,%,"Rapporttexten anger explicit att skjuts av anhörig är minst vanlig bland 12–15-åringar, 29 %",RVU 2025 avsnitt 6.3
 2025,Barnens RVU,Tillgång till färdmedel,Busskort,44,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Tillgång till färdmedel,Cykel – alltid eller ibland,97,%,Barnens RVU är en separat undersökningsdel med annan population än huvud-RVU och ska inte blandas med vuxenserier,RVU 2025 Barnens resvaneundersökning
