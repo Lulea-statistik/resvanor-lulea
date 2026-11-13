@@ -153,6 +153,11 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Barnens reslängdsklasser,10 km eller längre,16,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,"4–9,9 km",20,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
 2025,Barnens RVU,Barnens reslängdsklasser,Under 1 km,17,%,Barnspecifikt reslängdsmått från RVU 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Tabell 25
+2025,Barnens RVU,Barnens ärendefördelning,Besöka kompis,3,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
+2025,Barnens RVU,Barnens ärendefördelning,Besöka släkt,1,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
+2025,Barnens RVU,Barnens ärendefördelning,Hem,13,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
+2025,Barnens RVU,Barnens ärendefördelning,Till affär,6,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
+2025,Barnens RVU,Barnens ärendefördelning,Till nöje,4,%,Barnspecifik ärendefördelning från RVU 2025; ingen harmoniserad flerårsserie,RVU 2025 avsnitt 6.4
 2025,Barnens RVU,Bussandel efter reslängd,10 km eller längre,23,%,Rapporttexten anger explicit bussandelen för resor över 10 km,RVU 2025 avsnitt Reslängd och färdmedel
 2025,Barnens RVU,Bussandel efter reslängd,"4–9,9 km",27,%,"Rapporttexten anger explicit bussandelen upp till 9,9 km",RVU 2025 avsnitt Reslängd och färdmedel
 2025,Barnens RVU,Bussresande efter ålder,12–15 år,29,%,Rapporttexten anger explicit 29 % för 12–15-åringar; ingen residual eller tolkning av övriga kategorier,RVU 2025 avsnitt 6.3
@@ -189,6 +194,11 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Färdmedel till fritidsaktivitet,Skjuts av anhörig,70,%,Rapporttexten anger explicit detta som klart vanligaste färdsättet till fritidsaktivitet,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedel till fritidsaktivitet,Till fots,7,%,Rapporttexten anger explicit att gång är minst vanligt till fritidsaktivitet,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedel till släktbesök,Skjuts av anhörig,46,%,Rapporttexten anger explicit skjuts av anhörig vid släktbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel vid annat ärende,Skjuts av anhörig,43,%,Rapporttexten anger explicit skjutsandelen för kategorin annat,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel vid annat ärende,Till fots,30,%,"Rapporttexten anger explicit att gång är vanligast även för kategorin annat, 30 %",RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel vid kompisbesök,Cykel,30,%,Rapporttexten anger explicit cykel som vanligaste färdsätt vid kompisbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel vid kompisbesök,Skjuts av anhörig,25,%,Rapporttexten anger explicit andelen skjuts vid kompisbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
+2025,Barnens RVU,Färdmedel vid kompisbesök,Till fots,25,%,Rapporttexten anger explicit gångandelen vid kompisbesök,RVU 2025 avsnitt Färdmedelsfördelning – ärenden
 2025,Barnens RVU,Färdmedelsanvändning,Skjuts av anhörig,38,%,Resultatet gäller barnens resande och saknar jämförbar vuxenserie,RVU 2025 Barnens resvaneundersökning
 2025,Barnens RVU,Förflyttning under gårdagen,Gjorde någon förflyttning,94,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
 2025,Barnens RVU,Förflyttning under gårdagen,Ingen förflyttning,6,%,Barnspecifikt engångsmått från 2025; inte del av vuxnas harmoniserade tidsserier,RVU 2025 Graf 45
