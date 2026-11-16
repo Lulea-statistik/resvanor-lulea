@@ -1801,3 +1801,23 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 25 km eller längre,Bil,86,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
 2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 25 km eller längre,Kollektivtrafik,7,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
 2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 25 km eller längre,Cykel,6,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Färdmedel efter bakgrund,Utbildning – Grundskola/Folkskola,Bil,56,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Grundskola/Folkskola,Kollektivtrafik,28,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Grundskola/Folkskola,Cykel,4,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Grundskola/Folkskola,Till fots,12,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Gymnasium/Realskola,Bil,69,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Gymnasium/Realskola,Kollektivtrafik,9,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Gymnasium/Realskola,Cykel,9,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Gymnasium/Realskola,Till fots,12,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Yrkeshögskola/Folkhögskola,Bil,71,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Yrkeshögskola/Folkhögskola,Kollektivtrafik,3,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Yrkeshögskola/Folkhögskola,Cykel,16,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Yrkeshögskola/Folkhögskola,Till fots,9,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Högskola/Universitet,Bil,63,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Högskola/Universitet,Kollektivtrafik,8,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Högskola/Universitet,Cykel,15,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Högskola/Universitet,Till fots,14,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Bil,64,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Kollektivtrafik,7,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Cykel,6,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Till fots,20,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
