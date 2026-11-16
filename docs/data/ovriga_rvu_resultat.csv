@@ -1707,3 +1707,16 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Vardag,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
 2025,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Helg,2,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
 2025,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Totalt,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Huvudfärdmedelsfördelning – Totalt,Bil,65,%,Omräknat huvudfärdmedel,RVU 2025 Tabell 13
+2025,Resvanor,Huvudfärdmedelsfördelning – Totalt,Kollektivtrafik,9,%,Omräknat huvudfärdmedel,RVU 2025 Tabell 13
+2025,Resvanor,Huvudfärdmedelsfördelning – Totalt,Cykel,12,%,Omräknat huvudfärdmedel,RVU 2025 Tabell 13
+2025,Resvanor,Huvudfärdmedelsfördelning – Totalt,Till fots,13,%,Omräknat huvudfärdmedel,RVU 2025 Tabell 13
+2025,Resvanor,Huvudfärdmedelsfördelning – Totalt,Annat,1,%,Omräknat huvudfärdmedel,RVU 2025 Tabell 13
+2025,Resvanor,Huvudfärdmedelsfördelning – Vardag,Bil,63,%,Omräknat huvudfärdmedel för vardagsresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Vardag,Kollektivtrafik,9,%,Omräknat huvudfärdmedel för vardagsresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Vardag,Cykel,13,%,Omräknat huvudfärdmedel för vardagsresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Vardag,Till fots,14,%,Omräknat huvudfärdmedel för vardagsresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Bil,73,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Kollektivtrafik,8,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Cykel,12,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
+2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Till fots,7,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
