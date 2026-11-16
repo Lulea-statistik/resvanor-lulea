@@ -1879,3 +1879,88 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resor efter ärende,Ärendefördelning,Till den egna bostaden,37,%,Detaljerat ärendemått från 2025; kompletterar totalfördelningen,RVU 2025 Graf 30
 2025,Resor efter ärende,Ärendefördelning,Ta mig till egna arbetsplatsen,20,%,Detaljerat ärendemått från 2025; kompletterar totalfördelningen,RVU 2025 Graf 30
 2025,Resor efter ärende,Ärendefördelning,Annat,4,%,Detaljerat ärendemått från 2025; kompletterar totalfördelningen,RVU 2025 Graf 30
+2025,Reslängd,Reslängdsfördelning – Kvinna,Under 1 km,7,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Kvinna,1–3,9 km,38,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Kvinna,4–9,9 km,30,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Kvinna,10–24,9 km,17,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Kvinna,25 km eller längre,8,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Man,Under 1 km,3,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Man,1–3,9 km,34,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Man,4–9,9 km,29,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Man,10–24,9 km,22,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Man,25 km eller längre,13,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 16–24 år,Under 1 km,7,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 16–24 år,1–3,9 km,34,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 16–24 år,4–9,9 km,32,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 16–24 år,10–24,9 km,17,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 16–24 år,25 km eller längre,10,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 25–44 år,Under 1 km,6,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 25–44 år,1–3,9 km,39,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 25–44 år,4–9,9 km,28,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 25–44 år,10–24,9 km,17,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 25–44 år,25 km eller längre,10,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 45–64 år,Under 1 km,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 45–64 år,1–3,9 km,35,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 45–64 år,4–9,9 km,29,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 45–64 år,10–24,9 km,20,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 45–64 år,25 km eller längre,12,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 65–84 år,Under 1 km,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 65–84 år,1–3,9 km,34,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 65–84 år,4–9,9 km,30,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 65–84 år,10–24,9 km,21,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – 65–84 år,25 km eller längre,10,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergnäset,Under 1 km,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergnäset,1–3,9 km,42,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergnäset,4–9,9 km,37,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergnäset,10–24,9 km,13,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergnäset,25 km eller längre,3,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergviken/Porsön,Under 1 km,5,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergviken/Porsön,1–3,9 km,54,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergviken/Porsön,4–9,9 km,30,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergviken/Porsön,10–24,9 km,7,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Bergviken/Porsön,25 km eller längre,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Björkskatan/Lulsundet,Under 1 km,5,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Björkskatan/Lulsundet,1–3,9 km,37,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Björkskatan/Lulsundet,4–9,9 km,45,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Björkskatan/Lulsundet,10–24,9 km,9,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Björkskatan/Lulsundet,25 km eller längre,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Centrum/Östermalm,Under 1 km,11,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Centrum/Östermalm,1–3,9 km,46,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Centrum/Östermalm,4–9,9 km,23,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Centrum/Östermalm,10–24,9 km,15,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Centrum/Östermalm,25 km eller längre,5,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Gammelstad/Sunderbyn,Under 1 km,3,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Gammelstad/Sunderbyn,1–3,9 km,25,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Gammelstad/Sunderbyn,4–9,9 km,31,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Gammelstad/Sunderbyn,10–24,9 km,36,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Gammelstad/Sunderbyn,25 km eller längre,6,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Hertsön/Lerbäcken,Under 1 km,2,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Hertsön/Lerbäcken,1–3,9 km,21,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Hertsön/Lerbäcken,4–9,9 km,52,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Hertsön/Lerbäcken,10–24,9 km,23,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Hertsön/Lerbäcken,25 km eller längre,2,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Landsbygd,Under 1 km,3,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Landsbygd,1–3,9 km,15,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Landsbygd,4–9,9 km,25,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Landsbygd,10–24,9 km,32,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Landsbygd,25 km eller längre,26,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Mjölkudden/Notviken,Under 1 km,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Mjölkudden/Notviken,1–3,9 km,46,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Mjölkudden/Notviken,4–9,9 km,34,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Mjölkudden/Notviken,10–24,9 km,8,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Mjölkudden/Notviken,25 km eller längre,8,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Råneå,Under 1 km,7,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Råneå,1–3,9 km,27,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Råneå,4–9,9 km,12,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Råneå,10–24,9 km,15,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Råneå,25 km eller längre,38,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Sörbyarna,Under 1 km,1,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Sörbyarna,1–3,9 km,19,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Sörbyarna,4–9,9 km,16,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Sörbyarna,10–24,9 km,49,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Sörbyarna,25 km eller längre,16,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,Under 1 km,4,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,1–3,9 km,42,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,4–9,9 km,29,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,10–24,9 km,15,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,25 km eller längre,9,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
