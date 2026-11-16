@@ -1765,3 +1765,23 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Kollektivtrafik,12,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
 2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Cykel,13,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
 2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Till fots,8,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Färdmedel efter bakgrund,Kvinna,Bil,59,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Kvinna,Kollektivtrafik,11,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Kvinna,Cykel,13,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Kvinna,Till fots,15,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Man,Bil,72,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Man,Kollektivtrafik,6,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Man,Cykel,11,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Man,Till fots,10,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 25
+2025,Färdmedel efter bakgrund,Ålder 25–44 år,Bil,61,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 25–44 år,Kollektivtrafik,12,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 25–44 år,Cykel,12,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 25–44 år,Till fots,14,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 45–64 år,Bil,69,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 45–64 år,Kollektivtrafik,5,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 45–64 år,Cykel,14,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 45–64 år,Till fots,10,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 65–84 år,Bil,70,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 65–84 år,Kollektivtrafik,5,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 65–84 år,Cykel,10,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Färdmedel efter bakgrund,Ålder 65–84 år,Till fots,14,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
