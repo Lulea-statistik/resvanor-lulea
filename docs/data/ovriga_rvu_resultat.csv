@@ -1732,3 +1732,36 @@ year,theme,variable,category,value,unit,reason,source
 2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Kollektivtrafik,8,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
 2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Cykel,10,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
 2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Till fots,15,%,Detaljerad hushållsuppdelning från RVU 2025; litet Annat-segment saknar utskriven procentsiffra,RVU 2025 Graf 23
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergnäset,Bil,78,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergnäset,Kollektivtrafik,3,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergnäset,Cykel,7,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergnäset,Till fots,11,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergviken/Porsön,Bil,44,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergviken/Porsön,Kollektivtrafik,12,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergviken/Porsön,Cykel,20,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Bergviken/Porsön,Till fots,23,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Björkskatan/Lulsundet,Bil,58,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Björkskatan/Lulsundet,Kollektivtrafik,9,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Björkskatan/Lulsundet,Cykel,21,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Björkskatan/Lulsundet,Till fots,10,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Centrum/Östermalm,Bil,49,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Centrum/Östermalm,Kollektivtrafik,9,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Centrum/Östermalm,Cykel,14,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Centrum/Östermalm,Till fots,27,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Gammelstad/Sunderbyn,Bil,78,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Gammelstad/Sunderbyn,Kollektivtrafik,10,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Gammelstad/Sunderbyn,Cykel,7,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Gammelstad/Sunderbyn,Till fots,4,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Mjölkudden/Notviken,Bil,61,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Mjölkudden/Notviken,Kollektivtrafik,8,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Mjölkudden/Notviken,Cykel,19,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Mjölkudden/Notviken,Till fots,11,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Råneå,Bil,69,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Råneå,Kollektivtrafik,6,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Råneå,Cykel,5,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Råneå,Till fots,16,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Råneå,Annat,3,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Bil,64,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Kollektivtrafik,12,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Cykel,13,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
+2025,Resvanor,Huvudfärdmedelsfördelning efter område – Örnäset/Skurholmen/mfl,Till fots,8,%,Områdesspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 24
