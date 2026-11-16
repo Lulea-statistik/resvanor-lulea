@@ -1653,3 +1653,57 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Funktionshinder,4,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
 2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Hemarbete/hemmastudier,14,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
 2025,Resvanor,Orsak till ingen förflyttning – vuxna – Örnäset/Skurholmen/mfl,Annat,0,%,Gruppuppdelning bland respondenter som inte rest under gårdagen,RVU 2025 Tabell 10
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Totalt,Vardag,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Totalt,Helg,1.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Totalt,Totalt,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Kvinna,Vardag,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Kvinna,Helg,1.9,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Kvinna,Totalt,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Man,Vardag,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Man,Helg,1.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Man,Totalt,2.3,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 16–24 år,Vardag,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 16–24 år,Helg,2.1,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 16–24 år,Totalt,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 25–44 år,Vardag,3.1,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 25–44 år,Helg,1.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 25–44 år,Totalt,2.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 45–64 år,Vardag,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 45–64 år,Helg,1.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 45–64 år,Totalt,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 65–84 år,Vardag,2,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 65–84 år,Helg,1.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – 65–84 år,Totalt,1.9,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Bergnäset,Vardag,2.7,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Bergnäset,Helg,1.2,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Bergnäset,Totalt,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Bergviken/Porsön,Vardag,2.7,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Bergviken/Porsön,Helg,2.1,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Bergviken/Porsön,Totalt,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Björkskatan/Lulsundet,Vardag,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Björkskatan/Lulsundet,Helg,2.3,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Björkskatan/Lulsundet,Totalt,2.3,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Centrum/Östermalm,Vardag,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Centrum/Östermalm,Helg,1.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Centrum/Östermalm,Totalt,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Gammelstad/Sunderbyn,Vardag,2.3,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Gammelstad/Sunderbyn,Helg,1.1,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Gammelstad/Sunderbyn,Totalt,2.1,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Hertsön/Lerbäcken,Vardag,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Hertsön/Lerbäcken,Helg,1.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Hertsön/Lerbäcken,Totalt,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Landsbygd,Vardag,2.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Landsbygd,Helg,2,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Landsbygd,Totalt,2.6,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Mjölkudden/Notviken,Vardag,2.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Mjölkudden/Notviken,Helg,2.3,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Mjölkudden/Notviken,Totalt,2.7,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Råneå,Vardag,2.8,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Råneå,Helg,0.7,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Råneå,Totalt,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Vardag,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Helg,1.9,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Totalt,2.3,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Vardag,2.5,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Helg,2,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
+2025,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Totalt,2.4,resor/dag,Genomsnittligt antal resor per dag,RVU 2025 Tabell 11
