@@ -1720,3 +1720,15 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Kollektivtrafik,8,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
 2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Cykel,12,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
 2025,Resvanor,Huvudfärdmedelsfördelning – Helg,Till fots,7,%,Omräknat huvudfärdmedel för helgresor,RVU 2025 Graf 22
+2025,Färdmedel efter bakgrund,Hemmaboende barn under 10 år,Bil,72,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn under 10 år,Kollektivtrafik,8,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn under 10 år,Cykel,10,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn under 10 år,Till fots,9,%,Detaljerad hushållsuppdelning från RVU 2025; litet Annat-segment saknar utskriven procentsiffra,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn mellan 11–17 år,Bil,71,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn mellan 11–17 år,Kollektivtrafik,9,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn mellan 11–17 år,Cykel,11,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Hemmaboende barn mellan 11–17 år,Till fots,8,%,Detaljerad hushållsuppdelning från RVU 2025; litet Annat-segment saknar utskriven procentsiffra,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Bil,65,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Kollektivtrafik,8,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Cykel,10,%,Detaljerad hushållsuppdelning från RVU 2025,RVU 2025 Graf 23
+2025,Färdmedel efter bakgrund,Sammanboende vuxna utan barn,Till fots,15,%,Detaljerad hushållsuppdelning från RVU 2025; litet Annat-segment saknar utskriven procentsiffra,RVU 2025 Graf 23
