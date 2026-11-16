@@ -1876,3 +1876,6 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Kollektivtrafik,7,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
 2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Till fots,20,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
 2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Annat,5,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resor efter ärende,Ärendefördelning,Till den egna bostaden,37,%,Detaljerat ärendemått från 2025; kompletterar totalfördelningen,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Ta mig till egna arbetsplatsen,20,%,Detaljerat ärendemått från 2025; kompletterar totalfördelningen,RVU 2025 Graf 30
+2025,Resor efter ärende,Ärendefördelning,Annat,4,%,Detaljerat ärendemått från 2025; kompletterar totalfördelningen,RVU 2025 Graf 30
