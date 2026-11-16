@@ -1785,3 +1785,19 @@ year,theme,variable,category,value,unit,reason,source
 2025,Färdmedel efter bakgrund,Ålder 65–84 år,Kollektivtrafik,5,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
 2025,Färdmedel efter bakgrund,Ålder 65–84 år,Cykel,10,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
 2025,Färdmedel efter bakgrund,Ålder 65–84 år,Till fots,14,%,Detaljerad gruppuppdelning från RVU 2025; litet Annat-segment utan utskriven procentsiffra lämnas utanför,RVU 2025 Graf 26
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – Under 1 km,Bil,15,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – Under 1 km,Cykel,17,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – Under 1 km,Till fots,65,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 1–3,9 km,Bil,51,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 1–3,9 km,Kollektivtrafik,7,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 1–3,9 km,Cykel,21,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 1–3,9 km,Till fots,21,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 4–9,9 km,Bil,71,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 4–9,9 km,Kollektivtrafik,11,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 4–9,9 km,Cykel,12,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 4–9,9 km,Till fots,6,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 10–24,9 km,Bil,86,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 10–24,9 km,Kollektivtrafik,10,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 25 km eller längre,Bil,86,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 25 km eller längre,Kollektivtrafik,7,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
+2025,Resvanor,Huvudfärdmedelsfördelning efter reslängd – 25 km eller längre,Cykel,6,%,Reslängdsspecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 27
