@@ -1821,3 +1821,58 @@ year,theme,variable,category,value,unit,reason,source
 2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Kollektivtrafik,7,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
 2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Cykel,6,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
 2025,Färdmedel efter bakgrund,Utbildning – Annan utbildning,Till fots,20,%,Huvudfärdmedelsfördelning efter högsta avslutade utbildning; endast direkt etiketterade segment,RVU 2025 Graf 28
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Ta mig till egna arbetsplatsen,Bil,59,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Ta mig till egna arbetsplatsen,Kollektivtrafik,12,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Ta mig till egna arbetsplatsen,Cykel,19,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Ta mig till egna arbetsplatsen,Till fots,10,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till motion/friluftsliv,Bil,55,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till motion/friluftsliv,Cykel,16,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till motion/friluftsliv,Till fots,24,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till föreningsliv t.ex. idrott,Bil,69,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till föreningsliv t.ex. idrott,Kollektivtrafik,10,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till föreningsliv t.ex. idrott,Cykel,11,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till föreningsliv t.ex. idrott,Till fots,11,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Nöje (t.ex. bio, dans, restaurang),Bil,61,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Nöje (t.ex. bio, dans, restaurang),Kollektivtrafik,9,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Nöje (t.ex. bio, dans, restaurang),Cykel,16,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Nöje (t.ex. bio, dans, restaurang),Till fots,14,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka släkt och vänner,Bil,80,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka släkt och vänner,Kollektivtrafik,6,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka släkt och vänner,Cykel,5,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka släkt och vänner,Till fots,9,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Resa/ärende i tjänsten,Bil,76,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Resa/ärende i tjänsten,Kollektivtrafik,4,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Resa/ärende i tjänsten,Cykel,6,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Resa/ärende i tjänsten,Till fots,7,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Resa/ärende i tjänsten,Annat,7,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till skola/utbildning,Bil,27,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till skola/utbildning,Kollektivtrafik,45,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till skola/utbildning,Cykel,12,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till skola/utbildning,Till fots,15,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till den egna bostaden,Bil,64,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till den egna bostaden,Kollektivtrafik,9,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till den egna bostaden,Cykel,13,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Till den egna bostaden,Till fots,13,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta/lämna barn,Bil,80,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta/lämna barn,Cykel,10,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta/lämna barn,Till fots,9,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Inköp av livsmedel,Bil,72,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Inköp av livsmedel,Kollektivtrafik,4,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Inköp av livsmedel,Cykel,11,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Inköp av livsmedel,Till fots,13,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat inköp,Bil,80,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat inköp,Cykel,6,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat inköp,Till fots,13,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka vårdcentral/sjukhus/tandvård,Bil,73,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka vårdcentral/sjukhus/tandvård,Kollektivtrafik,5,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka vårdcentral/sjukhus/tandvård,Cykel,9,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka vårdcentral/sjukhus/tandvård,Till fots,7,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Besöka vårdcentral/sjukhus/tandvård,Annat,7,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta ut paket,Bil,67,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta ut paket,Kollektivtrafik,10,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta ut paket,Cykel,10,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Hämta ut paket,Till fots,14,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Bil,67,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Kollektivtrafik,7,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Till fots,20,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
+2025,Resvanor,Huvudfärdmedelsfördelning efter ärende – Annat,Annat,5,%,Ärendespecifik huvudfärdmedelsfördelning; endast direkt etiketterade segment,RVU 2025 Graf 29
