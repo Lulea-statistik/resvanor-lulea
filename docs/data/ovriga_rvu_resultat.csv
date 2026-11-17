@@ -2107,3 +2107,11 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Annat,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
 2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Annat,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
 2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Annat,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resor efter ärende,Ärendefördelning efter ålder – 16–24 år,Ta mig till egna arbetsplatsen,20,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 16–24 år,Till skola/utbildning,37,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 25–44 år,Ta mig till egna arbetsplatsen,38,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 45–64 år,Ta mig till egna arbetsplatsen,44,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 65–84 år,Ta mig till egna arbetsplatsen,9,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 65–84 år,Inköp av livsmedel,18,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 65–84 år,Till motion/friluftsliv,14,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
+2025,Resor efter ärende,Ärendefördelning efter ålder – 65–84 år,Annat inköp,13,%,Explicit värde i rapporttexten,RVU 2025 Graf 32
