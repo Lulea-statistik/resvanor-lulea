@@ -2438,3 +2438,15 @@ year,theme,variable,category,value,unit,reason,source
 2020,Reslängd,Medianreslängd efter färdsätt,Buss,5,km,Explicit angivet i rapporttexten; 2020 redovisar buss medan 2025 redovisar bredare kollektivtrafik,RVU 2020 Graf 50
 2020,Reslängd,Medianreslängd efter färdsätt,Cykel,2,km,Explicit angivet i rapporttexten,RVU 2020 Graf 50
 2020,Reslängd,Medianreslängd efter färdsätt,Till fots,1,km,Explicit angivet i rapporttexten,RVU 2020 Graf 50
+2015,Reslängd,Medianreslängd efter kön,Man,6,km,Explicit publicerat 2015-värde; jämförbart med 2020 års könsuppdelning,RVU 2015 Figur 9:4
+2015,Reslängd,Medianreslängd efter kön,Kvinna,5,km,Explicit publicerat 2015-värde; jämförbart med 2020 års könsuppdelning,RVU 2015 Figur 9:4
+2015,Reslängd,Medianreslängd efter ålder,16-30 år,5,km,Explicit publicerat 2015-värde; åldersgrupperna överensstämmer med 2020,RVU 2015 Figur 9:5
+2015,Reslängd,Medianreslängd efter ålder,31-44 år,6,km,Explicit publicerat 2015-värde; åldersgrupperna överensstämmer med 2020,RVU 2015 Figur 9:5
+2015,Reslängd,Medianreslängd efter ålder,45-64 år,6,km,Explicit publicerat 2015-värde; åldersgrupperna överensstämmer med 2020,RVU 2015 Figur 9:5
+2015,Reslängd,Medianreslängd efter ålder,65-84 år,6,km,Explicit publicerat 2015-värde; åldersgrupperna överensstämmer med 2020,RVU 2015 Figur 9:5
+2020,Reslängd,Medianreslängd efter kön,Man,5,km,Explicit publicerat 2020-värde; direkt jämförbart med 2015,RVU 2020 Graf 53
+2020,Reslängd,Medianreslängd efter kön,Kvinna,4,km,Explicit publicerat 2020-värde; direkt jämförbart med 2015,RVU 2020 Graf 53
+2020,Reslängd,Medianreslängd efter ålder,16-30 år,4,km,Explicit publicerat 2020-värde; direkt jämförbart med 2015,RVU 2020 Graf 54
+2020,Reslängd,Medianreslängd efter ålder,31-44 år,5,km,Explicit publicerat 2020-värde; direkt jämförbart med 2015,RVU 2020 Graf 54
+2020,Reslängd,Medianreslängd efter ålder,45-64 år,5,km,Åldersetiketten normaliseras till 45-64 år; rapporttextens '45-84' är en uppenbar felskrivning eftersom rapportens övriga åldersindelning använder 45-64 och 65-84,RVU 2020 Graf 54
+2020,Reslängd,Medianreslängd efter ålder,65-84 år,4,km,Explicit publicerat 2020-värde; direkt jämförbart med 2015,RVU 2020 Graf 54
