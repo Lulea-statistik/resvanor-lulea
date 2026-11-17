@@ -2427,3 +2427,9 @@ year,theme,variable,category,value,unit,reason,source
 2020,Barnens RVU,Färdmedel efter ärende – Annat,Cykel,10,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
 2020,Barnens RVU,Färdmedel efter ärende – Annat,Till fots,18,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
 2020,Barnens RVU,Färdmedel efter ärende – Annat,Annat,5,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Barnens ärendefördelning,Till bostaden,45,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
+2020,Barnens RVU,Barnens ärendefördelning,Till skola,28,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
+2020,Barnens RVU,Barnens ärendefördelning,Till affär,4,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
+2020,Barnens RVU,Barnens ärendefördelning,Besöka släkt/vänner,7,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
+2020,Barnens RVU,Barnens ärendefördelning,Fritid/nöje,13,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
+2020,Barnens RVU,Barnens ärendefördelning,Annat,3,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
