@@ -2212,3 +2212,17 @@ year,theme,variable,category,value,unit,reason,source
 2020,Resvanor,Genomsnittligt antal resor – vuxna – Totalt,Vardag,2.2,resor/dag,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 11
 2020,Resvanor,Genomsnittligt antal resor – vuxna – Totalt,Helg,1.7,resor/dag,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 11
 2020,Resvanor,Genomsnittligt antal resor – vuxna – Totalt,Totalt,2.1,resor/dag,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 11
+2020,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Bil,41,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Bil,52,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Cykel,46,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Cykel,10,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Buss,10,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Buss,24,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Till fots,9,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Till fots,12,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Sommar,El-cykel,2,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Vinter,El-cykel,1,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Sommar,Annat,2,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Färdmedel till/från arbete eller skola – Vinter,Annat,1,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Tabell 2
+2020,Resvanor,Hållbart resande till/från arbete eller skola,Sommar,57,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Graf 5
+2020,Resvanor,Hållbart resande till/från arbete eller skola,Vinter,47,%,2020 års jämförelsevärde; mätningen genomfördes under Covid-19,RVU 2025 Graf 5
