@@ -2065,3 +2065,45 @@ year,theme,variable,category,value,unit,reason,source
 2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
 2025,Reslängd,Reslängdsklass,Under 1 km,5,%,Fördelning över reslängdsklasser i 2025 års RVU,RVU 2025 Tabell 15
 2025,Reslängd,Reslängdsklass,"1–3,9 km",36,%,Fördelning över reslängdsklasser i 2025 års RVU,RVU 2025 Tabell 15
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Till fots,18,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Till fots,19,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Till fots,14,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Cykel,11,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Cykel,11,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Cykel,13,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,El-cykel,2,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,El-cykel,2,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,El-cykel,2,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,El-sparkcykel,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,El-sparkcykel,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,El-sparkcykel,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Moped,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Moped,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Moped,1,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Motorcykel,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Motorcykel,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Motorcykel,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Bil som förare,55,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Bil som förare,55,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Bil som förare,56,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Bil som passagerare,10,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Bil som passagerare,9,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Bil som passagerare,19,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Buss,9,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Buss,9,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Buss,8,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Tåg,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Tåg,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Tåg,1,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Taxi,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Taxi,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Taxi,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Färdtjänst,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Färdtjänst,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Färdtjänst,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Flyg,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Flyg,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Flyg,1,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Totalt,Annat,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Annat,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
+2025,Resvanor,Detaljerad färdmedelsfördelning – Helg,Annat,0,%,Flervalsbaserad detaljerad färdmedelsfördelning; hålls separat från huvudfärdmedel,RVU 2025 Tabell 12
