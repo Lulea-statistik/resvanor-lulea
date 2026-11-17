@@ -2344,3 +2344,33 @@ year,theme,variable,category,value,unit,reason,source
 2020,Barnens RVU,Skäl att inte gå/cykla till skolan efter skolavstånd – Under 1 km,Annat,45,%,Verifierat publicerat 2020-värde; barnundersökning ej viktad,RVU 2020 Tabell 34
 2020,Barnens RVU,Skäl att inte gå/cykla till skolan efter skolavstånd – 1–3 km,Annat,48,%,Verifierat publicerat 2020-värde; barnundersökning ej viktad,RVU 2020 Tabell 34
 2020,Barnens RVU,Skäl att inte gå/cykla till skolan efter skolavstånd – Över 3 km,Annat,8,%,Verifierat publicerat 2020-värde; barnundersökning ej viktad,RVU 2020 Tabell 34
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Bergnäset,Helg,1.3,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Bergnäset,Vardag,2.2,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Bergnäset,Totalt,2.0,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Björkskatan/Lulsundet,Helg,1.8,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Björkskatan/Lulsundet,Vardag,2.2,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Björkskatan/Lulsundet,Totalt,2.1,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Centrum,Helg,1.6,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Centrum,Vardag,2.0,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Centrum,Totalt,1.9,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Gammelstad/Sunderbyn,Helg,1.3,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Gammelstad/Sunderbyn,Vardag,2.4,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Gammelstad/Sunderbyn,Totalt,2.1,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Hertsön/Lerbäcken,Helg,1.9,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Hertsön/Lerbäcken,Vardag,2.4,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Hertsön/Lerbäcken,Totalt,2.2,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Mjölkudden/Notviken,Helg,1.9,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Mjölkudden/Notviken,Vardag,2.6,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Mjölkudden/Notviken,Totalt,2.0,resor/dag,Publicerat originalvärde; källan är rimlighetsflaggad eftersom delkolumnerna inte förklarar totalen och värdet får inte omräknas,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Porsön/Bergviken,Helg,2.0,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Porsön/Bergviken,Vardag,2.4,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Porsön/Bergviken,Totalt,2.3,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Råneå,Helg,1.7,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Råneå,Vardag,1.9,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Råneå,Totalt,1.8,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Helg,2.0,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Vardag,2.4,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Örnäset/Skurholmen/mfl,Totalt,2.3,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Helg,1.9,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Vardag,2.5,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Totalt,2.3,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
