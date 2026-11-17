@@ -2236,3 +2236,15 @@ year,theme,variable,category,value,unit,reason,source
 2025,Bakgrund,Åldersfördelning efter kön – Kvinna,25–44 år,31,%,Viktad åldersfördelning inom kön,RVU 2025 Tabell 1
 2025,Bakgrund,Åldersfördelning efter kön – Kvinna,45–64 år,29,%,Viktad åldersfördelning inom kön,RVU 2025 Tabell 1
 2025,Bakgrund,Åldersfördelning efter kön – Kvinna,65–84 år,26,%,Viktad åldersfördelning inom kön,RVU 2025 Tabell 1
+2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Bil som förare,56,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Bil som förare,51,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Bil som passagerare,9,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Bil som passagerare,17,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Buss,9,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Buss,11,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Cykel,13,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Cykel,7,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Till fots,12,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Till fots,13,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Övrigt,1,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Övrigt,1,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
