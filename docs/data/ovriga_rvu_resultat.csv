@@ -2144,3 +2144,55 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Skjuts av förälder i bil – Ja,62,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
 2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Skjuts av förälder i bil – Ja ibland,29,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
 2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Skjuts av förälder i bil – Nej,9,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Reslängdsfördelning – Totalt,Under 1 km,17,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Totalt,1–3,9 km,47,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Totalt,4–9,9 km,20,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Totalt,10 km eller längre,16,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Tjej,Under 1 km,19,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Tjej,1–3,9 km,48,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Tjej,4–9,9 km,20,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Tjej,10 km eller längre,13,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Kille,Under 1 km,18,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Kille,1–3,9 km,47,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Kille,4–9,9 km,17,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Kille,10 km eller längre,18,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 6–8 år,Under 1 km,22,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 6–8 år,1–3,9 km,44,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 6–8 år,4–9,9 km,21,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 6–8 år,10 km eller längre,13,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 9–11 år,Under 1 km,18,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 9–11 år,1–3,9 km,51,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 9–11 år,4–9,9 km,17,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 9–11 år,10 km eller längre,14,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 12–15 år,Under 1 km,13,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 12–15 år,1–3,9 km,46,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 12–15 år,4–9,9 km,21,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – 12–15 år,10 km eller längre,19,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergnäset/Kallax,Under 1 km,12,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergnäset/Kallax,1–3,9 km,42,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergnäset/Kallax,4–9,9 km,27,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergnäset/Kallax,10 km eller längre,19,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergviken-Rutvik,Under 1 km,18,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergviken-Rutvik,1–3,9 km,54,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergviken-Rutvik,4–9,9 km,20,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Bergviken-Rutvik,10 km eller längre,7,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Björkskatan-Bensbyn,Under 1 km,13,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Björkskatan-Bensbyn,1–3,9 km,46,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Björkskatan-Bensbyn,4–9,9 km,31,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Björkskatan-Bensbyn,10 km eller längre,10,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Centrum,Under 1 km,16,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Centrum,1–3,9 km,62,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Centrum,4–9,9 km,14,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Centrum,10 km eller längre,8,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Malmudden/Kronan,Under 1 km,18,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Malmudden/Kronan,1–3,9 km,55,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Malmudden/Kronan,4–9,9 km,18,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Malmudden/Kronan,10 km eller längre,9,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Mjölkudden-Sunderbyn,Under 1 km,22,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Mjölkudden-Sunderbyn,1–3,9 km,48,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Mjölkudden-Sunderbyn,4–9,9 km,19,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Mjölkudden-Sunderbyn,10 km eller längre,12,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Övrigt,Under 1 km,16,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Övrigt,1–3,9 km,27,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Övrigt,4–9,9 km,12,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2025,Barnens RVU,Reslängdsfördelning – Övrigt,10 km eller längre,45,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
