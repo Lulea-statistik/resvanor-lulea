@@ -2196,3 +2196,16 @@ year,theme,variable,category,value,unit,reason,source
 2025,Barnens RVU,Reslängdsfördelning – Övrigt,1–3,9 km,27,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
 2025,Barnens RVU,Reslängdsfördelning – Övrigt,4–9,9 km,12,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
 2025,Barnens RVU,Reslängdsfördelning – Övrigt,10 km eller längre,45,%,Barnspecifik reslängdsfördelning,RVU 2025 Tabell 25
+2020,Resvanor,Huvudfärdmedelsfördelning – Totalt,Bil,66,%,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 13
+2020,Resvanor,Huvudfärdmedelsfördelning – Totalt,Kollektivtrafik,9,%,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 13
+2020,Resvanor,Huvudfärdmedelsfördelning – Totalt,Cykel,12,%,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 13
+2020,Resvanor,Huvudfärdmedelsfördelning – Totalt,Till fots,12,%,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 13
+2020,Resvanor,Huvudfärdmedelsfördelning – Totalt,Annat,1,%,2020 års mätning gjordes under Covid-19; jämförelse bör göras med försiktighet,RVU 2025 Tabell 13
+2020,Resor efter ärende,Ärendefördelning,Till den egna bostaden,41,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Ta mig till egna arbetsplatsen,17,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Inköp av livsmedel,13,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Hämta/lämna barn,4,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Resa/ärende i tjänsten,3,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Nöje (t.ex. bio, dans, restaurang),8,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Till skola/utbildning,3,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
+2020,Resor efter ärende,Ärendefördelning,Hämta ut paket,10,%,Svarsalternativen skiljer sig något 2020; jämförelse bör göras med försiktighet,RVU 2025 Tabell 14
