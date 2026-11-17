@@ -2127,3 +2127,9 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resor efter ärende,Ärendefördelning efter reslängd – 25 km eller längre,Ta mig till egna arbetsplatsen,42,%,Explicit värde i rapporttexten,RVU 2025 Graf 33
 2025,Resor efter ärende,Ärendefördelning efter reslängd – Under 1 km,Inköp av livsmedel,20,%,Explicit värde i rapporttexten,RVU 2025 Graf 33
 2025,Resor efter ärende,Ärendefördelning efter reslängd – 25 km eller längre,Inköp av livsmedel,6,%,Explicit värde i rapporttexten,RVU 2025 Graf 33
+2025,Resor efter ärende,Ärendefördelning efter kön – Kvinna,Ta mig till egna arbetsplatsen,32,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
+2025,Resor efter ärende,Ärendefördelning efter kön – Kvinna,Inköp av livsmedel,14,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
+2025,Resor efter ärende,Ärendefördelning efter kön – Kvinna,Till motion/friluftsliv,9,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
+2025,Resor efter ärende,Ärendefördelning efter kön – Man,Ta mig till egna arbetsplatsen,31,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
+2025,Resor efter ärende,Ärendefördelning efter kön – Man,Inköp av livsmedel,13,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
+2025,Resor efter ärende,Ärendefördelning efter kön – Man,Till motion/friluftsliv,9,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
