@@ -382,3 +382,6 @@ year,indicator,indicator_label,category,value,unit,comparability,status_label,me
 2015,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,78,%,direct,Direkt jämförbar,Härlett transparent som 41 % gratis + 37 % mot avgift.,RVU 2015
 2020,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,86,%,direct,Direkt jämförbar,Härlett transparent som 42 % gratis + 44 % mot avgift.,RVU 2020
 2025,workplace_parking_any,Tillgång till parkering vid arbete/skola – någon parkering,Någon parkering,76,%,direct,Direkt jämförbar,Härlett transparent som 40 % gratis + 36 % mot avgift.,RVU 2025
+
+2015,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Sällan,4,%,direct,Direkt jämförbar,Samma fråga och svarsskala som 2020 och 2025.,RVU 2020 Graf 15
+2020,commute_frequency,Hur ofta resor görs till/från arbete eller skola,Sällan,6,%,direct,Direkt jämförbar,Samma fråga och svarsskala; covid-19 kan ha påverkat nivån.,RVU 2020 Graf 15
