@@ -2374,3 +2374,13 @@ year,theme,variable,category,value,unit,reason,source
 2020,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Helg,1.9,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
 2020,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Vardag,2.5,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
 2020,Resvanor,Genomsnittligt antal resor – vuxna – Sörbyarna,Totalt,2.3,resor/dag,Publicerat och text-/bildkontrollerat 2020-värde; total ska inte räknas om från vardag/helg,RVU 2020 Tabell 17
+2020,Reserelationer,Cykelresor – rad 1,Inom Bergviken/Porsön,19,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 2,Centrum/Östermalm↔Bergnäset,11,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 3,Centrum/Östermalm↔Bergviken/Porsön,10,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 4,Mjölkudden/Notviken↔Centrum/Östermalm,6,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 5,Örnäset/Skurholmen/mfl↔Bergviken/Porsön,6,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 6,Inom Gammelstad/Sunderbyn,5,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 7,Centrum/Östermalm↔Bergnäset,5,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 8,Inom Björkskatan/Lulsundet,5,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 9,Centrum/Östermalm↔Björkskatan/Lulsundet,4,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Reserelationer,Cykelresor – rad 10,Örnäset/Skurholmen/mfl↔Bergviken/Porsön,3,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
