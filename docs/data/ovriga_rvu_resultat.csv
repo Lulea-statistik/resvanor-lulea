@@ -1964,3 +1964,17 @@ year,theme,variable,category,value,unit,reason,source
 2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,4–9,9 km,29,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
 2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,10–24,9 km,15,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
 2025,Reslängd,Reslängdsfördelning – Örnäset/Skurholmen/mfl,25 km eller längre,9,%,Gruppspecifik fördelning av reslängd,RVU 2025 Tabell 15
+2025,Reslängd,Medianreslängd per ärende,Ta mig till egna arbetsplatsen,5,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Till motion/friluftsliv,4,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Till föreningsliv t.ex. idrott,3,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Nöje (t.ex. bio, dans, restaurang),5,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Besöka släkt och vänner,6,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Resa/ärende i tjänsten,10,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Till skola/utbildning,4,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Till den egna bostaden,5,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Hämta/lämna barn,4,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Inköp av livsmedel,4,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Annat inköp,5,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Besöka vårdcentral/sjukhus/tandvård,8,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Hämta ut paket,3,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reslängd,Medianreslängd per ärende,Annat,5,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
