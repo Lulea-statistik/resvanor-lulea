@@ -2384,3 +2384,11 @@ year,theme,variable,category,value,unit,reason,source
 2020,Reserelationer,Cykelresor – rad 8,Inom Björkskatan/Lulsundet,5,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
 2020,Reserelationer,Cykelresor – rad 9,Centrum/Östermalm↔Björkskatan/Lulsundet,4,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
 2020,Reserelationer,Cykelresor – rad 10,Örnäset/Skurholmen/mfl↔Bergviken/Porsön,3,%,Verifierat publicerat värde; radnummer bevaras eftersom två relationsetiketter förekommer dubbelt med olika värden,RVU 2020 Tabell 24
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Till arbete,29,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Resa/ärende i tjänsten,5,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Utbildning/Skola,5,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Hämta/lämna barn/annan person,7,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Inköp / hämta paket,21,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Vårdbesök,2,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Fritid/nöje,13,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Annat,17,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
