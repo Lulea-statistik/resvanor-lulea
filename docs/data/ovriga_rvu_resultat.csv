@@ -1978,3 +1978,89 @@ year,theme,variable,category,value,unit,reason,source
 2025,Reslängd,Medianreslängd per ärende,Besöka vårdcentral/sjukhus/tandvård,8,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
 2025,Reslängd,Medianreslängd per ärende,Hämta ut paket,3,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
 2025,Reslängd,Medianreslängd per ärende,Annat,5,km,Medianreslängd per ärendetyp,RVU 2025 Graf 37
+2025,Reserelationer,Inom Centrum/Östermalm,Andel av samtliga resor,10,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Centrum/Östermalm,Bil,34,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Centrum/Östermalm,Kollektivtrafik,4,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Centrum/Östermalm,Cykel,20,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Centrum/Östermalm,Till fots,41,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Centrum/Östermalm,Övrigt,1,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergviken/Porsön,Andel av samtliga resor,6,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergviken/Porsön,Bil,47,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergviken/Porsön,Kollektivtrafik,5,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergviken/Porsön,Cykel,23,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergviken/Porsön,Till fots,24,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergviken/Porsön,Övrigt,1,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Gammelstad/Sunderbyn,Kollektivtrafik,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Gammelstad/Sunderbyn,Cykel,12,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Gammelstad/Sunderbyn,Till fots,5,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Gammelstad/Sunderbyn,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Andel av samtliga resor,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Bil,45,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Kollektivtrafik,16,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Cykel,21,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Till fots,17,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Övrigt,1,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Örnäset/Skurholmen/mfl,Andel av samtliga resor,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Örnäset/Skurholmen/mfl,Bil,66,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Örnäset/Skurholmen/mfl,Kollektivtrafik,7,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Örnäset/Skurholmen/mfl,Cykel,15,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Örnäset/Skurholmen/mfl,Till fots,11,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Örnäset/Skurholmen/mfl,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Landsbygd,Andel av samtliga resor,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Landsbygd,Bil,82,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Landsbygd,Kollektivtrafik,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Landsbygd,Cykel,1,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Landsbygd,Till fots,9,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Landsbygd,Övrigt,4,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Andel av samtliga resor,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Bil,51,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Kollektivtrafik,18,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Cykel,22,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Till fots,7,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Övrigt,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Andel av samtliga resor,3,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Bil,68,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Cykel,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Till fots,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Mjölkudden/Notviken,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Mjölkudden/Notviken,Bil,68,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Mjölkudden/Notviken,Kollektivtrafik,7,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Mjölkudden/Notviken,Cykel,8,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Mjölkudden/Notviken,Till fots,17,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Mjölkudden/Notviken,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Bil,77,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Kollektivtrafik,5,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Cykel,16,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Till fots,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Landsbygd ↔ Centrum/Östermalm,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Landsbygd ↔ Centrum/Östermalm,Bil,82,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Landsbygd ↔ Centrum/Östermalm,Kollektivtrafik,4,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Landsbygd ↔ Centrum/Östermalm,Cykel,11,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Landsbygd ↔ Centrum/Östermalm,Till fots,4,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Landsbygd ↔ Centrum/Östermalm,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergnäset,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergnäset,Bil,83,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergnäset,Kollektivtrafik,6,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergnäset,Cykel,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergnäset,Till fots,9,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Bergnäset,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Mjölkudden/Notviken ↔ Centrum/Östermalm,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Mjölkudden/Notviken ↔ Centrum/Östermalm,Bil,42,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Mjölkudden/Notviken ↔ Centrum/Östermalm,Kollektivtrafik,10,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Mjölkudden/Notviken ↔ Centrum/Östermalm,Till fots,13,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Mjölkudden/Notviken ↔ Centrum/Östermalm,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Björkskatan/Lulsundet,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Björkskatan/Lulsundet,Bil,71,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Björkskatan/Lulsundet,Kollektivtrafik,4,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Björkskatan/Lulsundet,Cykel,17,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Björkskatan/Lulsundet,Till fots,8,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Inom Björkskatan/Lulsundet,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Andel av samtliga resor,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Bil,81,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Kollektivtrafik,17,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Cykel,2,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Till fots,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
+2025,Reserelationer,Gammelstad/Sunderbyn ↔ Bergviken/Porsön,Övrigt,0,%,Relationsspecifikt mått från de 15 vanligaste reserelationerna,RVU 2025 Tabell 16
