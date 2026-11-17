@@ -2133,3 +2133,14 @@ year,theme,variable,category,value,unit,reason,source
 2025,Resor efter ärende,Ärendefördelning efter kön – Man,Ta mig till egna arbetsplatsen,31,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
 2025,Resor efter ärende,Ärendefördelning efter kön – Man,Inköp av livsmedel,13,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
 2025,Resor efter ärende,Ärendefördelning efter kön – Man,Till motion/friluftsliv,9,%,Direkt etiketterat stapelsegment,RVU 2025 Graf 31
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Cykel – Ja,91,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Cykel – Ja ibland,6,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Cykel – Nej,3,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Moped – Nej,96,%,Endast direkt utskriven svarskategori används,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Mopedbil/EPA/A-traktor – Nej,98,%,Endast direkt utskriven svarskategori används,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Busskort – Ja,37,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Busskort – Ja ibland,13,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Busskort – Nej,50,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Skjuts av förälder i bil – Ja,62,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Skjuts av förälder i bil – Ja ibland,29,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
+2025,Barnens RVU,Tillgång till färdmedel – svarskategorier,Skjuts av förälder i bil – Nej,9,%,Separata svarskategorier på totalnivå,RVU 2025 Graf 40
