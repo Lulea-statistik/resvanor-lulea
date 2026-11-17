@@ -2433,3 +2433,8 @@ year,theme,variable,category,value,unit,reason,source
 2020,Barnens RVU,Barnens ärendefördelning,Besöka släkt/vänner,7,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
 2020,Barnens RVU,Barnens ärendefördelning,Fritid/nöje,13,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
 2020,Barnens RVU,Barnens ärendefördelning,Annat,3,%,Barnspecifik ärendefördelning från RVU 2020; kategorierna skiljer sig delvis från 2025 och jämförs därför inte som en direkt harmoniserad tidsserie,RVU 2020 Graf 75
+2020,Reslängd,Medianreslängd efter färdsätt,Bil som passagerare,6,km,Explicit angivet i rapporttexten; detaljerad 2020-kategori och inte direkt sammanslagen med 2025 års bredare Bil-kategori,RVU 2020 Graf 50
+2020,Reslängd,Medianreslängd efter färdsätt,Bil som förare,5,km,Explicit angivet i rapporttexten; detaljerad 2020-kategori och inte direkt sammanslagen med 2025 års bredare Bil-kategori,RVU 2020 Graf 50
+2020,Reslängd,Medianreslängd efter färdsätt,Buss,5,km,Explicit angivet i rapporttexten; 2020 redovisar buss medan 2025 redovisar bredare kollektivtrafik,RVU 2020 Graf 50
+2020,Reslängd,Medianreslängd efter färdsätt,Cykel,2,km,Explicit angivet i rapporttexten,RVU 2020 Graf 50
+2020,Reslängd,Medianreslängd efter färdsätt,Till fots,1,km,Explicit angivet i rapporttexten,RVU 2020 Graf 50
