@@ -2392,3 +2392,38 @@ year,theme,variable,category,value,unit,reason,source
 2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Vårdbesök,2,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
 2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Fritid/nöje,13,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
 2020,Resor efter ärende,Ärendefördelning exklusive resor till bostaden,Annat,17,%,Verifierat publicerat 2020-värde,RVU 2020 Graf 42
+2020,Barnens RVU,Färdmedel efter ärende – Till bostaden,Bil,38,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till bostaden,Buss,14,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till bostaden,Cykel,33,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till bostaden,Till fots,14,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till bostaden,Annat,1,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till skola,Bil,20,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till skola,Buss,20,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till skola,Moped,1,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till skola,Cykel,41,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till skola,Till fots,17,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till skola,Annat,1,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till affär,Bil,43,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till affär,Buss,11,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till affär,Moped,2,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till affär,Cykel,30,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till affär,Till fots,14,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Till affär,Annat,0,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Besöka släkt/vänner,Bil,29,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Besöka släkt/vänner,Buss,6,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Besöka släkt/vänner,Moped,1,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Besöka släkt/vänner,Cykel,46,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Besöka släkt/vänner,Till fots,16,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Besöka släkt/vänner,Annat,3,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Fritid/nöje,Bil,75,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Fritid/nöje,Buss,4,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Fritid/nöje,Moped,1,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Fritid/nöje,Cykel,16,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Fritid/nöje,Till fots,4,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Fritid/nöje,Annat,0,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Annat,Bil,55,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Annat,Buss,10,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Annat,Moped,3,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Annat,Cykel,10,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Annat,Till fots,18,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
+2020,Barnens RVU,Färdmedel efter ärende – Annat,Annat,5,%,Endast explicit publicerade procentetiketter används; oetiketterade segment lämnas saknade,RVU 2020 Graf 74
