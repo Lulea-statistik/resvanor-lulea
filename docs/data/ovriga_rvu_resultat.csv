@@ -2248,3 +2248,66 @@ year,theme,variable,category,value,unit,reason,source
 2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Till fots,13,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
 2020,Resvanor,Detaljerad färdmedelsfördelning – Vardag,Övrigt,1,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
 2020,Resvanor,Detaljerad färdmedelsfördelning – Helg,Övrigt,1,%,Publicerat 2020-värde; direkt kontrollerat mot Tabell 18,RVU 2020 Tabell 18
+2020,Reserelationer,Inom Centrum/Östermalm,Andel av samtliga resor,8,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Centrum/Östermalm,Bil som förare,34,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Centrum/Östermalm,Bil som passagerare,7,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Centrum/Östermalm,Buss,1,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Centrum/Östermalm,Cykel,17,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Centrum/Östermalm,Till fots,36,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Centrum/Östermalm,Övrigt,5,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Andel av samtliga resor,8,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Bil som förare,63,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Bil som passagerare,16,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Buss,9,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Cykel,8,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Till fots,5,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Gammelstad/Sunderbyn,Övrigt,0,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Andel av samtliga resor,6,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Bil som förare,56,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Bil som passagerare,7,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Buss,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Cykel,10,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Till fots,23,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Örnäset/Skurholmen/mfl,Övrigt,1,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Andel av samtliga resor,6,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Bil som förare,35,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Bil som passagerare,10,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Buss,30,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Cykel,20,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Till fots,4,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Centrum/Östermalm ↔ Bergviken/Porsön,Övrigt,1,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Andel av samtliga resor,5,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Bil som förare,64,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Bil som passagerare,5,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Buss,8,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Cykel,7,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Till fots,15,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Centrum/Östermalm,Övrigt,0,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Andel av samtliga resor,4,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Bil som förare,48,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Bil som passagerare,16,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Buss,29,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Cykel,2,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Till fots,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Gammelstad/Sunderbyn ↔ Centrum/Östermalm,Övrigt,2,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Andel av samtliga resor,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Bil som förare,52,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Bil som passagerare,13,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Buss,12,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Cykel,7,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Till fots,13,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Hertsön/Lerbäcken,Övrigt,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Andel av samtliga resor,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Bil som förare,56,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Bil som passagerare,20,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Buss,12,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Cykel,9,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Till fots,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Örnäset/Skurholmen/mfl ↔ Bergviken/Porsön,Övrigt,0,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Andel av samtliga resor,3,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Bil som förare,51,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Bil som passagerare,10,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Buss,5,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Cykel,20,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Till fots,15,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
+2020,Reserelationer,Inom Björkskatan/Lulsundet,Övrigt,0,%,Verifierat publicerat värde; nio relationer redovisas trots tabellrubrikens tio,RVU 2020 Tabell 21
