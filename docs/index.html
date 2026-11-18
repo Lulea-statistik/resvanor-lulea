@@ -5,22 +5,28 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Resvanor i Luleå 2000–2025</title>
   <meta name="description" content="Harmoniserade indikatorer från Luleås resvaneundersökningar 2000–2025.">
+  <link rel="icon" type="image/x-icon" href="https://lulea-statistik.github.io/BR-brottsstatistik/kommun-favicon.ico?v=2">
   <link rel="stylesheet" href="styles.css">
   <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 </head>
 <body>
   <header class="hero">
-    <div class="wrap">
+    <div class="wrap hero-content">
+      <img class="lulea-brand-logo" src="https://lulea-statistik.github.io/BR-brottsstatistik/lulea-kommun-mark.png?v=3" alt="Luleå kommun">
+      <div class="hero-copy">
       <p class="eyebrow">Luleå kommun · resvaneundersökningar</p>
       <h1>Resvanor i Luleå 2000–2025</h1>
       <p class="lead">Interaktiva, harmoniserade tidsserier med tydlig markering av metodreservationer.</p>
       <p class="page-links"><a href="ovriga-resultat.html">Övriga RVU-resultat som inte bör tolkas som tidsserier →</a></p>
+      </div>
     </div>
   </header>
 
   <main class="wrap">
     <section class="controls" aria-label="Filter">
       <label>Indikator
+        <input id="indicator-search" class="select-search" type="search" placeholder="Sök bland indikatorer…" autocomplete="off" aria-label="Sök indikator" aria-describedby="indicator-search-hint">
+        <span id="indicator-search-hint" class="select-search-hint" aria-live="polite"></span>
         <select id="indicator"></select>
       </label>
       <label>Kategori
@@ -118,6 +124,7 @@
   <footer class="wrap footer">
     <p>Källor: Luleå kommuns resvaneundersökningar 2000–2025. Harmonisering och metodklassning redovisas i datafilen.</p>
   </footer>
+  <script src="searchable-select.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
