@@ -24,9 +24,12 @@ function splitLine(line){
   for(let i=0;i<line.length;i++){const c=line[i];if(c==='"'){if(q&&line[i+1]==='"'){cur+='"';i++}else q=!q}else if(c===','&&!q){out.push(cur);cur=''}else cur+=c}out.push(cur);return out;
 }
 function uniq(a){return [...new Set(a)]}
+let searchableIndicator;
 function fillIndicators(){
   const labels=new Map(rows.map(r=>[r.indicator,r.indicator_label]));
   els.indicator.innerHTML=[...labels].map(([v,l])=>`<option value="${v}">${l}</option>`).join('');
+  searchableIndicator=searchableIndicator || window.setupSearchableSelect('indicator','indicator-search');
+  searchableIndicator?.refresh();
 }
 function fillCategories(){
   const i=els.indicator.value;const cats=uniq(rows.filter(r=>r.indicator===i).map(r=>r.category));
@@ -64,7 +67,7 @@ function render(){
 }
 els.indicator.addEventListener('change',()=>{fillCategories();render()});
 els.category.addEventListener('change',render);els.status.addEventListener('change',render);
-els.reset.addEventListener('click',()=>{els.indicator.selectedIndex=0;els.status.value='all';fillCategories();render()});
+els.reset.addEventListener('click',()=>{searchableIndicator?.clear();els.indicator.selectedIndex=0;els.status.value='all';fillCategories();render()});
 function renderCoverage(){
   if(!rows.length||!els.coverageTable)return;
   const labels=new Map(rows.map(r=>[r.indicator,r.indicator_label]));

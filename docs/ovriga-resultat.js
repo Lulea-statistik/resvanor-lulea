@@ -18,6 +18,7 @@ const parseCSV = text => {
 };
 
 let data=[];
+let searchableVariable;
 const theme=document.getElementById("theme");
 const variable=document.getElementById("variable");
 const year=document.getElementById("year");
@@ -53,11 +54,13 @@ fetch("data/ovriga_rvu_resultat.csv")
     data=parseCSV(text);
     fillSelect(theme,[...new Set(data.map(r=>r.theme))].sort(),"Alla teman");
     fillSelect(variable,[...new Set(data.map(r=>r.variable))].sort(),"Alla variabler");
+    searchableVariable=window.setupSearchableSelect("variable","variable-search");
     fillSelect(year,[...new Set(data.map(r=>r.year))].sort(),"Alla år");
     render();
   });
 
 [theme,variable,year].forEach(el=>el.addEventListener("change",render));
 document.getElementById("reset").addEventListener("click",()=>{
+  searchableVariable?.clear();
   theme.value=variable.value=year.value="all"; render();
 });
