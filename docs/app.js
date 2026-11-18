@@ -67,7 +67,7 @@ function render(){
 }
 els.indicator.addEventListener('change',()=>{fillCategories();render()});
 els.category.addEventListener('change',render);els.status.addEventListener('change',render);
-els.reset.addEventListener('click',()=>{searchableIndicator?.clear();els.indicator.selectedIndex=0;els.status.value='all';fillCategories();render()});
+els.reset.addEventListener('click',()=>{searchableIndicator?.clear();els.indicator.selectedIndex=0;searchableIndicator?.refresh();els.status.value='all';fillCategories();render()});
 function renderCoverage(){
   if(!rows.length||!els.coverageTable)return;
   const labels=new Map(rows.map(r=>[r.indicator,r.indicator_label]));
