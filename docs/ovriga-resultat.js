@@ -62,5 +62,5 @@ fetch("data/ovriga_rvu_resultat.csv")
 [theme,variable,year].forEach(el=>el.addEventListener("change",render));
 document.getElementById("reset").addEventListener("click",()=>{
   searchableVariable?.clear();
-  theme.value=variable.value=year.value="all"; render();
+  theme.value=variable.value=year.value="all"; searchableVariable?.refresh(); render();
 });
