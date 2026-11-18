@@ -23,3 +23,19 @@ main{padding:24px 0 40px}.controls{display:grid;grid-template-columns:2fr 1.4fr 
 .controls .select-search:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .controls .select-search-hint{display:block;font-size:.78rem;font-weight:400;color:var(--muted);min-height:0}
 @media(max-width:600px){.hero-content{gap:12px;align-items:flex-start}.lulea-brand-logo{width:60px;max-height:90px}}
+
+/* Identical RVU headers on both pages; preserve the original start-page header height. */
+.hero{padding:34px 0 28px}
+.hero-content{min-height:176px;align-items:center}
+.lulea-brand-logo{display:block;width:100px;max-width:100px;max-height:115px;flex:0 0 100px;object-fit:contain;object-position:center}
+.rvu-page-nav{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:14px}
+.rvu-page-nav a{display:inline-block;padding:7px 13px;border:1px solid var(--line);border-radius:7px;color:var(--accent);background:#fff;font-weight:700;text-decoration:none}
+.rvu-page-nav a:hover,.rvu-page-nav a:focus-visible{border-color:var(--accent);background:#eef4f8}
+.rvu-page-nav a[aria-current="page"]{background:#005aa7;border-color:#005aa7;color:#fff}
+@media(max-width:600px){
+  .hero{padding:24px 0 20px}
+  .hero-content{min-height:0;align-items:center}
+  .lulea-brand-logo{width:64px;max-width:64px;max-height:85px;flex-basis:64px}
+  .rvu-page-nav{gap:6px}
+  .rvu-page-nav a{padding:7px 9px;font-size:.86rem}
+}
